@@ -1,0 +1,442 @@
+"id","prf_type","name","caption","rarity","level","ttl","core_monster_id","quest_map_id","group_id","treasure_level","stage","finder_start_point","member_limit"
+1,1,"Pumpking",,1,1,3,40001,4,9999,19,1,1000,9999
+2,1,"Pumpking",,1,1,3,40002,4,9999,19,1,1000,9999
+3,1,"Pumpking",,1,1,3,40003,4,9999,19,1,1000,9999
+4,1,"Pumpking",,1,1,3,40004,4,9999,19,1,1000,9999
+5,1,"Pumpking",,1,1,3,40005,4,9999,19,1,1000,9999
+6,2,"L'autre monde gris",,1,1,3,40007,0,0,7,1,1000,9999
+7,2,"L'autre monde gris",,1,1,3,40007,1,0,8,2,1000,9999
+8,2,"L'autre monde gris",,1,1,3,40007,2,0,9,3,1000,9999
+9,2,"L'autre monde gris",,1,1,3,40007,3,0,10,4,1000,9999
+10,2,"L'autre monde gris",,10,1,12,40006,0,0,11,5,1000,9999
+11,2,"L'autre monde gris",,10,1,12,40006,1,0,12,6,1000,9999
+12,2,"L'autre monde gris",,10,1,12,40006,2,0,13,7,1000,9999
+13,2,"L'autre monde gris",,10,1,12,40006,3,0,14,8,1000,9999
+14,2,"L'autre monde gris",,1,1,3,40008,0,0,15,9,1000,9999
+15,2,"L'autre monde gris",,1,1,3,40008,1,0,16,10,1000,9999
+16,2,"L'autre monde gris",,1,1,3,40008,2,0,17,11,1000,9999
+17,2,"L'autre monde gris",,1,1,3,40008,3,0,18,12,1000,9999
+18,1,"L'autre monde gris",,1,1,3,40009,4,0,15,9,1000,9999
+19,1,"L'autre monde gris",,1,1,3,40009,4,0,16,10,1000,9999
+20,1,"L'autre monde gris",,1,1,3,40009,4,0,17,11,1000,9999
+21,1,"L'autre monde gris",,1,1,3,40009,4,0,18,12,1000,9999
+22,1,"Rareté 1",,1,1,3,40027,4,9999,32,11,1000,9999
+23,1,"Rareté 2",,2,1,3,40028,4,9999,33,12,2000,9999
+24,1,"Rareté 3",,3,1,3,40029,4,9999,32,11,3000,9999
+25,1,"Rareté 4",,4,1,3,40030,4,9999,33,12,4000,9999
+26,1,"Rareté 5",,5,1,3,40013,4,9999,19,5,5000,9999
+27,1,"Rareté 6",,6,1,3,40012,4,9999,19,6,6000,9999
+28,1,"Rareté 7",,7,1,3,40013,4,9999,19,7,7000,9999
+29,1,"Rareté 8",,8,1,3,40012,4,9999,29,8,8000,9999
+30,1,"Rareté 9",,9,1,3,40013,4,9999,30,9,9000,9999
+31,1,"Rareté 10",,10,1,3,40012,4,9999,31,10,10000,9999
+32,1,"Alice",,1,1,12,40019,4,9999,32,11,0,9999
+33,1,"Béatrice",,1,1,12,40020,4,9999,33,12,0,9999
+34,1,"W.M. Queen","Monstre géant en forme de pastèque. Nombre limite d'invitations possibles : Illimité",1,1,24,40040,2,9999,3061,4,0,9999
+35,1,"W.M. Queen","Monstre géant en forme de pastèque. Nombre limite d'invitations possibles : Illimité",1,1,24,40040,4,9999,3062,4,0,9999
+36,1,"W.M. Queen","Monstre géant en forme de pastèque. Nombre limite d'invitations possibles : Illimité",1,1,24,40040,6,9999,3063,4,0,9999
+37,1,"W.M. Queen","Monstre géant en forme de pastèque. Nombre limite d'invitations possibles : Illimité",1,1,24,40040,8,9999,3064,4,0,9999
+38,1,"W.M. Queen","Monstre géant en forme de pastèque. Nombre limite d'invitations possibles : Illimité",1,1,24,40040,10,9999,3065,4,0,9999
+39,2,"Géant de cacao","Ancienne statue en forme de tête humaine. Nombre limite d'invitations possibles : Illimité",1,1,24,40128,10,9999,39,4,0,9999
+1000,1,"Hurlement Rouge 1","Énorme monstre qui dévore les esprits.",1,1,6,40021,5,100,1000,2,9000,9999
+1001,1,"Hurlement Noir 1","Énorme monstre qui dévore les esprits.",1,1,6,40022,5,100,1001,2,9000,9999
+1002,1,"Reine Isolée 1","Survivant des vampires que l'on disait disparus.",1,1,3,40018,6,100,1002,2,1500,9999
+1003,1,"Reine Isolée 2","Survivant des vampires que l'on disait disparus.",1,1,3,40018,6,100,1003,2,1500,9999
+1004,1,"Reine Isolée 3","Survivant des vampires que l'on disait disparus.",1,1,3,40018,6,100,1004,2,1500,9999
+1005,1,"Hurlement Rouge","Énorme monstre qui dévore les esprits.",1,1,6,40021,5,100,1005,2,9000,9999
+1006,1,"Hurlement Noir ","Énorme monstre qui dévore les esprits.",1,1,6,40022,5,100,1006,2,9000,9999
+1007,1,"Hurlement Bleu","Énorme monstre qui dévore les esprits.",1,1,6,40023,5,100,1007,2,9000,9999
+1008,1,"Reine Isolée","Survivant des vampires que l'on disait disparus.",1,1,3,40018,6,100,1008,2,1500,9999
+1009,1,"Reine Isolée","Survivant des vampires que l'on disait disparus.",1,1,3,40018,6,100,1009,2,1500,9999
+1010,1,"Hurlement Rouge","Énorme monstre qui dévore les esprits.",1,1,3,40024,5,100,1010,2,1500,9999
+1011,1,"Hurlement Noir ","Énorme monstre qui dévore les esprits.",1,1,3,40025,5,100,1011,2,1500,9999
+1012,1,"Hurlement Rouge","Énorme monstre qui dévore les esprits.",1,1,3,40024,5,100,1012,2,1500,9999
+1013,1,"Hurlement Noir ","Énorme monstre qui dévore les esprits.",1,1,3,40025,5,100,1013,2,1500,9999
+1014,1,"Hurlement Rouge","Énorme monstre qui dévore les esprits.",1,1,3,40024,5,100,1014,2,1500,9999
+1015,1,"Hurlement Noir ","Énorme monstre qui dévore les esprits.",1,1,3,40025,5,100,1015,2,1500,9999
+1016,2,"Hurlement Rouge","Énorme monstre qui dévore les esprits.",1,1,6,40021,5,100,1016,2,9000,9999
+1017,2,"Hurlement Noir ","Énorme monstre qui dévore les esprits.",1,1,6,40022,6,100,1017,2,9000,9999
+1018,2,"Hurlement Bleu","Énorme monstre qui dévore les esprits.",1,1,6,40023,7,100,1018,2,9000,9999
+1019,2,"Hurlement Rouge","Énorme monstre qui dévore les esprits.",1,1,6,40021,8,100,1019,2,9000,9999
+1020,2,"Hurlement Noir ","Énorme monstre qui dévore les esprits.",1,1,6,40022,9,100,1020,2,9000,9999
+1021,2,"Hurlement Rouge","Énorme monstre qui dévore les esprits.",1,1,3,40024,10,100,1021,2,1500,9999
+1022,2,"Hurlement Noir ","Énorme monstre qui dévore les esprits.",1,1,3,40025,11,100,1022,2,1500,9999
+1023,2,"Hurlement Rouge","Énorme monstre qui dévore les esprits.",1,1,3,40026,5,100,1023,2,1500,9999
+1024,2,"Hurlement Rouge","Énorme monstre qui dévore les esprits.",1,1,3,40024,6,100,1024,2,1500,9999
+1025,2,"Hurlement Noir ","Énorme monstre qui dévore les esprits.",1,1,3,40025,7,100,1025,2,1500,9999
+1026,2,"Hurlement Rouge","Énorme monstre qui dévore les esprits.",1,1,3,40026,8,100,1026,2,1500,9999
+1027,2,"Hurlement Rouge","Énorme monstre qui dévore les esprits.",1,1,3,40024,9,100,1027,2,1500,9999
+1028,2,"Hurlement Noir ","Énorme monstre qui dévore les esprits.",1,1,3,40025,10,100,1028,2,1500,9999
+1029,2,"Hurlement Rouge","Énorme monstre qui dévore les esprits.",1,1,3,40026,11,100,1029,2,1500,9999
+1030,2,"Hurlement Rouge","Énorme monstre qui dévore les esprits.",1,1,3,40024,5,100,1030,2,1500,9999
+1031,2,"Reine Isolée 1","Survivant des vampires que l'on disait disparus.",1,1,3,40018,7,100,1031,2,1500,9999
+1032,2,"Reine Isolée 2","Survivant des vampires que l'on disait disparus.",1,1,3,40018,8,100,1032,2,1500,9999
+1033,2,"Reine Isolée 3","Survivant des vampires que l'on disait disparus.",1,1,3,40018,9,100,1033,2,1500,9999
+1034,2,"Reine Isolée 1","Survivant des vampires que l'on disait disparus.",1,1,3,40018,10,100,1034,2,1500,9999
+1035,2,"Reine Isolée 2","Survivant des vampires que l'on disait disparus.",1,1,3,40018,11,100,1035,2,1500,9999
+1036,1,"Celui qui dévore","Ver Géant qui dévore le Monde.",1,1,3,40029,1,101,1036,6,1500,9999
+1037,1,"Celui qui dévore","Ver Géant qui dévore le Monde.",1,1,3,40029,2,101,1037,6,1500,9999
+1038,1,"Celui qui dévore","Ver Géant qui dévore le Monde.",1,1,3,40029,3,101,1038,6,1500,9999
+1039,1,"Celui qui dévore","Ver Géant qui dévore le Monde.",1,1,3,40029,4,101,1039,6,1500,9999
+1040,1,"Reine Isolée","La survie des vampires qui ont été dites pour être éteint.",1,1,3,40018,6,101,1040,2,1500,9999
+1041,1,"Reine Isolée","La survie des vampires qui ont été dites pour être éteint.",1,1,3,40018,6,101,1041,2,1500,9999
+1042,1,"Reine Isolée","La survie des vampires qui ont été dites pour être éteint.",1,1,3,40018,6,101,1042,2,1500,9999
+1043,1,"Reine Isolée","La survie des vampires qui ont été dites pour être éteint.",1,1,3,40018,6,101,1043,2,1500,9999
+1044,2,"Celui qui dévore","Ver Géant qui dévore le Monde.",1,1,3,40029,10,100,1044,2,1500,9999
+1045,2,"Celui qui dévore","Ver Géant qui dévore le Monde.",1,1,3,40029,11,100,1045,2,1500,9999
+1046,2,"Celui qui dévore","Ver Géant qui dévore le Monde.",1,1,3,40029,5,100,1046,2,1500,9999
+1047,2,"Celui qui dévore","Ver Géant qui dévore le Monde.",1,1,3,40029,6,100,1047,2,1500,9999
+1048,2,"Celui qui dévore","Ver Géant qui dévore le Monde.",1,1,3,40029,7,100,1048,2,1500,9999
+1049,1,"Ceux des Profondeurs","Ils contrôlent les monstres marins. Ils viennent lentement détruire la ville maléfique, s'infiltrant sous les rayons de la lune, cachés dans la brume. Possibilité de trouver des Perles Blanches.",1,1,3,40033,0,102,1049,2,1350,9999
+1050,1,"Ceux des Profondeurs","Ils contrôlent les monstres marins. Ils viennent lentement détruire la ville maléfique, s'infiltrant sous les rayons de la lune, cachés dans la brume. Possibilité de trouver des Perles Noires.",1,1,3,40033,0,102,1050,2,1350,9999
+1051,2,"Ceux des Profondeurs","Ils contrôlent les monstres marins. Ils viennent lentement détruire la ville maléfique, s'infiltrant sous les rayons de la lune, cachés dans la brume.",1,1,3,40033,10,100,1051,2,1500,9999
+1052,2,"Ceux des Profondeurs","Ils contrôlent les monstres marins. Ils viennent lentement détruire la ville maléfique, s'infiltrant sous les rayons de la lune, cachés dans la brume.",1,1,3,40033,11,100,1052,2,1500,9999
+1053,2,"Ceux des Profondeurs","Ils contrôlent les monstres marins. Ils viennent lentement détruire la ville maléfique, s'infiltrant sous les rayons de la lune, cachés dans la brume.",1,1,3,40033,5,100,1053,2,1500,9999
+1054,2,"Ceux des Profondeurs","Ils contrôlent les monstres marins. Ils viennent lentement détruire la ville maléfique, s'infiltrant sous les rayons de la lune, cachés dans la brume.",1,1,3,40033,6,100,1054,2,1500,9999
+1055,2,"Ceux des Profondeurs","Ils contrôlent les monstres marins. Ils viennent lentement détruire la ville maléfique, s'infiltrant sous les rayons de la lune, cachés dans la brume.",1,1,3,40033,7,100,1055,2,1500,9999
+1056,1,"Empereur des Citrouilles","Enorme monstre en forme de citrouille.",1,1,6,40035,10,103,1056,5,3000,9999
+1057,1,"Empereur des Citrouilles","Enorme monstre en forme de citrouille.",1,1,6,40035,9,103,1057,6,3000,9999
+1058,1,"Empereur des Citrouilles","Enorme monstre en forme de citrouille.",1,1,6,40035,8,103,1058,7,3000,9999
+1059,1,"Empereur des Citrouilles","Enorme monstre en forme de citrouille.",1,1,6,40035,7,103,1059,8,3000,9999
+1060,1,"Empereur des Citrouilles","Enorme monstre en forme de citrouille.",1,1,6,40035,6,103,1060,9,3000,9999
+1061,1,"Tâche Ingrate","Monstrueuse tortue portant sur sa carapace une montagne enneigée",1,1,6,40038,1,101,1061,2,3000,9999
+1062,1,"Tâche Ingrate","Monstrueuse tortue portant sur sa carapace une montagne enneigée",1,1,6,40038,2,101,1062,2,3000,9999
+1063,1,"Tâche Ingrate","Monstrueuse tortue portant sur sa carapace une montagne enneigée",1,1,6,40038,3,101,1063,2,3000,9999
+1064,1,"Tâche Ingrate","Monstrueuse tortue portant sur sa carapace une montagne enneigée",1,1,6,40038,4,101,1064,2,3000,9999
+1065,1,"Tâche Ingrate","Monstrueuse tortue portant sur sa carapace une montagne enneigée",1,1,6,40038,5,101,1065,2,3000,9999
+1066,2,"Tâche Ingrate","Monstrueuse tortue portant sur sa carapace une montagne enneigée",1,1,6,40038,1,100,1066,2,3000,9999
+1067,2,"Tâche Ingrate","Monstrueuse tortue portant sur sa carapace une montagne enneigée",1,1,6,40038,2,100,1067,2,3000,9999
+1068,2,"Tâche Ingrate","Monstrueuse tortue portant sur sa carapace une montagne enneigée",1,1,6,40038,3,100,1068,2,3000,9999
+1069,2,"Tâche Ingrate","Monstrueuse tortue portant sur sa carapace une montagne enneigée",1,1,6,40038,4,100,1069,2,3000,9999
+1070,2,"Tâche Ingrate","Monstrueuse tortue portant sur sa carapace une montagne enneigée",1,1,6,40038,5,100,1070,2,3000,9999
+1071,1,"W.M. Noble","Monstre géant en forme de pastèque. Nombre limite d'invitations possibles : 10 personnes",1,1,6,40042,1,104,1071,2,2250,10
+1072,1,"W.M. Noble","Monstre géant en forme de pastèque. Nombre limite d'invitations possibles : 10 personnes",1,1,6,40042,2,104,1072,2,2250,10
+1073,1,"W.M. Noble","Monstre géant en forme de pastèque. Nombre limite d'invitations possibles : 10 personnes",1,1,6,40042,3,104,1073,2,2250,10
+1074,1,"W.M. Noble","Monstre géant en forme de pastèque. Nombre limite d'invitations possibles : 10 personnes",1,1,6,40042,4,104,1074,2,2250,10
+1075,1,"W.M. Noble","Monstre géant en forme de pastèque. Nombre limite d'invitations possibles : 10 personnes",1,1,6,40042,5,104,1075,2,2250,10
+1076,2,"La mort Rouge","Énorme monstre qui dévore les esprits. Nombre limite d'invitations possibles : 10 personnes",1,1,3,40110,1,105,1076,1,1650,10
+1077,2,"La mort Rouge","Énorme monstre qui dévore les esprits. Nombre limite d'invitations possibles : 10 personnes",1,1,3,40110,2,105,1077,2,1650,10
+1078,2,"La mort Rouge","Énorme monstre qui dévore les esprits. Nombre limite d'invitations possibles : 10 personnes",1,1,3,40110,3,105,1078,3,1650,10
+1079,2,"La mort Rouge","Énorme monstre qui dévore les esprits. Nombre limite d'invitations possibles : 10 personnes",1,1,3,40110,4,105,1079,4,1650,10
+1080,2,"La mort Rouge","Énorme monstre qui dévore les esprits. Nombre limite d'invitations possibles : 10 personnes",1,1,3,40110,5,105,1080,5,1650,10
+1081,2,"Celui qui dévore","Ver Géant qui dévore le Monde. Nombre limite d'invitations possibles : 10 personnes",1,1,3,40115,6,105,1081,1,1650,10
+1082,2,"Celui qui dévore","Ver Géant qui dévore le Monde. Nombre limite d'invitations possibles : 10 personnes",1,1,3,40115,7,105,1082,2,1650,10
+1083,2,"Celui qui dévore","Ver Géant qui dévore le Monde. Nombre limite d'invitations possibles : 10 personnes",1,1,3,40115,8,105,1083,3,1650,10
+1084,2,"Celui qui dévore","Ver Géant qui dévore le Monde. Nombre limite d'invitations possibles : 10 personnes",1,1,3,40115,9,105,1084,4,1650,10
+1085,2,"Celui qui dévore","Ver Géant qui dévore le Monde. Nombre limite d'invitations possibles : 10 personnes",1,1,3,40115,10,105,1085,5,1650,10
+1086,2,"Ceux des Profondeurs","Ils contrôlent les monstres marins. Nombre limite d'invitations possibles : 10 personnes",1,1,3,40118,11,105,1086,1,1500,10
+1087,2,"Ceux des Profondeurs","Ils contrôlent les monstres marins. Nombre limite d'invitations possibles : 10 personnes",1,1,3,40118,1,105,1087,2,1500,10
+1088,2,"Ceux des Profondeurs","Ils contrôlent les monstres marins. Nombre limite d'invitations possibles : 10 personnes",1,1,3,40118,2,105,1088,3,1500,10
+1089,2,"Ceux des Profondeurs","Ils contrôlent les monstres marins. Nombre limite d'invitations possibles : 10 personnes",1,1,3,40118,3,105,1089,4,1500,10
+1090,2,"Ceux des Profondeurs","Ils contrôlent les monstres marins. Nombre limite d'invitations possibles : 10 personnes",1,1,3,40118,4,105,1090,5,1500,10
+1091,2,"Tâche Ingrate","Monstrueuse tortue portant sur sa carapace une montagne enneigée. Nombre limite d'invitations possibles : 10 personnes",1,1,3,40121,5,105,1091,1,3600,10
+1092,2,"Tâche Ingrate","Monstrueuse tortue portant sur sa carapace une montagne enneigée. Nombre limite d'invitations possibles : 10 personnes",1,1,3,40121,6,105,1092,2,3600,10
+1093,2,"Tâche Ingrate","Monstrueuse tortue portant sur sa carapace une montagne enneigée. Nombre limite d'invitations possibles : 10 personnes",1,1,3,40121,7,105,1093,3,3600,10
+1094,2,"Tâche Ingrate","Monstrueuse tortue portant sur sa carapace une montagne enneigée. Nombre limite d'invitations possibles : 10 personnes",1,1,3,40121,8,105,1094,4,3600,10
+1095,2,"Tâche Ingrate","Monstrueuse tortue portant sur sa carapace une montagne enneigée. Nombre limite d'invitations possibles : 10 personnes",1,1,3,40121,9,105,1095,5,3600,10
+1096,2,"Reine Isolée 1","Survivant des vampires que l'on disait disparus.",1,1,3,40018,7,105,1096,2,1500,10
+1097,2,"Reine Isolée 1","Survivant des vampires que l'on disait disparus.",1,1,3,40018,8,105,1097,2,1500,10
+1098,2,"Reine Isolée 1","Survivant des vampires que l'on disait disparus.",1,1,3,40018,9,105,1098,2,1500,10
+1099,2,"Reine Isolée 1","Survivant des vampires que l'on disait disparus.",1,1,3,40018,10,105,1099,2,1500,10
+1100,2,"Reine Isolée 1","Survivant des vampires que l'on disait disparus.",1,1,3,40018,11,105,1100,2,1500,10
+1101,1,"Corne démoniaque","Arme de défense qui permet de protéger les vaisseaux de guerre de l'Empire. Nombre limite d'invitations possibles : 10 personnes",1,1,3,40124,1,106,1101,1,2400,10
+1102,1,"Corne démoniaque","Arme de défense qui permet de protéger les vaisseaux de guerre de l'Empire. Nombre limite d'invitations possibles : 10 personnes",1,1,3,40124,2,106,1102,2,2400,10
+1103,1,"Corne démoniaque","Arme de défense qui permet de protéger les vaisseaux de guerre de l'Empire. Nombre limite d'invitations possibles : 10 personnes",1,1,3,40124,3,106,1103,3,2400,10
+1104,1,"Corne démoniaque","Arme de défense qui permet de protéger les vaisseaux de guerre de l'Empire. Nombre limite d'invitations possibles : 10 personnes",1,1,3,40124,4,106,1104,4,2400,10
+1105,1,"Corne démoniaque","Arme de défense qui permet de protéger les vaisseaux de guerre de l'Empire. Nombre limite d'invitations possibles : 10 personnes",1,1,3,40124,5,106,1105,5,2400,10
+1106,1,"Corne démoniaque","Arme de défense qui permet de protéger les vaisseaux de guerre de l'Empire. Nombre limite d'invitations possibles : 10 personnes",6,1,3,40124,6,106,1106,1,2400,10
+1107,1,"Corne démoniaque","Arme de défense qui permet de protéger les vaisseaux de guerre de l'Empire. Nombre limite d'invitations possibles : 10 personnes",6,1,3,40124,7,106,1107,2,2400,10
+1108,1,"Corne démoniaque","Arme de défense qui permet de protéger les vaisseaux de guerre de l'Empire. Nombre limite d'invitations possibles : 10 personnes",6,1,3,40124,8,106,1108,3,2400,10
+1109,1,"Corne démoniaque","Arme de défense qui permet de protéger les vaisseaux de guerre de l'Empire. Nombre limite d'invitations possibles : 10 personnes",6,1,3,40124,9,106,1109,4,2400,10
+1110,1,"Corne démoniaque","Arme de défense qui permet de protéger les vaisseaux de guerre de l'Empire. Nombre limite d'invitations possibles : 10 personnes",6,1,3,40124,10,106,1110,5,2400,10
+1111,1,"Esprit maléfique de cacao","Ancienne statue en forme de tête humaine. Nombre limite d'invitations possibles : 10 personnes",1,1,3,40125,1,106,1111,1,1500,10
+1112,1,"Esprit maléfique de cacao","Ancienne statue en forme de tête humaine. Nombre limite d'invitations possibles : 10 personnes",1,1,3,40125,2,106,1112,2,1500,10
+1113,1,"Esprit maléfique de cacao","Ancienne statue en forme de tête humaine. Nombre limite d'invitations possibles : 10 personnes",1,1,3,40125,3,106,1113,3,1500,10
+1114,1,"Esprit maléfique de cacao","Ancienne statue en forme de tête humaine. Nombre limite d'invitations possibles : 10 personnes",1,1,3,40125,4,106,1114,4,1500,10
+1115,1,"Esprit maléfique de cacao","Ancienne statue en forme de tête humaine. Nombre limite d'invitations possibles : 10 personnes",1,1,3,40125,5,106,1115,5,1500,10
+1116,1,"Esprit maléfique de cacao","Ancienne statue en forme de tête humaine. Nombre limite d'invitations possibles : 10 personnes",3,1,3,40125,6,106,1116,1,1500,10
+1117,1,"Esprit maléfique de cacao","Ancienne statue en forme de tête humaine. Nombre limite d'invitations possibles : 10 personnes",3,1,3,40125,7,106,1117,2,1500,10
+1118,1,"Esprit maléfique de cacao","Ancienne statue en forme de tête humaine. Nombre limite d'invitations possibles : 10 personnes",3,1,3,40125,8,106,1118,3,1500,10
+1119,1,"Esprit maléfique de cacao","Ancienne statue en forme de tête humaine. Nombre limite d'invitations possibles : 10 personnes",3,1,3,40125,9,106,1119,4,1500,10
+1120,1,"Esprit maléfique de cacao","Ancienne statue en forme de tête humaine. Nombre limite d'invitations possibles : 10 personnes",3,1,3,40125,10,106,1120,5,1500,10
+2000,1,"Hurlement Rouge 2","Énorme monstre qui mange l'esprit.",1,1,12,40013,5,200,2000,2,15000,9999
+2001,1,"Hurlement Rouge 3","Énorme monstre qui mange l'esprit.",1,1,12,40013,6,200,2001,2,15000,9999
+2002,1,"Hurlement Noir 2","Énorme monstre qui mange l'esprit.",1,1,12,40014,7,200,2002,2,15000,9999
+2003,1,"Hurlement Noir 3","Énorme monstre qui mange l'esprit.",1,1,12,40014,8,200,2003,2,15000,9999
+2004,1,"Hurlement Rouge","Énorme monstre qui mange l'esprit.",1,1,6,40013,9,200,2004,2,15000,9999
+2005,1,"Hurlement Noir ","Énorme monstre qui mange l'esprit.",1,1,6,40014,10,200,2005,2,15000,9999
+2006,1,"Hurlement Bleu","Énorme monstre qui mange l'esprit.",1,1,6,40015,11,200,2006,2,15000,9999
+2007,1,"Reine Isolée","La survie des vampires qui ont été dites pour être éteint.",2,1,3,40018,5,200,2007,2,3000,9999
+2008,1,"Reine Isolée","La survie des vampires qui ont été dites pour être éteint.",2,1,3,40018,6,200,2008,2,3000,9999
+2009,2,"Écailles Diaboliques","Une fée aux ailes de papillon.",6,1,"0.5",40017,7,200,2009,3,1000,9999
+2010,2,"Écailles Diaboliques","Une fée aux ailes de papillon.",6,1,"0.5",40017,8,200,2010,3,1000,9999
+2011,2,"Écailles Diaboliques","Une fée aux ailes de papillon.",6,1,"0.5",40017,9,200,2011,3,1000,9999
+2012,2,"Écailles Diaboliques","Une fée aux ailes de papillon.",6,1,"0.5",40017,10,200,2012,3,1000,9999
+2013,2,"Écailles Diaboliques","Une fée aux ailes de papillon.",6,1,"0.5",40017,11,200,2013,3,1000,9999
+2014,2,"Hurlement Rouge","Énorme monstre qui mange l'esprit.",1,1,12,40013,5,200,2014,2,15000,9999
+2015,2,"Hurlement Noir ","Énorme monstre qui mange l'esprit.",1,1,12,40014,6,200,2015,2,15000,9999
+2016,2,"Hurlement Bleu","Énorme monstre qui mange l'esprit.",1,1,12,40015,7,200,2016,2,15000,9999
+2017,2,"Hurlement Rouge","Énorme monstre qui mange l'esprit.",1,1,12,40013,8,200,2017,2,15000,9999
+2018,2,"Hurlement Noir ","Énorme monstre qui mange l'esprit.",1,1,12,40014,9,200,2018,2,15000,9999
+2019,2,"Hurlement Bleu","Énorme monstre qui mange l'esprit.",1,1,12,40015,10,200,2019,2,15000,9999
+2020,2,"Hurlement Rouge","Énorme monstre qui mange l'esprit.",1,1,12,40013,11,200,2020,2,15000,9999
+2021,2,"Hurlement Noir ","Énorme monstre qui mange l'esprit.",1,1,12,40014,5,200,2021,2,15000,9999
+2022,2,"Hurlement Bleu","Énorme monstre qui mange l'esprit.",1,1,12,40015,6,200,2022,2,15000,9999
+2023,2,"Hurlement Rouge","Énorme monstre qui mange l'esprit.",1,1,12,40013,7,200,2023,2,15000,9999
+2024,1,"Celui qui abat","Ver Géant qui dévore le Monde. Possibilité d'obtenir un Fragment de Core (Rouge).",1,1,6,40028,5,201,2024,6,3000,9999
+2025,1,"Celui qui abat","Ver Géant qui dévore le Monde. Possibilité d'obtenir un Fragment de Core (Jaune).",1,1,6,40028,6,201,2025,6,3000,9999
+2026,1,"Celui qui abat","Ver Géant qui dévore le Monde. Possibilité d'obtenir un Fragment de Core (Rouge).",1,1,6,40028,7,201,2026,6,3000,9999
+2027,1,"Celui qui abat","Ver Géant qui dévore le Monde. Possibilité d'obtenir un Fragment de Core (Jaune).",1,1,6,40028,8,201,2027,6,3000,9999
+2028,1,"Celui qui abat","Ver Géant qui dévore le Monde.",1,1,6,40028,5,201,2028,6,3000,9999
+2029,2,"Celui qui abat","Ver Géant qui dévore le Monde.",1,1,12,40028,5,200,2029,2,3000,9999
+2030,2,"Celui qui abat","Ver Géant qui dévore le Monde.",1,1,12,40028,6,200,2030,2,3000,9999
+2031,2,"Celui qui abat","Ver Géant qui dévore le Monde.",1,1,12,40028,7,200,2031,2,3000,9999
+2032,2,"Celui qui abat","Ver Géant qui dévore le Monde.",1,1,12,40028,8,200,2032,2,3000,9999
+2033,2,"Celui qui abat","Ver Géant qui dévore le Monde.",1,1,12,40028,9,200,2033,2,3000,9999
+2034,1,"Ceux qui Invitent","Ils contrôlent les monstres marins. Ils viennent lentement détruire la ville maléfique, s'infiltrant sous les rayons de la lune, cachés dans la brume. Possibilité de trouver des Perles Blanches.",1,1,12,40032,0,202,2034,2,2700,9999
+2035,1,"Ceux qui Invitent","Ils contrôlent les monstres marins. Ils viennent lentement détruire la ville maléfique, s'infiltrant sous les rayons de la lune, cachés dans la brume. Possibilité de trouver des Perles Noires.",1,1,12,40032,0,203,2035,2,2700,9999
+2036,1,"Ceux qui Invitent","Ils contrôlent les monstres marins. Ils viennent lentement détruire la ville maléfique, s'infiltrant sous les rayons de la lune, cachés dans la brume. Possibilité de trouver des Perles Blanches.",1,1,12,40032,0,201,2036,2,2700,9999
+2037,1,"Ceux qui Invitent","Ils contrôlent les monstres marins. Ils viennent lentement détruire la ville maléfique, s'infiltrant sous les rayons de la lune, cachés dans la brume. Possibilité de trouver des Perles Noires.",1,1,12,40032,0,201,2037,2,2700,9999
+2038,1,"Ceux qui Invitent","Ils contrôlent les monstres marins. Ils viennent lentement détruire la ville maléfique, s'infiltrant sous les rayons de la lune, cachés dans la brume.",1,1,12,40032,0,202,2038,2,2700,9999
+2039,1,"Ceux qui Invitent","Ils contrôlent les monstres marins. Ils viennent lentement détruire la ville maléfique, s'infiltrant sous les rayons de la lune, cachés dans la brume.",1,1,12,40032,0,203,2039,2,2700,9999
+2040,1,"Ceux qui Invitent","Ils contrôlent les monstres marins. Ils viennent lentement détruire la ville maléfique, s'infiltrant sous les rayons de la lune, cachés dans la brume.",1,1,12,40032,0,201,2038,2,2700,9999
+2041,1,"Ceux qui Invitent","Ils contrôlent les monstres marins. Ils viennent lentement détruire la ville maléfique, s'infiltrant sous les rayons de la lune, cachés dans la brume.",1,1,12,40032,0,201,2039,2,2700,9999
+2042,2,"Ceux qui Invitent","Ils contrôlent les monstres marins. Ils viennent lentement détruire la ville maléfique, s'infiltrant sous les rayons de la lune, cachés dans la brume.",1,1,12,40032,5,200,2042,2,3000,9999
+2043,2,"Ceux qui Invitent","Ils contrôlent les monstres marins. Ils viennent lentement détruire la ville maléfique, s'infiltrant sous les rayons de la lune, cachés dans la brume.",1,1,12,40032,6,200,2043,2,3000,9999
+2044,2,"Ceux qui Invitent","Ils contrôlent les monstres marins. Ils viennent lentement détruire la ville maléfique, s'infiltrant sous les rayons de la lune, cachés dans la brume.",1,1,12,40032,7,200,2044,2,3000,9999
+2045,2,"Ceux qui Invitent","Ils contrôlent les monstres marins. Ils viennent lentement détruire la ville maléfique, s'infiltrant sous les rayons de la lune, cachés dans la brume.",1,1,12,40032,8,200,2045,2,3000,9999
+2046,2,"Ceux qui Invitent","Ils contrôlent les monstres marins. Ils viennent lentement détruire la ville maléfique, s'infiltrant sous les rayons de la lune, cachés dans la brume.",1,1,12,40032,9,200,2046,2,3000,9999
+2047,1,"Omen","Monstrueuse tortue portant sur sa carapace une montagne enneigée",1,1,12,40037,1,201,2047,3,15000,9999
+2048,1,"Omen","Monstrueuse tortue portant sur sa carapace une montagne enneigée",1,1,12,40037,2,201,2048,3,15000,9999
+2049,1,"Omen","Monstrueuse tortue portant sur sa carapace une montagne enneigée",1,1,12,40037,3,201,2049,3,15000,9999
+2050,1,"Omen","Monstrueuse tortue portant sur sa carapace une montagne enneigée",1,1,12,40037,4,201,2050,3,15000,9999
+2051,1,"Omen","Monstrueuse tortue portant sur sa carapace une montagne enneigée",1,1,12,40037,5,201,2051,3,15000,9999
+2052,1,"Omen","Monstrueuse tortue portant sur sa carapace une montagne enneigée",1,1,12,40037,6,202,2047,3,15000,9999
+2053,1,"Omen","Monstrueuse tortue portant sur sa carapace une montagne enneigée",1,1,12,40037,7,203,2048,3,15000,9999
+2054,2,"Omen","Monstrueuse tortue portant sur sa carapace une montagne enneigée",1,1,12,40037,1,201,2054,3,15000,9999
+2055,2,"Omen","Monstrueuse tortue portant sur sa carapace une montagne enneigée",1,1,12,40037,2,201,2055,3,15000,9999
+2056,2,"Omen","Monstrueuse tortue portant sur sa carapace une montagne enneigée",1,1,12,40037,3,201,2056,3,15000,9999
+2057,2,"Omen","Monstrueuse tortue portant sur sa carapace une montagne enneigée",1,1,12,40037,4,201,2057,3,15000,9999
+2058,2,"Omen","Monstrueuse tortue portant sur sa carapace une montagne enneigée",1,1,12,40037,5,201,2058,3,15000,9999
+2059,2,"Omen","Monstrueuse tortue portant sur sa carapace une montagne enneigée",1,1,12,40037,6,202,2054,3,15000,9999
+2060,2,"Omen","Monstrueuse tortue portant sur sa carapace une montagne enneigée",1,1,12,40037,7,203,2055,3,15000,9999
+2061,2,"Omen","Monstrueuse tortue portant sur sa carapace une montagne enneigée",1,1,12,40037,1,200,2061,3,15000,9999
+2062,2,"Omen","Monstrueuse tortue portant sur sa carapace une montagne enneigée",1,1,12,40037,2,200,2062,3,15000,9999
+2063,2,"Omen","Monstrueuse tortue portant sur sa carapace une montagne enneigée",1,1,12,40037,3,200,2063,3,15000,9999
+2064,2,"Omen","Monstrueuse tortue portant sur sa carapace une montagne enneigée",1,1,12,40037,4,200,2064,3,15000,9999
+2065,2,"Omen","Monstrueuse tortue portant sur sa carapace une montagne enneigée",1,1,12,40037,5,200,2065,3,15000,9999
+2066,1,"W.M. Princess","Monstre géant en forme de pastèque. Nombre limite d'invitations possibles : 30 personnes",1,1,12,40041,6,204,2066,3,4500,30
+2067,1,"W.M. Princess","Monstre géant en forme de pastèque. Nombre limite d'invitations possibles : 30 personnes",1,1,12,40041,7,204,2067,4,4500,30
+2068,1,"W.M. Princess","Monstre géant en forme de pastèque. Nombre limite d'invitations possibles : 30 personnes",1,1,12,40041,8,204,2068,3,4500,30
+2069,1,"W.M. Princess","Monstre géant en forme de pastèque. Nombre limite d'invitations possibles : 30 personnes",1,1,12,40041,9,204,2069,3,4500,30
+2070,1,"W.M. Princess","Monstre géant en forme de pastèque. Nombre limite d'invitations possibles : 30 personnes",1,1,12,40041,10,204,2070,3,4500,30
+2071,1,"W.M. Princess","Monstre géant en forme de pastèque. Nombre limite d'invitations possibles : 30 personnes",1,1,12,40041,6,204,2071,3,4500,30
+2072,1,"W.M. Princess","Monstre géant en forme de pastèque. Nombre limite d'invitations possibles : 30 personnes",1,1,12,40041,7,204,2072,4,4500,30
+2073,1,"W.M. Princess","Monstre géant en forme de pastèque. Nombre limite d'invitations possibles : 30 personnes",1,1,12,40041,8,204,2073,3,4500,30
+2074,1,"W.M. Princess","Monstre géant en forme de pastèque. Nombre limite d'invitations possibles : 30 personnes",1,1,12,40041,9,204,2074,3,4500,30
+2075,1,"W.M. Princess","Monstre géant en forme de pastèque. Nombre limite d'invitations possibles : 30 personnes",1,1,12,40041,10,204,2075,3,4500,30
+2076,2,"La mort Noire","Énorme monstre qui dévore les esprits. Nombre limite d'invitations possibles : 30 personnes",1,1,6,40108,1,205,2076,1,10500,30
+2077,2,"La mort Noire","Énorme monstre qui dévore les esprits. Nombre limite d'invitations possibles : 30 personnes",1,1,6,40108,2,205,2077,2,10500,30
+2078,2,"La mort Noire","Énorme monstre qui dévore les esprits. Nombre limite d'invitations possibles : 30 personnes",1,1,6,40108,3,205,2078,3,10500,30
+2079,2,"La mort Noire","Énorme monstre qui dévore les esprits. Nombre limite d'invitations possibles : 30 personnes",1,1,6,40108,4,205,2079,4,10500,30
+2080,2,"La mort Noire","Énorme monstre qui dévore les esprits. Nombre limite d'invitations possibles : 30 personnes",1,1,6,40108,5,205,2080,5,10500,30
+2081,2,"Celui qui abat","Ver Géant qui dévore le Monde. Nombre limite d'invitations possibles : 30 personnes",1,1,6,40114,6,205,2081,1,3600,30
+2082,2,"Celui qui abat","Ver Géant qui dévore le Monde. Nombre limite d'invitations possibles : 30 personnes",1,1,6,40114,7,205,2082,2,3600,30
+2083,2,"Celui qui abat","Ver Géant qui dévore le Monde. Nombre limite d'invitations possibles : 30 personnes",1,1,6,40114,8,205,2083,3,3600,30
+2084,2,"Celui qui abat","Ver Géant qui dévore le Monde. Nombre limite d'invitations possibles : 30 personnes",1,1,6,40114,9,205,2084,4,3600,30
+2085,2,"Celui qui abat","Ver Géant qui dévore le Monde. Nombre limite d'invitations possibles : 30 personnes",1,1,6,40114,10,205,2085,5,3600,30
+2086,2,"Ceux qui Invitent","Ils contrôlent les monstres marins. Nombre limite d'invitations possibles : 30 personnes",1,1,6,40117,11,205,2086,1,3000,30
+2087,2,"Ceux qui Invitent","Ils contrôlent les monstres marins. Nombre limite d'invitations possibles : 30 personnes",1,1,6,40117,1,205,2087,2,3000,30
+2088,2,"Ceux qui Invitent","Ils contrôlent les monstres marins. Nombre limite d'invitations possibles : 30 personnes",1,1,6,40117,2,205,2088,3,3000,30
+2089,2,"Ceux qui Invitent","Ils contrôlent les monstres marins. Nombre limite d'invitations possibles : 30 personnes",1,1,6,40117,3,205,2089,4,3000,30
+2090,2,"Ceux qui Invitent","Ils contrôlent les monstres marins. Nombre limite d'invitations possibles : 30 personnes",1,1,6,40117,4,205,2090,5,3000,30
+2091,2,"Omen","Monstrueuse tortue portant sur sa carapace une montagne enneigée. Nombre limite d'invitations possibles : 30 personnes",1,1,6,40120,5,205,2091,1,18000,30
+2092,2,"Omen","Monstrueuse tortue portant sur sa carapace une montagne enneigée. Nombre limite d'invitations possibles : 30 personnes",1,1,6,40120,6,205,2092,2,18000,30
+2093,2,"Omen","Monstrueuse tortue portant sur sa carapace une montagne enneigée. Nombre limite d'invitations possibles : 30 personnes",1,1,6,40120,7,205,2093,3,18000,30
+2094,2,"Omen","Monstrueuse tortue portant sur sa carapace une montagne enneigée. Nombre limite d'invitations possibles : 30 personnes",1,1,6,40120,8,205,2094,4,18000,30
+2095,2,"Omen","Monstrueuse tortue portant sur sa carapace une montagne enneigée. Nombre limite d'invitations possibles : 30 personnes",1,1,6,40120,9,205,2095,5,18000,30
+2096,2,"Écailles Diaboliques","Une fée aux ailes de papillon. Nombre limite d'invitations possibles : 30 personnes",6,1,"0.5",40017,7,205,2096,3,1000,30
+2097,2,"Écailles Diaboliques","Une fée aux ailes de papillon. Nombre limite d'invitations possibles : 30 personnes",6,1,"0.5",40017,8,205,2097,3,1000,30
+2098,2,"Écailles Diaboliques","Une fée aux ailes de papillon. Nombre limite d'invitations possibles : 30 personnes",6,1,"0.5",40017,9,205,2098,3,1000,30
+2099,2,"Écailles Diaboliques","Une fée aux ailes de papillon. Nombre limite d'invitations possibles : 30 personnes",6,1,"0.5",40017,10,205,2099,3,1000,30
+2100,2,"Écailles Diaboliques","Une fée aux ailes de papillon. Nombre limite d'invitations possibles : 30 personnes",6,1,"0.5",40017,11,205,2100,3,1000,30
+2101,2,"La mort Noire","Énorme monstre qui dévore les esprits. Nombre limite d'invitations possibles : 30 personnes",6,1,6,40108,1,205,2101,1,10500,30
+2102,2,"La mort Noire","Énorme monstre qui dévore les esprits. Nombre limite d'invitations possibles : 30 personnes",6,1,6,40108,2,205,2102,2,10500,30
+2103,2,"La mort Noire","Énorme monstre qui dévore les esprits. Nombre limite d'invitations possibles : 30 personnes",6,1,6,40108,3,205,2103,3,10500,30
+2104,2,"La mort Noire","Énorme monstre qui dévore les esprits. Nombre limite d'invitations possibles : 30 personnes",6,1,6,40108,4,205,2104,4,10500,30
+2105,2,"La mort Noire","Énorme monstre qui dévore les esprits. Nombre limite d'invitations possibles : 30 personnes",6,1,6,40108,5,205,2105,5,10500,30
+2106,2,"Celui qui abat","Ver Géant qui dévore le Monde. Nombre limite d'invitations possibles : 30 personnes",6,1,6,40114,6,205,2106,1,3600,30
+2107,2,"Celui qui abat","Ver Géant qui dévore le Monde. Nombre limite d'invitations possibles : 30 personnes",6,1,6,40114,7,205,2107,2,3600,30
+2108,2,"Celui qui abat","Ver Géant qui dévore le Monde. Nombre limite d'invitations possibles : 30 personnes",6,1,6,40114,8,205,2108,3,3600,30
+2109,2,"Celui qui abat","Ver Géant qui dévore le Monde. Nombre limite d'invitations possibles : 30 personnes",6,1,6,40114,9,205,2109,4,3600,30
+2110,2,"Celui qui abat","Ver Géant qui dévore le Monde. Nombre limite d'invitations possibles : 30 personnes",6,1,6,40114,10,205,2110,5,3600,30
+2111,2,"Ceux qui Invitent","Ils contrôlent les monstres marins. Nombre limite d'invitations possibles : 30 personnes",6,1,6,40117,11,205,2111,1,3000,30
+2112,2,"Ceux qui Invitent","Ils contrôlent les monstres marins. Nombre limite d'invitations possibles : 30 personnes",6,1,6,40117,1,205,2112,2,3000,30
+2113,2,"Ceux qui Invitent","Ils contrôlent les monstres marins. Nombre limite d'invitations possibles : 30 personnes",6,1,6,40117,2,205,2113,3,3000,30
+2114,2,"Ceux qui Invitent","Ils contrôlent les monstres marins. Nombre limite d'invitations possibles : 30 personnes",6,1,6,40117,3,205,2114,4,3000,30
+2115,2,"Ceux qui Invitent","Ils contrôlent les monstres marins. Nombre limite d'invitations possibles : 30 personnes",6,1,6,40117,4,205,2115,5,3000,30
+2116,2,"Omen","Monstrueuse tortue portant sur sa carapace une montagne enneigée. Nombre limite d'invitations possibles : 30 personnes",6,1,6,40120,5,205,2116,1,18000,30
+2117,2,"Omen","Monstrueuse tortue portant sur sa carapace une montagne enneigée. Nombre limite d'invitations possibles : 30 personnes",6,1,6,40120,6,205,2117,2,18000,30
+2118,2,"Omen","Monstrueuse tortue portant sur sa carapace une montagne enneigée. Nombre limite d'invitations possibles : 30 personnes",6,1,6,40120,7,205,2118,3,18000,30
+2119,2,"Omen","Monstrueuse tortue portant sur sa carapace une montagne enneigée. Nombre limite d'invitations possibles : 30 personnes",6,1,6,40120,8,205,2119,4,18000,30
+2120,2,"Omen","Monstrueuse tortue portant sur sa carapace une montagne enneigée. Nombre limite d'invitations possibles : 30 personnes",6,1,6,40120,9,205,2120,5,18000,30
+2121,1,"Corne démoniaque Y","Arme de défense qui permet de protéger les vaisseaux de guerre de l'Empire. Nombre limite d'invitations possibles : 30 personnes",1,1,6,40123,1,206,2121,1,10500,30
+2122,1,"Corne démoniaque Y","Arme de défense qui permet de protéger les vaisseaux de guerre de l'Empire. Nombre limite d'invitations possibles : 30 personnes",1,1,6,40123,2,206,2122,2,10500,30
+2123,1,"Corne démoniaque Y","Arme de défense qui permet de protéger les vaisseaux de guerre de l'Empire. Nombre limite d'invitations possibles : 30 personnes",1,1,6,40123,3,206,2123,3,10500,30
+2124,1,"Corne démoniaque Y","Arme de défense qui permet de protéger les vaisseaux de guerre de l'Empire. Nombre limite d'invitations possibles : 30 personnes",1,1,6,40123,4,206,2124,4,10500,30
+2125,1,"Corne démoniaque Y","Arme de défense qui permet de protéger les vaisseaux de guerre de l'Empire. Nombre limite d'invitations possibles : 30 personnes",7,1,6,40123,5,206,2125,5,10500,30
+2126,1,"Corne démoniaque Y","Arme de défense qui permet de protéger les vaisseaux de guerre de l'Empire. Nombre limite d'invitations possibles : 30 personnes",7,1,6,40123,6,206,2126,1,10500,30
+2127,1,"Corne démoniaque Y","Arme de défense qui permet de protéger les vaisseaux de guerre de l'Empire. Nombre limite d'invitations possibles : 30 personnes",7,1,6,40123,7,206,2127,2,10500,30
+2128,1,"Corne démoniaque Y","Arme de défense qui permet de protéger les vaisseaux de guerre de l'Empire. Nombre limite d'invitations possibles : 30 personnes",7,1,6,40123,8,206,2128,3,10500,30
+2129,1,"Corne démoniaque Y","Arme de défense qui permet de protéger les vaisseaux de guerre de l'Empire. Nombre limite d'invitations possibles : 30 personnes",1,1,6,40123,1,206,2129,1,10500,30
+2130,1,"Corne démoniaque Y","Arme de défense qui permet de protéger les vaisseaux de guerre de l'Empire. Nombre limite d'invitations possibles : 30 personnes",1,1,6,40123,2,206,2130,2,10500,30
+2131,1,"Corne démoniaque Y","Arme de défense qui permet de protéger les vaisseaux de guerre de l'Empire. Nombre limite d'invitations possibles : 30 personnes",1,1,6,40123,3,206,2131,3,10500,30
+2132,1,"Corne démoniaque Y","Arme de défense qui permet de protéger les vaisseaux de guerre de l'Empire. Nombre limite d'invitations possibles : 30 personnes",1,1,6,40123,4,206,2132,4,10500,30
+2133,1,"Monstre de cacao","Ancienne statue en forme de tête humaine. Nombre limite d'invitations possibles : 30 personnes",1,1,6,40126,1,206,2133,1,3600,30
+2134,1,"Monstre de cacao","Ancienne statue en forme de tête humaine. Nombre limite d'invitations possibles : 30 personnes",1,1,6,40126,2,206,2134,2,3600,30
+2135,1,"Monstre de cacao","Ancienne statue en forme de tête humaine. Nombre limite d'invitations possibles : 30 personnes",1,1,6,40126,3,206,2135,3,3600,30
+2136,1,"Monstre de cacao","Ancienne statue en forme de tête humaine. Nombre limite d'invitations possibles : 30 personnes",1,1,6,40126,4,206,2136,4,3600,30
+2137,1,"Monstre de cacao","Ancienne statue en forme de tête humaine. Nombre limite d'invitations possibles : 30 personnes",6,1,6,40126,5,206,2137,5,3600,30
+2138,1,"Monstre de cacao","Ancienne statue en forme de tête humaine. Nombre limite d'invitations possibles : 30 personnes",6,1,6,40126,6,206,2138,1,3600,30
+2139,1,"Monstre de cacao","Ancienne statue en forme de tête humaine. Nombre limite d'invitations possibles : 30 personnes",6,1,6,40126,7,206,2139,2,3600,30
+2140,1,"Monstre de cacao","Ancienne statue en forme de tête humaine. Nombre limite d'invitations possibles : 30 personnes",6,1,6,40126,8,206,2140,3,3600,30
+2141,2,"Monstre de cacao","Ancienne statue en forme de tête humaine. Nombre limite d'invitations possibles : 30 personnes",1,1,6,40126,1,206,2141,1,3600,30
+2142,2,"Monstre de cacao","Ancienne statue en forme de tête humaine. Nombre limite d'invitations possibles : 30 personnes",1,1,6,40126,2,206,2142,2,3600,30
+2143,2,"Monstre de cacao","Ancienne statue en forme de tête humaine. Nombre limite d'invitations possibles : 30 personnes",1,1,6,40126,3,206,2143,3,3600,30
+2144,2,"Monstre de cacao","Ancienne statue en forme de tête humaine. Nombre limite d'invitations possibles : 30 personnes",1,1,6,40126,4,206,2144,4,3600,30
+3000,1,"Hurlement Rouge 4","Énorme monstre qui mange l'esprit.",1,1,48,40010,8,300,3000,2,150000,9999
+3001,1,"Hurlement Noir 4","Énorme monstre qui mange l'esprit.",1,1,48,40011,9,300,3001,2,150000,9999
+3002,2,"Hurlement Rouge","Énorme monstre qui mange l'esprit.",1,1,48,40010,10,300,3002,2,150000,9999
+3003,2,"Hurlement Noir ","Énorme monstre qui mange l'esprit.",1,1,48,40011,11,300,3003,2,150000,9999
+3004,2,"Hurlement Bleu","Énorme monstre qui mange l'esprit.",1,1,48,40012,5,300,3004,2,150000,9999
+3005,2,"Hurlement Rouge","Énorme monstre qui mange l'esprit.",1,1,48,40010,6,300,3005,2,150000,9999
+3006,2,"Hurlement Noir ","Énorme monstre qui mange l'esprit.",1,1,48,40011,7,300,3006,2,150000,9999
+3007,2,"Écailles Diaboliques","Une fée aux ailes de papillon.",4,1,"0.5",40017,8,300,3007,3,1000,9999
+3008,2,"Écailles Diaboliques","Une fée aux ailes de papillon.",4,1,"0.5",40017,9,300,3008,3,1000,9999
+3009,2,"Écailles Diaboliques","Une fée aux ailes de papillon.",4,1,"0.5",40017,10,300,3009,3,1000,9999
+3010,2,"Écailles Diaboliques","Une fée aux ailes de papillon.",4,1,"0.5",40017,11,300,3010,3,1000,9999
+3011,2,"Hurlement Rouge 4","Énorme monstre qui mange l'esprit.",1,1,48,40010,5,400,3002,2,150000,9999
+3012,2,"Hurlement Noir 4","Énorme monstre qui mange l'esprit.",1,1,48,40011,6,500,3003,2,150000,9999
+3013,2,"Écailles Diaboliques","Une fée aux ailes de papillon.",4,1,"0.5",40017,7,300,3013,3,1000,9999
+3014,1,"Celui qui rampe","Ver Géant qui dévore le Monde. Possibilité d'obtenir un Fragment de Core (Rouge).",1,1,12,40027,9,401,3014,6,6000,9999
+3015,1,"Celui qui rampe","Ver Géant qui dévore le Monde. Possibilité d'obtenir un Fragment de Core (Jaune).",1,1,12,40027,10,501,3015,6,6000,9999
+3016,1,"Celui qui rampe","Ver Géant qui dévore le Monde.",1,1,12,40027,9,401,3016,6,6000,9999
+3017,1,"Celui qui rampe","Ver Géant qui dévore le Monde.",1,1,12,40027,10,501,3017,6,6000,9999
+3018,2,"Celui qui rampe","Ver Géant qui dévore le Monde.",1,1,12,40027,10,300,3018,6,6000,9999
+3019,2,"Celui qui rampe","Ver Géant qui dévore le Monde.",1,1,12,40027,10,300,3019,6,6000,9999
+3020,2,"Celui qui rampe","Ver Géant qui dévore le Monde.",1,1,12,40027,10,300,3020,6,6000,9999
+3021,2,"Celui qui rampe","Ver Géant qui dévore le Monde.",1,1,12,40027,10,300,3021,6,6000,9999
+3022,2,"Celui qui rampe","Ver Géant qui dévore le Monde.",1,1,12,40027,10,300,3022,6,6000,9999
+3023,1,"Ceux qui Creusent","Ils contrôlent les monstres marins. Ils viennent lentement détruire la ville maléfique, s'infiltrant sous les rayons de la lune, cachés dans la brume. Possibilité de trouver des Perles Blanches.",1,1,12,40031,0,402,3023,6,5400,9999
+3024,1,"Ceux qui Creusent","Ils contrôlent les monstres marins. Ils viennent lentement détruire la ville maléfique, s'infiltrant sous les rayons de la lune, cachés dans la brume. Possibilité de trouver des Perles Noires.",1,1,12,40031,0,502,3024,6,5400,9999
+3025,1,"Ceux qui Creusent","Ils contrôlent les monstres marins. Ils viennent lentement détruire la ville maléfique, s'infiltrant sous les rayons de la lune, cachés dans la brume. Possibilité de trouver des Perles Blanches.",1,1,12,40031,0,401,3025,6,5400,9999
+3026,1,"Ceux qui Creusent","Ils contrôlent les monstres marins. Ils viennent lentement détruire la ville maléfique, s'infiltrant sous les rayons de la lune, cachés dans la brume. Possibilité de trouver des Perles Noires.",1,1,12,40031,0,401,3026,6,5400,9999
+3027,1,"Ceux qui Creusent","Ils contrôlent les monstres marins. Ils viennent lentement détruire la ville maléfique, s'infiltrant sous les rayons de la lune, cachés dans la brume. Possibilité de trouver des Perles Blanches.",1,1,12,40031,0,501,3025,6,5400,9999
+3028,1,"Ceux qui Creusent","Ils contrôlent les monstres marins. Ils viennent lentement détruire la ville maléfique, s'infiltrant sous les rayons de la lune, cachés dans la brume. Possibilité de trouver des Perles Noires.",1,1,12,40031,0,501,3026,6,5400,9999
+3029,1,"Ceux qui Creusent","Ils contrôlent les monstres marins. Ils viennent lentement détruire la ville maléfique, s'infiltrant sous les rayons de la lune, cachés dans la brume.",1,1,12,40031,0,402,3029,6,5400,9999
+3030,1,"Ceux qui Creusent","Ils contrôlent les monstres marins. Ils viennent lentement détruire la ville maléfique, s'infiltrant sous les rayons de la lune, cachés dans la brume.",1,1,12,40031,0,502,3030,6,5400,9999
+3031,1,"Ceux qui Creusent","Ils contrôlent les monstres marins. Ils viennent lentement détruire la ville maléfique, s'infiltrant sous les rayons de la lune, cachés dans la brume.",1,1,12,40031,0,401,3031,6,5400,9999
+3032,1,"Ceux qui Creusent","Ils contrôlent les monstres marins. Ils viennent lentement détruire la ville maléfique, s'infiltrant sous les rayons de la lune, cachés dans la brume.",1,1,12,40031,0,401,3032,6,5400,9999
+3033,1,"Ceux qui Creusent","Ils contrôlent les monstres marins. Ils viennent lentement détruire la ville maléfique, s'infiltrant sous les rayons de la lune, cachés dans la brume.",1,1,12,40031,0,501,3031,6,5400,9999
+3034,1,"Ceux qui Creusent","Ils contrôlent les monstres marins. Ils viennent lentement détruire la ville maléfique, s'infiltrant sous les rayons de la lune, cachés dans la brume.",1,1,12,40031,0,501,3032,6,5400,9999
+3035,2,"Ceux qui Creusent","Ils contrôlent les monstres marins. Ils viennent lentement détruire la ville maléfique, s'infiltrant sous les rayons de la lune, cachés dans la brume.",1,1,12,40031,10,300,3018,6,6000,9999
+3036,2,"Ceux qui Creusent","Ils contrôlent les monstres marins. Ils viennent lentement détruire la ville maléfique, s'infiltrant sous les rayons de la lune, cachés dans la brume.",1,1,12,40031,10,300,3019,6,6000,9999
+3037,2,"Ceux qui Creusent","Ils contrôlent les monstres marins. Ils viennent lentement détruire la ville maléfique, s'infiltrant sous les rayons de la lune, cachés dans la brume.",1,1,12,40031,10,300,3020,6,6000,9999
+3038,2,"Ceux qui Creusent","Ils contrôlent les monstres marins. Ils viennent lentement détruire la ville maléfique, s'infiltrant sous les rayons de la lune, cachés dans la brume.",1,1,12,40031,10,300,3021,6,6000,9999
+3039,2,"Ceux qui Creusent","Ils contrôlent les monstres marins. Ils viennent lentement détruire la ville maléfique, s'infiltrant sous les rayons de la lune, cachés dans la brume.",1,1,12,40031,10,300,3022,6,6000,9999
+3040,1,"Avalanche","Monstrueuse tortue portant sur sa carapace une montagne enneigée",1,1,12,40036,1,401,3040,4,30000,9999
+3041,1,"Avalanche","Monstrueuse tortue portant sur sa carapace une montagne enneigée",1,1,12,40036,2,401,3041,4,30000,9999
+3042,1,"Avalanche","Monstrueuse tortue portant sur sa carapace une montagne enneigée",1,1,12,40036,3,401,3042,4,30000,9999
+3043,1,"Avalanche","Monstrueuse tortue portant sur sa carapace une montagne enneigée",1,1,12,40036,4,401,3043,4,30000,9999
+3044,1,"Avalanche","Monstrueuse tortue portant sur sa carapace une montagne enneigée",1,1,12,40036,5,401,3044,4,30000,9999
+3045,1,"Avalanche","Monstrueuse tortue portant sur sa carapace une montagne enneigée",1,1,12,40036,7,501,3040,4,30000,9999
+3046,1,"Avalanche","Monstrueuse tortue portant sur sa carapace une montagne enneigée",1,1,12,40036,8,402,3041,4,30000,9999
+3047,1,"Avalanche","Monstrueuse tortue portant sur sa carapace une montagne enneigée",1,1,12,40036,9,502,3042,4,30000,9999
+3048,2,"Avalanche","Monstrueuse tortue portant sur sa carapace une montagne enneigée",1,1,12,40036,1,401,3048,4,30000,9999
+3049,2,"Avalanche","Monstrueuse tortue portant sur sa carapace une montagne enneigée",1,1,12,40036,2,401,3049,4,30000,9999
+3050,2,"Avalanche","Monstrueuse tortue portant sur sa carapace une montagne enneigée",1,1,12,40036,3,401,3050,4,30000,9999
+3051,2,"Avalanche","Monstrueuse tortue portant sur sa carapace une montagne enneigée",1,1,12,40036,4,401,3051,4,30000,9999
+3052,2,"Avalanche","Monstrueuse tortue portant sur sa carapace une montagne enneigée",1,1,12,40036,5,401,3052,4,30000,9999
+3053,2,"Avalanche","Monstrueuse tortue portant sur sa carapace une montagne enneigée",1,1,12,40036,7,501,3048,4,30000,9999
+3054,2,"Avalanche","Monstrueuse tortue portant sur sa carapace une montagne enneigée",1,1,12,40036,8,402,3049,4,30000,9999
+3055,2,"Avalanche","Monstrueuse tortue portant sur sa carapace une montagne enneigée",1,1,12,40036,9,502,3050,4,30000,9999
+3056,2,"Avalanche","Monstrueuse tortue portant sur sa carapace une montagne enneigée",1,1,12,40036,1,300,3056,4,30000,9999
+3057,2,"Avalanche","Monstrueuse tortue portant sur sa carapace une montagne enneigée",1,1,12,40036,2,300,3057,4,30000,9999
+3058,2,"Avalanche","Monstrueuse tortue portant sur sa carapace une montagne enneigée",1,1,12,40036,3,300,3058,4,30000,9999
+3059,2,"Avalanche","Monstrueuse tortue portant sur sa carapace une montagne enneigée",1,1,12,40036,4,300,3059,4,30000,9999
+3060,2,"Avalanche","Monstrueuse tortue portant sur sa carapace une montagne enneigée",1,1,12,40036,5,300,3060,4,30000,9999
+3061,1,"W.M. Queen","Monstre géant en forme de pastèque. Nombre limite d'invitations possibles : 100 personnes",1,1,24,40040,2,304,3061,4,9000,100
+3062,1,"W.M. Queen","Monstre géant en forme de pastèque. Nombre limite d'invitations possibles : 100 personnes",1,1,24,40040,4,304,3062,4,9000,100
+3063,1,"W.M. Queen","Monstre géant en forme de pastèque. Nombre limite d'invitations possibles : 100 personnes",1,1,24,40040,6,304,3063,4,9000,100
+3064,1,"W.M. Queen","Monstre géant en forme de pastèque. Nombre limite d'invitations possibles : 100 personnes",1,1,24,40040,8,304,3064,4,9000,100
+3065,1,"W.M. Queen","Monstre géant en forme de pastèque. Nombre limite d'invitations possibles : 100 personnes",1,1,24,40040,10,304,3065,4,9000,100
+3066,1,"W.M. Queen","Monstre géant en forme de pastèque. Nombre limite d'invitations possibles : 100 personnes",1,1,24,40040,2,304,3066,4,9000,100
+3067,1,"W.M. Queen","Monstre géant en forme de pastèque. Nombre limite d'invitations possibles : 100 personnes",1,1,24,40040,4,304,3067,4,9000,100
+3068,1,"W.M. Queen","Monstre géant en forme de pastèque. Nombre limite d'invitations possibles : 100 personnes",1,1,24,40040,6,304,3068,4,9000,100
+3069,1,"W.M. Queen","Monstre géant en forme de pastèque. Nombre limite d'invitations possibles : 100 personnes",1,1,24,40040,8,304,3069,4,9000,100
+3070,1,"W.M. Queen","Monstre géant en forme de pastèque. Nombre limite d'invitations possibles : 100 personnes",1,1,24,40040,10,304,3070,4,9000,100
+3071,2,"Plague","Énorme monstre qui dévore les esprits. Nombre limite d'invitations possibles : 100 personnes",1,1,12,40106,1,305,3071,1,18000,100
+3072,2,"Plague","Énorme monstre qui dévore les esprits. Nombre limite d'invitations possibles : 100 personnes",1,1,12,40106,2,305,3072,2,18000,100
+3073,2,"Plague","Énorme monstre qui dévore les esprits. Nombre limite d'invitations possibles : 100 personnes",1,1,12,40106,3,305,3073,3,18000,100
+3074,2,"Plague","Énorme monstre qui dévore les esprits. Nombre limite d'invitations possibles : 100 personnes",1,1,12,40106,4,305,3074,4,18000,100
+3075,2,"Plague","Énorme monstre qui dévore les esprits. Nombre limite d'invitations possibles : 100 personnes",1,1,12,40106,5,305,3075,5,18000,100
+3076,2,"Celui qui rampe","Ver Géant qui dévore le Monde. Nombre limite d'invitations possibles : 100 personnes",1,1,12,40113,6,305,3076,1,9000,100
+3077,2,"Celui qui rampe","Ver Géant qui dévore le Monde. Nombre limite d'invitations possibles : 100 personnes",1,1,12,40113,7,305,3077,2,9000,100
+3078,2,"Celui qui rampe","Ver Géant qui dévore le Monde. Nombre limite d'invitations possibles : 100 personnes",1,1,12,40113,8,305,3078,3,9000,100
+3079,2,"Celui qui rampe","Ver Géant qui dévore le Monde. Nombre limite d'invitations possibles : 100 personnes",1,1,12,40113,9,305,3079,4,9000,100
+3080,2,"Celui qui rampe","Ver Géant qui dévore le Monde. Nombre limite d'invitations possibles : 100 personnes",1,1,12,40113,10,305,3080,5,9000,100
+3081,2,"Ceux qui Creusent","Ils contrôlent les monstres marins. Nombre limite d'invitations possibles : 100 personnes",1,1,12,40116,11,305,3081,1,6000,100
+3082,2,"Ceux qui Creusent","Ils contrôlent les monstres marins. Nombre limite d'invitations possibles : 100 personnes",1,1,12,40116,1,305,3082,2,6000,100
+3083,2,"Ceux qui Creusent","Ils contrôlent les monstres marins. Nombre limite d'invitations possibles : 100 personnes",1,1,12,40116,2,305,3083,3,6000,100
+3084,2,"Ceux qui Creusent","Ils contrôlent les monstres marins. Nombre limite d'invitations possibles : 100 personnes",1,1,12,40116,3,305,3084,4,6000,100
+3085,2,"Ceux qui Creusent","Ils contrôlent les monstres marins. Nombre limite d'invitations possibles : 100 personnes",1,1,12,40116,4,305,3085,5,6000,100
+3086,2,"Avalanche","Monstrueuse tortue portant sur sa carapace une montagne enneigée. Nombre limite d'invitations possibles : 100 personnes",1,1,12,40119,5,305,3086,1,36000,100
+3087,2,"Avalanche","Monstrueuse tortue portant sur sa carapace une montagne enneigée. Nombre limite d'invitations possibles : 100 personnes",1,1,12,40119,6,305,3087,2,36000,100
+3088,2,"Avalanche","Monstrueuse tortue portant sur sa carapace une montagne enneigée. Nombre limite d'invitations possibles : 100 personnes",1,1,12,40119,7,305,3088,3,36000,100
+3089,2,"Avalanche","Monstrueuse tortue portant sur sa carapace une montagne enneigée. Nombre limite d'invitations possibles : 100 personnes",1,1,12,40119,8,305,3089,4,36000,100
+3090,2,"Avalanche","Monstrueuse tortue portant sur sa carapace une montagne enneigée. Nombre limite d'invitations possibles : 100 personnes",1,1,12,40119,9,305,3090,5,36000,100
+3091,2,"Écailles Diaboliques","Une fée aux ailes de papillon. Nombre limite d'invitations possibles : 100 personnes",5,1,"0.5",40017,8,305,3091,3,1000,100
+3092,2,"Écailles Diaboliques","Une fée aux ailes de papillon. Nombre limite d'invitations possibles : 100 personnes",5,1,"0.5",40017,9,305,3092,3,1000,100
+3093,2,"Écailles Diaboliques","Une fée aux ailes de papillon. Nombre limite d'invitations possibles : 100 personnes",5,1,"0.5",40017,10,305,3093,3,1000,100
+3094,2,"Écailles Diaboliques","Une fée aux ailes de papillon. Nombre limite d'invitations possibles : 100 personnes",5,1,"0.5",40017,11,305,3094,3,1000,100
+3095,2,"Plague","Énorme monstre qui dévore les esprits. Nombre limite d'invitations possibles : 100 personnes",4,1,12,40106,1,305,3095,1,18000,100
+3096,2,"Plague","Énorme monstre qui dévore les esprits. Nombre limite d'invitations possibles : 100 personnes",4,1,12,40106,2,305,3096,2,18000,100
+3097,2,"Plague","Énorme monstre qui dévore les esprits. Nombre limite d'invitations possibles : 100 personnes",4,1,12,40106,3,305,3097,3,18000,100
+3098,2,"Plague","Énorme monstre qui dévore les esprits. Nombre limite d'invitations possibles : 100 personnes",4,1,12,40106,4,305,3098,4,18000,100
+3099,2,"Plague","Énorme monstre qui dévore les esprits. Nombre limite d'invitations possibles : 100 personnes",4,1,12,40106,5,305,3099,5,18000,100
+3100,2,"Celui qui rampe","Ver Géant qui dévore le Monde. Nombre limite d'invitations possibles : 100 personnes",4,1,12,40113,6,305,3100,1,9000,100
+3101,2,"Celui qui rampe","Ver Géant qui dévore le Monde. Nombre limite d'invitations possibles : 100 personnes",4,1,12,40113,7,305,3101,2,9000,100
+3102,2,"Celui qui rampe","Ver Géant qui dévore le Monde. Nombre limite d'invitations possibles : 100 personnes",4,1,12,40113,8,305,3102,3,9000,100
+3103,2,"Celui qui rampe","Ver Géant qui dévore le Monde. Nombre limite d'invitations possibles : 100 personnes",4,1,12,40113,9,305,3103,4,9000,100
+3104,2,"Celui qui rampe","Ver Géant qui dévore le Monde. Nombre limite d'invitations possibles : 100 personnes",4,1,12,40113,10,305,3104,5,9000,100
+3105,2,"Ceux qui Creusent","Ils contrôlent les monstres marins. Nombre limite d'invitations possibles : 100 personnes",4,1,12,40116,11,305,3105,1,6000,100
+3106,2,"Ceux qui Creusent","Ils contrôlent les monstres marins. Nombre limite d'invitations possibles : 100 personnes",4,1,12,40116,1,305,3106,2,6000,100
+3107,2,"Ceux qui Creusent","Ils contrôlent les monstres marins. Nombre limite d'invitations possibles : 100 personnes",4,1,12,40116,2,305,3107,3,6000,100
+3108,2,"Ceux qui Creusent","Ils contrôlent les monstres marins. Nombre limite d'invitations possibles : 100 personnes",4,1,12,40116,3,305,3108,4,6000,100
+3109,2,"Ceux qui Creusent","Ils contrôlent les monstres marins. Nombre limite d'invitations possibles : 100 personnes",4,1,12,40116,4,305,3109,5,6000,100
+3110,2,"Avalanche","Monstrueuse tortue portant sur sa carapace une montagne enneigée. Nombre limite d'invitations possibles : 100 personnes",4,1,12,40119,5,305,3110,1,36000,100
+3111,2,"Avalanche","Monstrueuse tortue portant sur sa carapace une montagne enneigée. Nombre limite d'invitations possibles : 100 personnes",4,1,12,40119,6,305,3111,2,36000,100
+3112,2,"Avalanche","Monstrueuse tortue portant sur sa carapace une montagne enneigée. Nombre limite d'invitations possibles : 100 personnes",4,1,12,40119,7,305,3112,3,36000,100
+3113,2,"Avalanche","Monstrueuse tortue portant sur sa carapace une montagne enneigée. Nombre limite d'invitations possibles : 100 personnes",4,1,12,40119,8,305,3113,4,36000,100
+3114,2,"Avalanche","Monstrueuse tortue portant sur sa carapace une montagne enneigée. Nombre limite d'invitations possibles : 100 personnes",4,1,12,40119,9,305,3114,5,36000,100
+3115,1,"Corne démoniaque S","Arme de défense qui permet de protéger les vaisseaux de guerre de l'Empire. Nombre limite d'invitations possibles : 100 personnes",1,1,12,40122,1,306,3115,1,24000,100
+3116,1,"Corne démoniaque S","Arme de défense qui permet de protéger les vaisseaux de guerre de l'Empire. Nombre limite d'invitations possibles : 100 personnes",1,1,12,40122,2,306,3116,2,24000,100
+3117,1,"Corne démoniaque S","Arme de défense qui permet de protéger les vaisseaux de guerre de l'Empire. Nombre limite d'invitations possibles : 100 personnes",1,1,12,40122,3,306,3117,3,24000,100
+3118,1,"Corne démoniaque S","Arme de défense qui permet de protéger les vaisseaux de guerre de l'Empire. Nombre limite d'invitations possibles : 100 personnes",1,1,12,40122,4,306,3118,4,24000,100
+3119,1,"Corne démoniaque S","Arme de défense qui permet de protéger les vaisseaux de guerre de l'Empire. Nombre limite d'invitations possibles : 100 personnes",5,1,12,40122,5,306,3119,5,24000,100
+3120,1,"Corne démoniaque S","Arme de défense qui permet de protéger les vaisseaux de guerre de l'Empire. Nombre limite d'invitations possibles : 100 personnes",5,1,12,40122,6,306,3120,1,24000,100
+3121,1,"Corne démoniaque S","Arme de défense qui permet de protéger les vaisseaux de guerre de l'Empire. Nombre limite d'invitations possibles : 100 personnes",5,1,12,40122,7,306,3121,2,24000,100
+3122,1,"Corne démoniaque S","Arme de défense qui permet de protéger les vaisseaux de guerre de l'Empire. Nombre limite d'invitations possibles : 100 personnes",5,1,12,40122,8,306,3122,3,24000,100
+3123,1,"Corne démoniaque S","Arme de défense qui permet de protéger les vaisseaux de guerre de l'Empire. Nombre limite d'invitations possibles : 100 personnes",1,1,12,40122,1,306,3123,1,24000,100
+3124,1,"Corne démoniaque S","Arme de défense qui permet de protéger les vaisseaux de guerre de l'Empire. Nombre limite d'invitations possibles : 100 personnes",1,1,12,40122,2,306,3124,2,24000,100
+3125,1,"Corne démoniaque S","Arme de défense qui permet de protéger les vaisseaux de guerre de l'Empire. Nombre limite d'invitations possibles : 100 personnes",1,1,12,40122,3,306,3125,3,24000,100
+3126,1,"Corne démoniaque S","Arme de défense qui permet de protéger les vaisseaux de guerre de l'Empire. Nombre limite d'invitations possibles : 100 personnes",1,1,12,40122,4,306,3126,4,24000,100
+3127,1,"Esprit de cacao","Ancienne statue en forme de tête humaine. Nombre limite d'invitations possibles : 100 personnes",1,1,12,40127,1,306,3127,1,7500,100
+3128,1,"Esprit de cacao","Ancienne statue en forme de tête humaine. Nombre limite d'invitations possibles : 100 personnes",1,1,12,40127,2,306,3128,2,7500,100
+3129,1,"Esprit de cacao","Ancienne statue en forme de tête humaine. Nombre limite d'invitations possibles : 100 personnes",1,1,12,40127,3,306,3129,3,7500,100
+3130,1,"Esprit de cacao","Ancienne statue en forme de tête humaine. Nombre limite d'invitations possibles : 100 personnes",1,1,12,40127,4,306,3130,4,7500,100
+3131,2,"Esprit de cacao","Ancienne statue en forme de tête humaine. Nombre limite d'invitations possibles : 100 personnes",1,1,12,40127,1,306,3131,1,7500,100
+3132,2,"Esprit de cacao","Ancienne statue en forme de tête humaine. Nombre limite d'invitations possibles : 100 personnes",1,1,12,40127,2,306,3132,2,7500,100
+3133,2,"Esprit de cacao","Ancienne statue en forme de tête humaine. Nombre limite d'invitations possibles : 100 personnes",1,1,12,40127,3,306,3133,3,7500,100
+3134,2,"Esprit de cacao","Ancienne statue en forme de tête humaine. Nombre limite d'invitations possibles : 100 personnes",1,1,12,40127,4,306,3134,4,7500,100
+10000,2,"Esprit de cacao","Ancienne statue en forme de tete humaine. Nombre limite d'invitations possibles : 100 personnes",1,1,12,40127,4,306,3134,4,7500,100

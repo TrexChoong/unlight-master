@@ -1,0 +1,1784 @@
+"id","name","price","description","rm_item_type","item_id","num","order","state","image_url","tab","extra_id","view_frame","sale_type","deck_image_url","twd","hkd","usd"
+1,"Magic Potion",30,"Mengisi penuh AP.",0,3,1,3,0,"item_id003.png",0,0,0,0,,30,7.83,1
+2,"Magic Potion x10",225,"Mengisi penuh AP.",0,3,10,4,0,"item_id003_.png",0,0,0,0,,225,58.76,7.5
+3,"Lucky Clover",15,"Melempar ulang dadu di Bonus Game.",0,4,1,8,0,"item_id004.png",2,0,0,0,,15,3.92,0.5
+4,"Lucky Clover x10",120,"Melempar ulang dadu di Bonus Game.",0,4,10,9,0,"item_id004_.png",2,0,0,0,,120,31.34,4
+5,"White Heath 5",18,"Melanjutkan bonus game jika jumlah dadu dibawah 5.",0,7,1,10,0,"item_id007.png",2,0,0,0,,18,4.7,0.6
+6,"White Heath 5 x10",150,"Melanjutkan bonus game jika jumlah dadu dibawah 5.",0,7,10,11,0,"item_id007_.png ",2,0,0,0,,150,39.17,5
+7,"Skip Star",30,"Kemampuan untuk melewati bonus game.",0,8,1,12,0,"item_id008.png",9,0,0,0,,30,7.83,1
+8,"Skip Star x10",225,"Kemampuan untuk melewati bonus game.",0,8,10,13,0,"item_id008_.png",9,0,0,0,,225,58.76,7.5
+9,"Hourglass",18,"Menyelesaikan pencarian Quest.",0,12,1,14,0,"item_id012.png",1,0,0,0,,18,4.7,0.6
+10,"Hourglass x10",150,"Menyelesaikan pencarian Quest.",0,12,10,15,0,"item_id012_.png",1,0,0,0,,150,39.17,5
+11,"Elixir",9,"Memulihkan HP didalam Quest.",0,17,1,16,0,"item_id013.png",5,0,0,0,,9,2.35,0.3
+12,"Elixir x10",75,"Memulihkan HP didalam Quest.",0,17,10,17,0,"item_id013_.png",5,0,0,0,,75,19.59,2.5
+13,"Traumerei Door",60,"Mengisi Quest progress 10 poin.",0,22,1,18,0,"item_id022.png",9,0,0,0,,60,15.67,2
+14,"Paladin Testament",225,"Melanjutkan ke area berikutnya.",0,23,1,19,0,"item_id024.png",1,0,0,0,,225,58.76,7.5
+15,"Demon Compass",45,"Memunculkan Quest Boss saat menyelesaikan Quest.",0,24,1,20,0,"item_id023.png",1,0,0,0,,45,11.75,1.5
+16,"ExShadowLand Pass 1 x5",60,"Mencari daerah tersembunyi di ExShadowLand (0 Menit).",0,31,5,21,0,"item_id031_5.png ",9,0,0,0,,60,15.67,2
+17,"ExShadowLand Pass 2 x5",105,"Mencari daerah tersembunyi di ExShadowLand (2 Jam).",0,32,5,22,0,"item_id032_5.png",9,0,0,0,,105,27.42,3.5
+18,"ExShadowLand Pass 3 x5",150,"Mencari daerah tersembunyi di ExShadowLand (3 Hari).",0,33,5,23,0,"item_id033_5.png",9,0,0,0,,150,39.17,5
+19,"Ticket x10",195,"10 Tiket untuk mendapatkan kartu langka.",0,9,10,0,0,"item_id009_10.png",7,0,0,0,,195,50.92,6.5
+20,"Ticket x30 + 4 + α",540,"34 Tiket untuk mendapatkan kartu langka + Hades Seal",0,9,34,1,1,"item_id009_30.png",7,78,0,0,,540,141.01,18
+21,"Ticket x50 + 4 + α",900,"58 Tiket untuk mendapatkan kartu langka + 2 Hades Seal",0,9,58,2,1,"item_id009_50.png",7,79,0,0,,900,235.02,30
+22,"ExMoonLand Pass 1 x5",75,"Mencari daerah tersembunyi di ExMoonLand (0 Menit).",0,34,5,24,0,"item_id034_5.png ",9,0,0,0,,75,19.59,2.5
+23,"ExMoonLand Pass 2 x5",120,"Mencari daerah tersembunyi di ExMoonLand (2 Jam).",0,35,5,25,0,"item_id035_5.png",9,0,0,0,,120,31.34,4
+24,"ExMoonLand Pass 3 x5",165,"Mencari daerah tersembunyi di ExMoonLand (3 Hari).",0,36,5,26,0,"item_id036_5.png",9,0,0,0,,165,43.09,5.5
+25,"Memory Fragment",45,"Kepingan memori dari kehidupan sebelumnya.",4,10006,1,0,0,"chara_id10006.png",8,0,0,0,,45,11.75,1.5
+26,"Memory Fragment x12",450,"Kepingan memori dari kehidupan sebelumnya.",4,10006,12,1,0,"chara_id10006_12.png",8,0,0,0,,450,117.51,15
+27,"Time Fragment",60,"Kepingan waktu yang dapat digunakan untuk mengarungi waktu.",4,10007,1,2,0,"chara_id10007.png",8,0,0,0,,60,15.67,2
+28,"Time Fragment x12",600,"Kepingan waktu yang dapat digunakan untuk mengarungi waktu.",4,10007,12,3,0,"chara_id10007_12.png",8,0,0,0,,600,156.68,20
+29,"Soul Fragment",75,"Kepingan jiwa yang hilang.",4,10008,1,4,0,"chara_id10008.png",8,0,0,0,,75,19.59,2.5
+30,"Soul Fragment x12",750,"Kepingan jiwa yang hilang.",4,10008,12,5,0,"chara_id10008_12.png",8,0,0,0,,750,195.85,25
+31,"Pioneer Bracelet I",60,"Menambah 1 slot pencarian (berlaku selama 30 hari).",0,9,1,3,0,"item_id013.png",10,0,0,0,,60,15.67,2
+32,"Pioneer Bracelet II",105,"Menambah 2 slot pencarian (berlaku selama 30 hari).",0,9,1,4,0,"item_id013.png",10,0,0,0,,105,27.42,3.5
+33,"Pioneer Bracelet III",135,"Menambah 3 slot pencarian (berlaku selama 30 hari).",0,9,1,5,0,"item_id013.png",10,0,0,0,,135,35.25,4.5
+34,"Mystery Tiara I",60,"Mengurangi waktu pencarian Quest sebanyak 30% (berlaku selama 30 hari).",1,57,1,100,0,"chara_id1003.png",9,0,0,0,,60,15.67,2
+35,"Mystery Tiara II",105,"Mengurangi waktu pencarian Quest sebanyak 50% (berlaku selama 30 hari).",1,58,1,101,0,"chara_id1004.png",9,0,0,0,,105,27.42,3.5
+36,"Mystery Tiara III",135,"Mengurangi waktu pencarian Quest sebanyak 75% (berlaku selama 30 hari).",1,59,1,102,0,"chara_id1005.png",9,0,0,0,,135,35.25,4.5
+37,"Fairy Familiar I",60,"Menambah 1 slot pencarian (berlaku selama 30 hari).",1,60,1,103,0,"chara_id1006.png",9,0,0,0,,60,15.67,2
+38,"Fairy Familiar II",105,"Menambah 2 slot pencarian (berlaku selama 30 hari).",1,61,1,104,0,"chara_id1007.png",9,0,0,0,,105,27.42,3.5
+39,"Fairy Familiar III",135,"Menambah 3 slot pencarian (berlaku selama 30 hari).",1,62,1,105,0,"chara_id1008.png",9,0,0,0,,135,35.25,4.5
+40,"Witch Earrings I",60,"Mempercepat pemulihan AP 10 menit (berlaku selama 30 hari).",1,63,1,106,0,"chara_id1009.png",9,0,0,0,,60,15.67,2
+41,"Witch Earrings II",105,"Mempercepat pemulihan AP 15 menit (berlaku selama 30 hari).",1,64,1,107,0,"chara_id1010.png",9,0,0,0,,105,27.42,3.5
+42,"Witch Earrings III",135,"Mempercepat pemulihan AP 20 menit (berlaku selama 30 hari).",1,65,1,108,0,"chara_id1011.png",9,0,0,0,,135,35.25,4.5
+43,"Fortune Wand I",60,"Memberi bonus 50% GEM (berlaku selama 30 hari).",1,66,1,109,0,"chara_id1012.png",9,0,0,0,,60,15.67,2
+44,"Fortune Wand II",105,"Memberi bonus 100% GEM (berlaku selama 30 hari).",1,67,1,110,0,"chara_id1013.png",9,0,0,0,,105,27.42,3.5
+45,"Fortune Wand III",135,"Memberi bonus 200% GEM (berlaku selama 30 hari).",1,68,1,111,0,"chara_id1014.png",9,0,0,0,,135,35.25,4.5
+46,"Eye Patch (White)",60,"Dapat digunakan sebagai perban.",1,79,1,200,0,"chara_id1015.png",9,0,0,0,,60,15.67,2
+47,"Mush (Brown)",60,"Gaya rambut anak-anak.",1,72,1,201,0,"chara_id1021.png",9,0,0,0,,60,15.67,2
+48,"Mush (White)",60,"Gaya rambut anak-anak.",1,73,1,202,0,"chara_id1023.png",9,0,0,0,,60,15.67,2
+49,"Twin Tail (Blond)",60,"Gaya rambut bangsawan.",1,75,1,203,0,"chara_id1030.png",9,0,0,0,,60,15.67,2
+50,"Twin Tail (Brown)",60,"Gaya rambut bangsawan.",1,76,1,204,0,"chara_id1031.png",9,0,0,0,,60,15.67,2
+51,"Ticket",0,"Untuk Administrator.",0,9,1,0,0,"item_id003.png",10,0,0,0,,0,0,0
+52,"White Heath 3",0,"Untuk Administrator.",0,6,1,0,0,"item_id003.png",10,0,0,0,,0,0,0
+53,"White Heath 1",0,"Untuk Administrator.",0,5,1,0,0,"item_id003.png",10,0,0,0,,0,0,0
+54,"Long Hair (Blond)",60,"Gaya rambut dewasa.",1,89,1,205,0,"chara_id1040.png",9,0,0,0,,60,15.67,2
+55,"Long Hair (White)",60,"Gaya rambut dewasa.",1,90,1,206,0,"chara_id1043.png",9,0,0,0,,60,15.67,2
+56,"Long Hair (Black)",60,"Gaya rambut dewasa.",1,91,1,207,0,"chara_id1047.png",9,0,0,0,,60,15.67,2
+57,"Blue Glasses",45,"Kacamata pembantu penglihatan.",1,92,1,208,0,"chara_id1017.png",9,0,0,0,,45,11.75,1.5
+58,"Red Glasses",45,"Kacamata pembantu penglihatan.",1,93,1,209,0,"chara_id1018.png",9,0,0,0,,45,11.75,1.5
+59,"Mystery Closet",105,"Menambah 5 slot perlengkapan Avatar.",0,37,1,30,0,"item_id037.png",9,0,0,0,,105,27.42,3.5
+60,"Casual Short (Blond)",60,"Gaya rambut halus.",1,103,1,210,0,"chara_id1050.png",9,0,0,0,,60,15.67,2
+61,"Casual Short (Blue)",60,"Gaya rambut halus.",1,104,1,211,0,"chara_id1052.png",9,0,0,0,,60,15.67,2
+62,"Casual Short (Red)",60,"Gaya rambut halus.",1,105,1,212,0,"chara_id1056.png",9,0,0,0,,60,15.67,2
+63,"Blue Purification Flame",300,"Mereset catatan duel Avatar.",0,40,1,32,0,"item_id040.png",9,0,0,0,,300,78.34,10
+64,"Red Purification Flame",300,"Mereset BP dari Avatar.",0,41,1,33,0,"item_id041.png",9,0,0,0,,300,78.34,10
+65,"Witch Closet",150,"Menambah 10 slot perlengkapan Avatar.",0,42,1,31,0,"item_id042.png",9,0,0,0,,150,39.17,5
+66,"Noble Long (Blue)",60,"Rambut lurus.",1,115,1,213,0,"chara_id1062.png",9,0,0,0,,60,15.67,2
+67,"Noble Long (Red)",60,"Rambut lurus.",1,116,1,214,0,"chara_id1063.png",9,0,0,0,,60,15.67,2
+68,"Noble Long (Black)",60,"Rambut lurus.",1,117,1,215,0,"chara_id1067.png",9,0,0,0,,60,15.67,2
+69,"Long (Blond)",60,"Rambut panjang lurus.",1,118,1,216,0,"chara_id1070.png",9,0,0,0,,60,15.67,2
+70,"Long (Red)",60,"Rambut panjang lurus.",1,119,1,217,0,"chara_id1076.png",9,0,0,0,,60,15.67,2
+71,"Long (Brown)",60,"Rambut panjang lurus.",1,120,1,218,0,"chara_id1078.png",9,0,0,0,,60,15.67,2
+72,"New Year's Dress (Green)",60,"Baju khusus Tahun Baru.",1,122,1,219,0,"chara_id2000.png",9,0,0,0,,60,15.67,2
+73,"New Year's Dress (Purple)",60,"Baju khusus Tahun Baru.",1,123,1,220,0,"chara_id2001.png",9,0,0,0,,60,15.67,2
+74,"Milian",540,"Mantan prajurit Regiment bertangan satu yang pernah bekerja bersama Rosso.",4,241,1,4,0,"chara_id241.png",10,0,0,0,,540,141.01,18
+75,"ExAnemonea Pass 1 x5",105,"Mencari area tersembunyi di ExAnemonea.",0,47,5,27,0,"item_id047_5.png",6,0,0,0,,105,27.42,3.5
+76,"ExAnemonea Pass 2 x5",135,"Mencari area tersembunyi di ExAnemonea (2 Jam).",0,48,5,28,0,"item_id048_5.png",6,0,0,0,,135,35.25,4.5
+77,"ExAnemonea Pass 3 x5",195,"Mencari area tersembunyi di ExAnemonea (3 Hari).",0,49,5,29,0,"item_id049_5.png",6,0,0,0,,195,50.92,6.5
+78,"Hades Seal",99999,"Item Khusus Bonus.",4,10011,1,99,0,"item_id003.png",10,0,0,0,,99999,99999,99999
+79,"Hades Seal x2",99999,"Item Khusus Bonus.",4,10011,2,99,0,"item_id003.png",10,0,0,0,,99999,99999,99999
+80,"Quest Set A",105,"Set Quest. Magic Potion x2. Hourglass x3. Elixir x2.",0,3,2,80,1,"item_set_b000.png",1,81,0,0,,105,27.42,3.5
+81,"Hourglass x3",99999,"Set diskon.",0,12,3,99,0,"item_id012.png",10,82,0,0,,99999,99999,99999
+82,"Elixir x2",99999,"Set diskon.",0,17,2,99,0,"item_id013.png",10,0,0,0,,99999,99999,99999
+83,"Quest Set B",195,"Set Quest. Magic Potion x2. Hourglass x3. Elixir x2. Demon Compass x2. Special Mushroom Extract. Avatar Parts.",0,3,2,81,1,"item_set_b001.png",1,155,0,0,,195,50.92,6.5
+84,"Hourglass x3",99999,"Set diskon.",0,12,3,99,0,"item_id012.png",10,86,0,0,,99999,99999,99999
+85,"Elixir x2",99999,"Set diskon.",1,199,1,99,0,"item_id003.png",10,0,0,0,,99999,99999,99999
+86,"Demon Compass",99999,"Set diskon.",0,24,2,99,0,"item_id023.png",10,87,0,0,,99999,99999,99999
+87,"Mushroom Extract",99999,"Set diskon.",0,38,1,99,0,"item_id023.png",10,88,0,0,,99999,99999,99999
+88,"Long (Blond)",99999,"Rambut panjang.",0,17,2,99,0,"item_id013.png",10,0,0,0,,99999,99999,99999
+89,"Duel Set A",105,"Set Duel. Magic Potion. Lucky Clover x3. White Heath 5 x3.",0,3,1,90,1,"item_set_a000.png",2,90,0,0,,105,27.42,3.5
+90,"Lucky Clover x3",99999,"Set diskon.",0,4,3,99,0,"item_id004.png",10,91,0,0,,99999,99999,99999
+91,"White Heath 5 x3",99999,"Set diskon.",0,7,3,99,0,"item_id007.png",10,0,0,0,,99999,99999,99999
+92,"Duel Set B",195,"Set Duel. Special Mushroom Extract. Lucky Clover x5. White Heath 5 x3. Skip Star x3. Black Mini Hat (pada pembelian pertama).",0,4,5,91,1,"item_set_a001.png",2,154,0,0,,195,50.92,6.5
+93,"Mini Hat (Black)",99999,"Set diskon.",1,198,1,31,0,"item_id004.png",10,0,0,0,,99999,99999,99999
+94,"White Heath 5 x3",99999,"Set diskon.",0,7,3,99,0,"item_id007.png",10,95,0,0,,99999,99999,99999
+95,"Skip Star x3",99999,"Set diskon.",0,8,3,99,0,"item_id008.png",10,96,0,0,,99999,99999,99999
+96,"Mushroom Extract",99999,"Set diskon.",0,38,1,99,0,"item_id023.png",10,0,0,0,,99999,99999,99999
+97,"ExAngelLand Pass 1 x5",120,"Mencari area tersembunyi di ExAngelLand.",0,66,5,5,1,"item_id066_5.png",6,0,0,0,,120,31.34,4
+98,"ExAngelLand Pass 2 x5",150,"Mencari area tersembunyi di ExAngelLand (2 Jam).",0,67,5,6,1,"item_id067_5.png",6,0,0,0,,150,39.17,5
+99,"ExAngelLand Pass 3 x5",210,"Mencari area tersembunyi di ExAngelLand (3 Hari).",0,68,5,7,1,"item_id068_5.png",6,0,0,0,,210,54.84,7
+100,"Deck Set 1",300,"Mendapatkan kartu berikut dalam Deck LV21. Evarist LV4. Grunwald LV4. Abel LV4.",5,114060,1,0,1,"item_deck_a000.png",10,101,1,0,"item_c_k000.swf",300,78.34,10
+101,"Evarist Lv4",99999,"Set diskon.",4,4,1,0,0,"chara_id241.png",10,102,0,0,,99999,99999,99999
+102,"Grunwald Lv4",99999,"Set diskon.",4,24,1,0,0,"item_id003.png",10,103,0,0,,99999,99999,99999
+103,"Abel Lv4",99999,"Set diskon.",4,34,1,0,0,"item_id003.png",10,0,0,0,,99999,99999,99999
+104,"Deck Set 2",900,"Mendapatkan kartu berikut dalam Deck LV21. Jead LV3. Kronig LV3. Redgrave LV3. CHANCE3 x2. SPECIAL3 x2. SPECIAL2 x6. SPECIAL1/SHIELD1 x6. SHIELD3 x2.",5,114060,1,0,1,"item_deck_a001.png",10,105,2,0,"item_c_k000.swf",900,235.02,30
+105,"Kronig Lv3",99999,"Set diskon.",4,53,1,0,0,"chara_id241.png",10,106,0,0,,99999,99999,99999
+106,"Special 2",99999,"Set diskon.",2,28,1,0,0,"item_id003.png",10,107,0,0,,99999,99999,99999
+107,"Special 2",99999,"Set diskon.",2,28,1,0,0,"item_id003.png",10,108,0,0,,99999,99999,99999
+108,"Special 2",99999,"Set diskon.",2,28,1,0,0,"item_id003.png",10,109,0,0,,99999,99999,99999
+109,"Special 2",99999,"Set diskon.",2,28,1,0,0,"item_id003.png",10,110,0,0,,99999,99999,99999
+110,"Special 2",99999,"Set diskon.",2,28,1,0,0,"item_id003.png",10,111,0,0,,99999,99999,99999
+111,"Special 2",99999,"Set diskon.",2,28,1,0,0,"item_id003.png",10,112,0,0,,99999,99999,99999
+112,"Jead Lv3",99999,"Set diskon.",4,63,1,0,0,"chara_id241.png",10,113,0,0,,99999,99999,99999
+113,"Chance Card 4",99999,"Set diskon.",2,34,1,0,0,"item_id003.png",10,114,0,0,,99999,99999,99999
+114,"Special 3",99999,"Set diskon.",2,29,1,0,0,"item_id003.png",10,115,0,0,,99999,99999,99999
+115,"Shield 3",99999,"Set diskon.",2,19,1,0,0,"item_id003.png",10,116,0,0,,99999,99999,99999
+116,"Shield 1/Special 1",99999,"Set diskon.",2,56,1,0,0,"item_id003.png",10,117,0,0,,99999,99999,99999
+117,"Shield 1/Special 1",99999,"Set diskon.",2,56,1,0,0,"item_id003.png",10,118,0,0,,99999,99999,99999
+118,"Shield 1/Special 1",99999,"Set diskon.",2,56,1,0,0,"item_id003.png",10,119,0,0,,99999,99999,99999
+119,"Redgrave Lv5",99999,"Set diskon.",4,223,1,0,0,"chara_id241.png",10,120,0,0,,99999,99999,99999
+120,"Chance Card 4",99999,"Set diskon.",2,34,1,0,0,"item_id003.png",10,121,0,0,,99999,99999,99999
+121,"Special 3",99999,"Set diskon.",2,29,1,0,0,"item_id003.png",10,122,0,0,,99999,99999,99999
+122,"Shield 3",99999,"Set diskon.",2,19,1,0,0,"item_id003.png",10,123,0,0,,99999,99999,99999
+123,"Shield 1/Special 1",99999,"Set diskon.",2,56,1,0,0,"item_id003.png",10,124,0,0,,99999,99999,99999
+124,"Shield 1/Special 1",99999,"Set diskon.",2,56,1,0,0,"item_id003.png",10,125,0,0,,99999,99999,99999
+125,"Shield 1/Special 1",99999,"Set diskon.",2,56,1,0,0,"item_id003.png",10,0,0,0,,99999,99999,99999
+126,"Deck Set 3",1800,"Mendapatkan kartu berikut dalam Deck LV31. Jead LV5. Kronig LV5. Redgrave LV5. CHANCE4. CHANCE3. SPECIAL3 x4. SPECIAL2 x6. SPECIAL1/SHIELD1 x5.",5,551060,1,0,1,"item_deck_a002.png",10,127,3,0,"item_c_k000.swf",1800,470.04,60
+127,"Kronig Lv5",99999,"Set diskon.",4,55,1,0,0,"chara_id241.png",10,128,0,0,,99999,99999,99999
+128,"Special 2",99999,"Set diskon.",2,28,1,0,0,"item_id003.png",10,129,0,0,,99999,99999,99999
+129,"Special 2",99999,"Set diskon.",2,28,1,0,0,"item_id003.png",10,130,0,0,,99999,99999,99999
+130,"Special 2",99999,"Set diskon.",2,29,1,0,0,"item_id003.png",10,131,0,0,,99999,99999,99999
+131,"Special 2",99999,"Set diskon.",2,28,1,0,0,"item_id003.png",10,132,0,0,,99999,99999,99999
+132,"Special 2",99999,"Set diskon.",2,28,1,0,0,"item_id003.png",10,133,0,0,,99999,99999,99999
+133,"Special 2",99999,"Set diskon.",2,28,1,0,0,"item_id003.png",10,134,0,0,,99999,99999,99999
+134,"Jead Lv5",99999,"Set diskon.",4,65,1,0,0,"chara_id241.png",10,135,0,0,,99999,99999,99999
+135,"Chance Card 4",99999,"Set diskon.",2,35,1,0,0,"item_id003.png",10,136,0,0,,99999,99999,99999
+136,"Special 3",99999,"Set diskon.",2,29,1,0,0,"item_id003.png",10,137,0,0,,99999,99999,99999
+137,"Move 3",99999,"Set diskon.",2,24,1,0,0,"item_id003.png",10,138,0,0,,99999,99999,99999
+138,"Special 2",99999,"Set diskon.",2,28,1,0,0,"item_id003.png",10,139,0,0,,99999,99999,99999
+139,"Shield 1/Special 1",99999,"Set diskon.",2,56,1,0,0,"item_id003.png",10,140,0,0,,99999,99999,99999
+140,"Shield 1/Special 1",99999,"Set diskon.",2,56,1,0,0,"item_id003.png",10,141,0,0,,99999,99999,99999
+141,"Redgrave Lv5",99999,"Set diskon.",4,225,1,0,0,"chara_id241.png",10,142,0,0,,99999,99999,99999
+142,"Chance Card 3",99999,"Set diskon.",2,34,1,0,0,"item_id003.png",10,143,0,0,,99999,99999,99999
+143,"Special 3",99999,"Set diskon.",2,29,1,0,0,"item_id003.png",10,144,0,0,,99999,99999,99999
+144,"Special 3",99999,"Set diskon.",2,29,1,0,0,"item_id003.png",10,145,0,0,,99999,99999,99999
+145,"Shield 1/Special 1",99999,"Set diskon.",2,56,1,0,0,"item_id003.png",10,146,0,0,,99999,99999,99999
+146,"Shield 1/Special 1",99999,"Set diskon.",2,56,1,0,0,"item_id003.png",10,147,0,0,,99999,99999,99999
+147,"Shield 1/Special 1",99999,"Set diskon.",2,56,1,0,0,"item_id003.png",10,0,0,0,,99999,99999,99999
+148,"Peony Hair Ornament (Blue)",99999,"Set diskon.",1,202,1,99,0,"item_id013.png",10,0,0,0,,99999,99999,99999
+149,"Peony Hair Ornament (White)",99999,"Set diskon.",1,203,1,31,0,"item_id004.png",10,0,0,0,,99999,99999,99999
+150,"Silk Dress (Blue)",60,"Dress berpotongan rendah.",1,205,1,221,0,"chara_id2002.png",9,0,0,0,,60,15.67,2
+151,"Silk Dress (Black)",60,"Dress berpotongan rendah.",1,206,1,222,0,"chara_id2003.png",9,0,0,0,,60,15.67,2
+152,"Silk Pumps (Blue)",60,"Sepatu yang cocok dengan gaun.",1,208,1,223,0,"chara_id6000.png",9,0,0,0,,60,15.67,2
+153,"Silk Pumps (Black)",60,"Sepatu yang cocok dengan gaun.",1,209,1,224,0,"chara_id6001.png",9,0,0,0,,60,15.67,2
+154,"ミニクラウン（青）",99999,"セット販売用",1,257,1,99,0,"item_id013.png",10,94,0,0,,99999,99999,99999
+155,"ミニクラウン（緑）",99999,"セット販売用",1,258,1,99,0,"item_id004.png",10,84,0,0,,99999,99999,99999
+156,"ミニクラウン（赤）",60,"高貴な者だけが身につける事を許された王冠",1,256,1,225,0,"chara_id3005.png",9,0,0,0,,60,15.67,2
+157,"王子の服（赤）",60,"気品漂う服",1,259,1,226,0,"chara_id4000.png",9,0,0,0,,60,15.67,2
+158,"王子の服（青）",60,"気品漂う服",1,260,1,227,0,"chara_id4001.png",9,0,0,0,,60,15.67,2
+159,"王子のパンツ（赤）",60,"気品漂うパンツ",1,262,1,228,0,"chara_id5000.png",9,0,0,0,,60,15.67,2
+160,"王子のパンツ（青）",60,"気品漂うパンツ",1,263,1,229,0,"chara_id5001.png",9,0,0,0,,60,15.67,2
+161,"カエル王子の剣（青）",60,"高貴な者だけが身につける事を許された剣。特殊な効果は無い",1,267,1,0,1,"chara_id1700.png",9,0,0,0,,60,15.67,2
+162,"カエル王子の剣（緑）",60,"高貴な者だけが身につける事を許された剣。特殊な効果は無い",1,268,1,1,1,"chara_id1702.png",9,0,0,0,,60,15.67,2
+163,"ExEventLand通行証1",21,"開催中のイベントに応じた専用クエストを取得します（0分）　個数1　現在取得するクエスト：青碧の魔物イベント",0,73,1,0,1,"item_id073_1.png",10,0,0,0,,21,5.48,0.7
+164,"ExEventLand通行証1x5",105,"開催中のイベントに応じた専用クエストを取得します（0分）　個数5　現在取得するクエスト：青碧の魔物イベント",0,73,5,1,1,"item_id073_5.png",10,0,0,0,,105,27.42,3.5
+165,"ExEventLand通行証1x12",210,"開催中のイベントに応じた専用クエストを取得します（0分）　個数12　現在取得するクエスト：青碧の魔物イベント",0,73,12,2,1,"item_id073_12.png",10,0,0,0,,210,54.84,7
+166,"ExEventLand通行証2",27,"開催中のイベントに応じた専用クエストを取得します（2時間）　個数1　現在取得するクエスト：青碧の魔物イベント",0,74,1,3,1,"item_id074_1.png",10,0,0,0,,27,7.05,0.9
+167,"ExEventLand通行証2x5",135,"開催中のイベントに応じた専用クエストを取得します（2時間）　個数5　現在取得するクエスト：青碧の魔物イベント",0,74,5,4,1,"item_id074_5.png",10,0,0,0,,135,35.25,4.5
+168,"ExEventLand通行証2x12",270,"開催中のイベントに応じた専用クエストを取得します（2時間）　個数12　現在取得するクエスト：青碧の魔物イベント",0,74,12,5,1,"item_id074_12.png",10,0,0,0,,270,70.51,9
+169,"ExEventLand通行証3",39,"開催中のイベントに応じた専用クエストを取得します（3日）　個数1　現在取得するクエスト：青碧の魔物イベント",0,75,1,6,1,"item_id075_1.png",10,0,0,0,,39,10.18,1.3
+170,"ExEventLand通行証3x5",195,"開催中のイベントに応じた専用クエストを取得します（3日）　個数5　現在取得するクエスト：青碧の魔物イベント",0,75,5,7,1,"item_id075_5.png",10,0,0,0,,195,50.92,6.5
+171,"ExEventLand通行証3x12",390,"開催中のイベントに応じた専用クエストを取得します（3日）　個数12　現在取得するクエスト：青碧の魔物イベント",0,75,12,8,1,"item_id075_12.png",10,0,0,0,,390,101.84,13
+172,"ファーストエイド5x2",99999,"管理者用",0,15,2,99,0,"item_id003.png",10,0,0,0,,99999,99999,99999
+173,"ゴシックドレス",99999,"管理者用",3,164,1,99,0,"item_id003.png",10,0,0,0,,99999,99999,99999
+174,"ミニクラウン（黒）",60,"高貴な者だけが身につける事を許された王冠",1,276,1,2,1,"chara_id3008.png",9,0,0,0,,60,15.67,2
+175,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+176,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+177,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+178,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+179,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+180,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+181,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+182,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+183,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+184,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+185,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+186,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+187,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+188,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+189,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+190,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+191,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+192,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+193,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+194,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+195,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+196,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+197,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+198,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+199,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+200,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+201,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+202,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+203,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+204,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+205,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+206,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+207,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+208,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+209,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+210,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+211,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+212,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+213,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+214,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+215,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+216,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+217,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+218,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+219,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+220,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+221,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+222,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+223,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+224,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+225,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+226,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+227,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+228,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+229,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+230,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+231,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+232,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+233,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+234,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+235,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+236,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+237,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+238,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+239,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+240,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+241,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+242,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+243,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+244,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+245,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+246,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+247,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+248,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+249,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+250,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+251,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+252,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+253,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+254,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+255,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+256,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+257,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+258,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+259,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+260,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+261,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+262,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+263,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+264,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+265,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+266,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+267,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+268,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+269,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+270,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+271,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+272,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+273,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+274,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+275,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+276,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+277,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+278,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+279,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+280,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+281,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+282,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+283,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+284,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+285,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+286,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+287,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+288,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+289,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+290,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+291,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+292,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+293,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+294,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+295,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+296,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+297,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+298,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+299,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+300,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+301,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+302,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+303,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+304,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+305,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+306,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+307,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+308,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+309,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+310,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+311,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+312,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+313,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+314,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+315,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+316,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+317,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+318,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+319,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+320,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+321,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+322,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+323,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+324,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+325,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+326,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+327,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+328,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+329,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+330,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+331,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+332,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+333,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+334,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+335,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+336,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+337,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+338,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+339,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+340,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+341,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+342,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+343,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+344,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+345,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+346,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+347,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+348,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+349,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+350,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+351,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+352,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+353,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+354,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+355,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+356,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+357,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+358,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+359,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+360,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+361,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+362,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+363,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+364,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+365,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+366,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+367,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+368,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+369,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+370,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+371,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+372,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+373,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+374,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+375,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+376,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+377,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+378,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+379,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+380,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+381,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+382,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+383,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+384,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+385,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+386,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+387,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+388,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+389,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+390,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+391,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+392,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+393,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+394,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+395,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+396,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+397,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+398,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+399,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+400,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+401,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+402,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+403,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+404,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+405,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+406,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+407,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+408,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+409,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+410,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+411,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+412,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+413,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+414,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+415,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+416,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+417,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+418,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+419,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+420,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+421,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+422,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+423,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+424,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+425,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+426,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+427,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+428,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+429,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+430,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+431,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+432,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+433,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+434,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+435,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+436,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+437,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+438,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+439,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+440,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+441,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+442,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+443,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+444,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+445,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+446,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+447,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+448,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+449,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+450,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+451,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+452,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+453,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+454,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+455,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+456,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+457,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+458,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+459,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+460,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+461,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+462,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+463,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+464,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+465,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+466,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+467,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+468,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+469,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+470,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+471,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+472,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+473,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+474,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+475,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+476,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+477,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+478,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+479,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+480,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+481,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+482,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+483,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+484,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+485,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+486,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+487,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+488,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+489,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+490,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+491,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+492,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+493,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+494,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+495,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+496,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+497,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+498,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+499,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+500,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+501,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+502,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+503,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+504,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+505,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+506,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+507,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+508,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+509,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+510,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+511,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+512,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+513,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+514,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+515,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+516,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+517,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+518,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+519,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+520,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+521,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+522,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+523,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+524,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+525,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+526,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+527,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+528,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+529,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+530,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+531,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+532,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+533,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+534,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+535,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+536,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+537,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+538,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+539,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+540,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+541,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+542,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+543,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+544,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+545,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+546,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+547,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+548,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+549,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+550,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+551,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+552,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+553,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+554,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+555,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+556,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+557,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+558,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+559,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+560,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+561,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+562,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+563,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+564,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+565,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+566,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+567,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+568,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+569,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+570,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+571,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+572,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+573,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+574,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+575,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+576,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+577,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+578,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+579,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+580,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+581,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+582,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+583,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+584,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+585,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+586,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+587,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+588,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+589,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+590,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+591,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+592,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+593,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+594,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+595,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+596,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+597,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+598,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+599,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+600,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+601,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+602,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+603,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+604,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+605,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+606,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+607,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+608,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+609,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+610,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+611,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+612,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+613,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+614,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+615,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+616,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+617,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+618,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+619,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+620,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+621,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+622,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+623,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+624,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+625,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+626,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+627,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+628,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+629,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+630,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+631,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+632,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+633,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+634,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+635,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+636,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+637,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+638,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+639,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+640,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+641,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+642,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+643,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+644,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+645,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+646,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+647,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+648,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+649,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+650,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+651,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+652,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+653,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+654,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+655,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+656,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+657,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+658,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+659,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+660,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+661,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+662,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+663,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+664,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+665,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+666,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+667,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+668,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+669,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+670,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+671,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+672,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+673,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+674,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+675,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+676,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+677,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+678,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+679,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+680,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+681,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+682,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+683,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+684,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+685,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+686,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+687,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+688,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+689,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+690,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+691,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+692,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+693,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+694,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+695,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+696,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+697,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+698,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+699,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+700,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+701,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+702,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+703,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+704,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+705,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+706,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+707,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+708,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+709,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+710,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+711,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+712,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+713,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+714,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+715,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+716,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+717,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+718,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+719,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+720,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+721,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+722,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+723,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+724,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+725,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+726,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+727,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+728,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+729,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+730,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+731,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+732,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+733,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+734,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+735,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+736,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+737,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+738,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+739,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+740,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+741,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+742,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+743,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+744,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+745,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+746,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+747,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+748,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+749,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+750,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+751,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+752,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+753,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+754,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+755,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+756,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+757,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+758,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+759,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+760,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+761,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+762,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+763,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+764,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+765,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+766,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+767,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+768,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+769,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+770,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+771,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+772,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+773,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+774,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+775,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+776,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+777,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+778,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+779,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+780,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+781,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+782,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+783,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+784,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+785,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+786,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+787,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+788,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+789,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+790,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+791,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+792,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+793,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+794,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+795,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+796,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+797,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+798,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+799,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+800,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+801,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+802,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+803,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+804,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+805,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+806,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+807,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+808,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+809,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+810,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+811,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+812,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+813,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+814,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+815,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+816,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+817,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+818,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+819,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+820,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+821,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+822,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+823,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+824,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+825,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+826,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+827,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+828,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+829,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+830,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+831,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+832,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+833,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+834,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+835,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+836,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+837,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+838,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+839,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+840,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+841,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+842,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+843,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+844,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+845,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+846,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+847,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+848,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+849,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+850,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+851,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+852,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+853,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+854,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+855,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+856,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+857,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+858,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+859,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+860,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+861,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+862,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+863,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+864,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+865,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+866,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+867,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+868,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+869,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+870,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+871,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+872,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+873,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+874,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+875,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+876,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+877,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+878,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+879,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+880,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+881,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+882,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+883,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+884,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+885,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+886,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+887,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+888,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+889,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+890,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+891,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+892,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+893,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+894,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+895,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+896,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+897,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+898,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+899,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+900,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+901,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+902,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+903,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+904,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+905,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+906,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+907,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+908,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+909,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+910,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+911,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+912,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+913,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+914,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+915,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+916,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+917,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+918,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+919,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+920,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+921,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+922,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+923,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+924,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+925,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+926,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+927,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+928,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+929,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+930,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+931,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+932,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+933,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+934,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+935,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+936,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+937,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+938,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+939,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+940,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+941,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+942,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+943,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+944,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+945,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+946,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+947,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+948,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+949,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+950,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+951,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+952,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+953,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+954,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+955,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+956,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+957,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+958,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+959,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+960,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+961,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+962,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+963,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+964,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+965,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+966,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+967,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+968,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+969,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+970,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+971,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+972,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+973,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+974,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+975,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+976,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+977,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+978,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+979,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+980,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+981,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+982,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+983,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+984,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+985,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+986,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+987,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+988,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+989,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+990,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+991,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+992,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+993,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+994,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+995,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+996,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+997,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+998,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+999,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1000,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1001,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1002,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1003,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1004,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1005,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1006,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1007,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1008,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1009,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1010,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1011,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1012,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1013,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1014,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1015,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1016,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1017,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1018,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1019,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1020,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1021,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1022,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1023,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1024,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1025,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1026,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1027,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1028,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1029,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1030,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1031,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1032,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1033,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1034,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1035,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1036,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1037,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1038,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1039,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1040,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1041,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1042,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1043,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1044,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1045,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1046,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1047,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1048,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1049,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1050,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1051,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1052,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1053,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1054,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1055,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1056,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1057,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1058,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1059,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1060,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1061,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1062,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1063,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1064,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1065,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1066,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1067,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1068,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1069,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1070,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1071,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1072,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1073,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1074,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1075,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1076,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1077,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1078,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1079,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1080,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1081,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1082,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1083,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1084,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1085,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1086,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1087,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1088,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1089,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1090,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1091,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1092,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1093,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1094,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1095,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1096,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1097,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1098,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1099,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1100,"Magic Potion",12,"Mengisi penuh AP.",0,3,1,0,2,"item_id003.png",0,0,0,0,,12,3.13,0.4
+1101,"Magic Potion x10",90,"Mengisi penuh AP.",0,3,10,1,2,"item_id003_.png",0,0,0,0,,90,23.5,3
+1102,"Lucky Clover",6,"Melempar ulang dadu di Bonus Game.",0,4,1,0,2,"item_id004.png",2,0,0,0,,6,1.57,0.2
+1103,"Lucky Clover x10",48,"Melempar ulang dadu di Bonus Game.",0,4,10,1,2,"item_id004_.png",2,0,0,0,,48,12.53,1.6
+1104,"White Heath 5",6,"Melanjutkan bonus game jika jumlah dadu dibawah 5.",0,7,1,10,2,"item_id007.png",2,0,0,0,,6,1.57,0.2
+1105,"White Heath 5 x10",60,"Melanjutkan bonus game jika jumlah dadu dibawah 5.",0,7,10,11,2,"item_id007_.png ",2,0,0,0,,60,15.67,2
+1106,"Skip Star",12,"Kemampuan untuk melewati bonus game.",0,8,1,20,2,"item_id008.png",9,0,0,0,,12,3.13,0.4
+1107,"Skip Star x10",90,"Kemampuan untuk melewati bonus game.",0,8,10,21,2,"item_id008_.png",9,0,0,0,,90,23.5,3
+1108,"Hourglass",6,"Menyelesaikan pencarian Quest.",0,12,1,0,2,"item_id012.png",1,0,0,0,,6,1.57,0.2
+1109,"Hourglass x10",60,"Menyelesaikan pencarian Quest.",0,12,10,1,2,"item_id012_.png",1,0,0,0,,60,15.67,2
+1110,"Elixir",3,"Memulihkan HP didalam Quest.",0,17,1,10,2,"item_id013.png",5,0,0,0,,3,0.78,0.1
+1111,"Elixir x10",30,"Memulihkan HP didalam Quest.",0,17,10,11,2,"item_id013_.png",5,0,0,0,,30,7.83,1
+1112,"Traumerei Door",24,"Mengisi Quest progress 10 poin.",0,22,1,10,2,"item_id022.png",9,0,0,0,,24,6.27,0.8
+1113,"Paladin Testament",90,"Melanjutkan ke area berikutnya.",0,23,1,11,2,"item_id024.png",1,0,0,0,,90,23.5,3
+1114,"Demon Compass",18,"Memunculkan Quest Boss saat menyelesaikan Quest.",0,24,1,12,2,"item_id023.png",1,0,0,0,,18,4.7,0.6
+1115,"Ticket x10",78,"10 Tiket untuk mendapatkan kartu langka.",0,9,10,0,2,"item_id009_10.png",7,0,0,0,,78,20.37,2.6
+1116,"Ticket x30 + 4 + α",216,"34 Tiket untuk mendapatkan kartu langka + Hades Seal",0,9,34,0,2,"item_id009_30.png",7,78,0,0,,216,56.4,7.2
+1117,"Ticket x50 + 4 + α",360,"58 Tiket untuk mendapatkan kartu langka + 2 Hades Seal",0,9,58,1,2,"item_id009_50.png",7,79,0,0,,360,94.01,12
+1118,"Memory Fragment",18,"Kepingan memori dari kehidupan sebelumnya.",4,10006,1,0,2,"chara_id10006.png",8,0,0,0,,18,4.7,0.6
+1119,"Memory Fragment x12",180,"Kepingan memori dari kehidupan sebelumnya.",4,10006,12,1,2,"chara_id10006_12.png",8,0,0,0,,180,47,6
+1120,"Time Fragment",24,"Kepingan waktu yang dapat digunakan untuk mengarungi waktu.",4,10007,1,2,2,"chara_id10007.png",8,0,0,0,,24,6.27,0.8
+1121,"Time Fragment x12",240,"Kepingan waktu yang dapat digunakan untuk mengarungi waktu.",4,10007,12,3,2,"chara_id10007_12.png",8,0,0,0,,240,62.67,8
+1122,"Soul Fragment",30,"Kepingan jiwa yang hilang.",4,10008,1,4,2,"chara_id10008.png",8,0,0,0,,30,7.83,1
+1123,"Soul Fragment x12",300,"Kepingan jiwa yang hilang.",4,10008,12,5,2,"chara_id10008_12.png",8,0,0,0,,300,78.34,10
+1124,"Pioneer Bracelet I",24,"Menambah 1 slot pencarian (berlaku selama 30 hari).",0,9,1,3,2,"item_id013.png",10,0,0,0,,24,6.27,0.8
+1125,"Pioneer Bracelet II",42,"Menambah 2 slot pencarian (berlaku selama 30 hari).",0,9,1,4,2,"item_id013.png",10,0,0,0,,42,10.97,1.4
+1126,"Pioneer Bracelet III",54,"Menambah 3 slot pencarian (berlaku selama 30 hari).",0,9,1,5,2,"item_id013.png",10,0,0,0,,54,14.1,1.8
+1127,"Mystery Tiara I",24,"Mengurangi waktu pencarian Quest sebanyak 30% (berlaku selama 30 hari).",1,57,1,100,2,"chara_id1003.png",9,0,0,0,,24,6.27,0.8
+1128,"Mystery Tiara II",42,"Mengurangi waktu pencarian Quest sebanyak 50% (berlaku selama 30 hari).",1,58,1,101,2,"chara_id1004.png",9,0,0,0,,42,10.97,1.4
+1129,"Mystery Tiara III",54,"Mengurangi waktu pencarian Quest sebanyak 75% (berlaku selama 30 hari).",1,59,1,102,2,"chara_id1005.png",9,0,0,0,,54,14.1,1.8
+1130,"Fairy Familiar I",24,"Menambah 1 slot pencarian (berlaku selama 30 hari).",1,60,1,103,2,"chara_id1006.png",9,0,0,0,,24,6.27,0.8
+1131,"Fairy Familiar II",42,"Menambah 2 slot pencarian (berlaku selama 30 hari).",1,61,1,104,2,"chara_id1007.png",9,0,0,0,,42,10.97,1.4
+1132,"Fairy Familiar III",54,"Menambah 3 slot pencarian (berlaku selama 30 hari).",1,62,1,105,2,"chara_id1008.png",9,0,0,0,,54,14.1,1.8
+1133,"Witch Earrings I",24,"Mempercepat pemulihan AP 10 menit (berlaku selama 30 hari).",1,63,1,106,2,"chara_id1009.png",9,0,0,0,,24,6.27,0.8
+1134,"Witch Earrings II",42,"Mempercepat pemulihan AP 15 menit (berlaku selama 30 hari).",1,64,1,107,2,"chara_id1010.png",9,0,0,0,,42,10.97,1.4
+1135,"Witch Earrings III",54,"Mempercepat pemulihan AP 20 menit (berlaku selama 30 hari).",1,65,1,108,2,"chara_id1011.png",9,0,0,0,,54,14.1,1.8
+1136,"Fortune Wand I",24,"Memberi bonus 50% GEM (berlaku selama 30 hari).",1,66,1,109,2,"chara_id1012.png",9,0,0,0,,24,6.27,0.8
+1137,"Fortune Wand II",42,"Memberi bonus 100% GEM (berlaku selama 30 hari).",1,67,1,110,2,"chara_id1013.png",9,0,0,0,,42,10.97,1.4
+1138,"Fortune Wand III",54,"Memberi bonus 200% GEM (berlaku selama 30 hari).",1,68,1,111,2,"chara_id1014.png",9,0,0,0,,54,14.1,1.8
+1139,"Eye Patch (White)",24,"Dapat digunakan sebagai perban.",1,79,1,200,2,"chara_id1015.png",9,0,0,0,,24,6.27,0.8
+1140,"Mush (Brown)",24,"Gaya rambut anak-anak.",1,72,1,201,2,"chara_id1021.png",9,0,0,0,,24,6.27,0.8
+1141,"Mush (White)",24,"Gaya rambut anak-anak.",1,73,1,202,2,"chara_id1023.png",9,0,0,0,,24,6.27,0.8
+1142,"Twin Tail (Blond)",24,"Gaya rambut bangsawan.",1,75,1,203,2,"chara_id1030.png",9,0,0,0,,24,6.27,0.8
+1143,"Twin Tail (Brown)",24,"Gaya rambut bangsawan.",1,76,1,204,2,"chara_id1031.png",9,0,0,0,,24,6.27,0.8
+1144,"Ticket",0,"Untuk Administrator.",0,9,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1145,"White Heath 3",0,"Untuk Administrator.",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1146,"White Heath 1",0,"Untuk Administrator.",0,5,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1147,"Long Hair (Blond)",24,"Gaya rambut dewasa.",1,89,1,205,2,"chara_id1040.png",9,0,0,0,,24,6.27,0.8
+1148,"Long Hair (White)",24,"Gaya rambut dewasa.",1,90,1,206,2,"chara_id1043.png",9,0,0,0,,24,6.27,0.8
+1149,"Long Hair (Black)",24,"Gaya rambut dewasa.",1,91,1,207,2,"chara_id1047.png",9,0,0,0,,24,6.27,0.8
+1150,"Blue Glasses",18,"Kacamata pembantu penglihatan.",1,92,1,208,2,"chara_id1017.png",9,0,0,0,,18,4.7,0.6
+1151,"Red Glasses",18,"Kacamata pembantu penglihatan.",1,93,1,209,2,"chara_id1018.png",9,0,0,0,,18,4.7,0.6
+1152,"Mystery Closet",42,"Menambah 5 slot perlengkapan Avatar.",0,37,1,30,2,"item_id037.png",9,0,0,0,,42,10.97,1.4
+1153,"Casual Short (Blond)",24,"Gaya rambut halus.",1,103,1,210,2,"chara_id1050.png",9,0,0,0,,24,6.27,0.8
+1154,"Casual Short (Blue)",24,"Gaya rambut halus.",1,104,1,211,2,"chara_id1052.png",9,0,0,0,,24,6.27,0.8
+1155,"Casual Short (Red)",24,"Gaya rambut halus.",1,105,1,212,2,"chara_id1056.png",9,0,0,0,,24,6.27,0.8
+1156,"Blue Purification Flame",120,"Mereset catatan duel Avatar.",0,40,1,32,2,"item_id040.png",9,0,0,0,,120,31.34,4
+1157,"Red Purification Flame",120,"Mereset BP dari Avatar.",0,41,1,33,2,"item_id041.png",9,0,0,0,,120,31.34,4
+1158,"Witch Closet",60,"Menambah 10 slot perlengkapan Avatar.",0,42,1,31,2,"item_id042.png",9,0,0,0,,60,15.67,2
+1159,"Noble Long (Blue)",24,"Rambut lurus.",1,115,1,213,2,"chara_id1062.png",9,0,0,0,,24,6.27,0.8
+1160,"Noble Long (Red)",24,"Rambut lurus.",1,116,1,214,2,"chara_id1063.png",9,0,0,0,,24,6.27,0.8
+1161,"Noble Long (Black)",24,"Rambut lurus.",1,117,1,215,2,"chara_id1067.png",9,0,0,0,,24,6.27,0.8
+1162,"Long (Blond)",24,"Rambut panjang lurus.",1,118,1,216,2,"chara_id1070.png",9,0,0,0,,24,6.27,0.8
+1163,"Long (Red)",24,"Rambut panjang lurus.",1,119,1,217,2,"chara_id1076.png",9,0,0,0,,24,6.27,0.8
+1164,"Long (Brown)",24,"Rambut panjang lurus.",1,120,1,218,2,"chara_id1078.png",9,0,0,0,,24,6.27,0.8
+1165,"New Year's Dress (Green)",24,"Baju khusus Tahun Baru.",1,122,1,219,2,"chara_id2000.png",9,0,0,0,,24,6.27,0.8
+1166,"New Year's Dress (Purple)",24,"Baju khusus Tahun Baru.",1,123,1,220,2,"chara_id2001.png",9,0,0,0,,24,6.27,0.8
+1167,"Milian",216,"Mantan prajurit Regiment bertangan satu yang pernah bekerja bersama Rosso.",4,241,1,4,2,"chara_id241.png",10,0,0,0,,216,56.4,7.2
+1168,"Quest Set A",42,"Set Quest. Magic Potion x2. Hourglass x3. Elixir x2.",0,3,2,80,2,"item_set_b000.png",1,81,0,0,,42,10.97,1.4
+1169,"Quest Set B",78,"Set Quest. Magic Potion x2. Hourglass x3. Elixir x2. Demon Compass x2. Special Mushroom Extract. Avatar Parts.",0,3,2,81,2,"item_set_b001.png",1,155,0,0,,78,20.37,2.6
+1170,"Duel Set A",42,"Set Duel. Magic Potion. Lucky Clover x3. White Heath 5 x3.",0,3,1,90,2,"item_set_a000.png",2,90,0,0,,42,10.97,1.4
+1171,"Duel Set B",78,"Set Duel. Special Mushroom Extract. Lucky Clover x5. White Heath 5 x3. Skip Star x3. Black Mini Hat (pada pembelian pertama).",0,4,5,91,2,"item_set_a001.png",2,154,0,0,,78,20.37,2.6
+1172,"Deck Set 1",120,"Mendapatkan kartu berikut dalam Deck LV21. Evarist LV4. Grunwald LV4. Abel LV4.",5,114060,1,0,2,"item_deck_a000.png",10,101,1,0,"item_c_k000.swf",120,31.34,4
+1173,"Deck Set 2",450,"Mendapatkan kartu berikut dalam Deck LV21. Jead LV3. Kronig LV3. Redgrave LV3. CHANCE3 x2. SPECIAL3 x2. SPECIAL2 x6. SPECIAL1/SHIELD1 x6. SHIELD3 x2.",5,114060,1,0,2,"item_deck_a001.png",10,105,2,0,"item_c_k000.swf",450,117.51,15
+1174,"Duel Set 3",900,"Mendapatkan kartu berikut dalam Deck LV31. Jead LV3. Kronig LV5. Redgrave LV5. CHANCE4. CHANCE3. MOVE3. SPECIAL3 x4. SPECIAL2 x6. SPECIAL1/SHIELD1 x5.",5,551060,1,0,2,"item_deck_a002.png",10,127,3,0,"item_c_k000.swf",900,235.02,30
+1175,"Silk Dress (Blue)",24,"Dress berpotongan rendah.",1,205,1,221,2,"chara_id2002.png",9,0,0,0,,24,6.27,0.8
+1176,"Silk Dress (Black)",24,"Dress berpotongan rendah.",1,206,1,222,2,"chara_id2003.png",9,0,0,0,,24,6.27,0.8
+1177,"Silk Pumps (Blue)",24,"Sepatu yang cocok dengan gaun.",1,208,1,223,2,"chara_id6000.png",9,0,0,0,,24,6.27,0.8
+1178,"Silk Pumps (Black)",24,"Sepatu yang cocok dengan gaun.",1,209,1,224,2,"chara_id6001.png",9,0,0,0,,24,6.27,0.8
+1179,"ミニクラウン（赤）",24,"高貴な者だけが身につける事を許された王冠",1,256,1,225,2,"chara_id3005.png",9,0,0,0,,24,6.27,0.8
+1180,"王子の服（赤）",24,"気品漂う服",1,259,1,226,2,"chara_id4000.png",9,0,0,0,,24,6.27,0.8
+1181,"王子の服（青）",24,"気品漂う服",1,260,1,227,2,"chara_id4001.png",9,0,0,0,,24,6.27,0.8
+1182,"王子のパンツ（赤）",24,"気品漂うパンツ",1,262,1,228,2,"chara_id5000.png",9,0,0,0,,24,6.27,0.8
+1183,"王子のパンツ（青）",24,"気品漂うパンツ",1,263,1,229,2,"chara_id5001.png",9,0,0,0,,24,6.27,0.8
+1184,"カエル王子の剣（青）",24,"高貴な者だけが身につける事を許された剣。特殊な効果は無い",1,267,1,0,2,"chara_id1700.png",9,0,0,0,,24,6.27,0.8
+1185,"カエル王子の剣（緑）",24,"高貴な者だけが身につける事を許された剣。特殊な効果は無い",1,268,1,1,2,"chara_id1702.png",9,0,0,0,,24,6.27,0.8
+1186,"ミニクラウン（黒）",24,"高貴な者だけが身につける事を許された王冠",1,276,1,2,2,"chara_id3008.png",9,0,0,0,,24,6.27,0.8
+1187,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1188,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1189,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1190,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1191,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1192,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1193,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1194,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1195,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1196,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1197,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1198,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1199,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1200,"Magic Potion",27,"Mengisi penuh AP.",0,3,1,0,2,"item_id003.png",0,0,0,1,,27,7.05,0.9
+1201,"Magic Potion x10",204,"Mengisi penuh AP.",0,3,10,1,2,"item_id003_.png",0,0,0,1,,204,53.27,6.8
+1202,"Lucky Clover",15,"Melempar ulang dadu di Bonus Game.",0,4,1,0,2,"item_id004.png",2,0,0,1,,15,3.92,0.5
+1203,"Lucky Clover x10",108,"Melempar ulang dadu di Bonus Game.",0,4,10,1,2,"item_id004_.png",2,0,0,1,,108,28.2,3.6
+1204,"White Heath 5",15,"Melanjutkan bonus game jika jumlah dadu dibawah 5.",0,7,1,10,2,"item_id007.png",2,0,0,1,,15,3.92,0.5
+1205,"White Heath 5 x10",135,"Melanjutkan bonus game jika jumlah dadu dibawah 5.",0,7,10,11,2,"item_id007_.png",2,0,0,1,,135,35.25,4.5
+1206,"Skip Star",27,"Kemampuan untuk melewati bonus game.",0,8,1,20,2,"item_id008.png",9,0,0,1,,27,7.05,0.9
+1207,"Skip Star x10",204,"Kemampuan untuk melewati bonus game.",0,8,10,21,2,"item_id008_.png",9,0,0,1,,204,53.27,6.8
+1208,"Hourglass",15,"Menyelesaikan pencarian Quest.",0,12,1,0,2,"item_id012.png",1,0,0,1,,15,3.92,0.5
+1209,"Hourglass x10",135,"Menyelesaikan pencarian Quest.",0,12,10,1,2,"item_id012_.png",1,0,0,1,,135,35.25,4.5
+1210,"Elixir",9,"Memulihkan HP didalam Quest.",0,17,1,10,2,"item_id013.png",5,0,0,1,,9,2.35,0.3
+1211,"Elixir x10",69,"Memulihkan HP didalam Quest.",0,17,10,11,2,"item_id013_.png",5,0,0,1,,69,18.02,2.3
+1212,"Traumerei Door",54,"Mengisi Quest progress 10 poin.",0,22,1,10,2,"item_id022.png",9,0,0,1,,54,14.1,1.8
+1213,"Paladin Testament",204,"Melanjutkan ke area berikutnya.",0,23,1,11,2,"item_id024.png",1,0,0,1,,204,53.27,6.8
+1214,"Demon Compass",42,"Memunculkan Quest Boss saat menyelesaikan Quest.",0,24,1,12,2,"item_id023.png",1,0,0,1,,42,10.97,1.4
+1215,"Ticket x10",177,"10 Tiket untuk mendapatkan kartu langka.",0,9,10,0,2,"item_id009_10.png",7,0,0,1,,177,46.22,5.9
+1216,"Ticket x30 + 4 + α",486,"34 Tiket untuk mendapatkan kartu langka + Hades Seal",0,9,34,0,2,"item_id009_30.png",7,78,0,1,,486,126.91,16.2
+1217,"Ticket x50 + 4 + α",810,"58 Tiket untuk mendapatkan kartu langka + 2 Hades Seal",0,9,58,1,2,"item_id009_50.png",7,79,0,1,,810,211.52,27
+1218,"Memory Fragment",42,"Kepingan memori dari kehidupan sebelumnya.",4,10006,1,0,2,"chara_id10006.png",8,0,0,1,,42,10.97,1.4
+1219,"Memory Fragment x12",405,"Kepingan memori dari kehidupan sebelumnya.",4,10006,12,1,2,"chara_id10006_12.png",8,0,0,1,,405,105.76,13.5
+1220,"Time Fragment",54,"Kepingan waktu yang dapat digunakan untuk mengarungi waktu.",4,10007,1,2,2,"chara_id10007.png",8,0,0,1,,54,14.1,1.8
+1221,"Time Fragment x12",540,"Kepingan waktu yang dapat digunakan untuk mengarungi waktu.",4,10007,12,3,2,"chara_id10007_12.png",8,0,0,1,,540,141.01,18
+1222,"Soul Fragment",69,"Kepingan jiwa yang hilang.",4,10008,1,4,2,"chara_id10008.png",8,0,0,1,,69,18.02,2.3
+1223,"Soul Fragment x12",675,"Kepingan jiwa yang hilang.",4,10008,12,5,2,"chara_id10008_12.png",8,0,0,1,,675,176.27,22.5
+1224,"Pioneer Bracelet I",54,"Menambah 1 slot pencarian (berlaku selama 30 hari).",0,9,1,3,2,"item_id013.png",10,0,0,1,,54,14.1,1.8
+1225,"Pioneer Bracelet II",96,"Menambah 2 slot pencarian (berlaku selama 30 hari).",0,9,1,4,2,"item_id013.png",10,0,0,1,,96,25.07,3.2
+1226,"Pioneer Bracelet III",123,"Menambah 3 slot pencarian (berlaku selama 30 hari).",0,9,1,5,2,"item_id013.png",10,0,0,1,,123,32.12,4.1
+1227,"Mystery Tiara I",54,"Mengurangi waktu pencarian Quest sebanyak 30% (berlaku selama 30 hari).",1,57,1,100,2,"chara_id1003.png",9,0,0,1,,54,14.1,1.8
+1228,"Mystery Tiara II",96,"Mengurangi waktu pencarian Quest sebanyak 50% (berlaku selama 30 hari).",1,58,1,101,2,"chara_id1004.png",9,0,0,1,,96,25.07,3.2
+1229,"Mystery Tiara III",123,"Mengurangi waktu pencarian Quest sebanyak 75% (berlaku selama 30 hari).",1,59,1,102,2,"chara_id1005.png",9,0,0,1,,123,32.12,4.1
+1230,"Fairy Familiar I",54,"Menambah 1 slot pencarian (berlaku selama 30 hari).",1,60,1,103,2,"chara_id1006.png",9,0,0,1,,54,14.1,1.8
+1231,"Fairy Familiar II",96,"Menambah 2 slot pencarian (berlaku selama 30 hari).",1,61,1,104,2,"chara_id1007.png",9,0,0,1,,96,25.07,3.2
+1232,"Fairy Familiar III",123,"Menambah 3 slot pencarian (berlaku selama 30 hari).",1,62,1,105,2,"chara_id1008.png",9,0,0,1,,123,32.12,4.1
+1233,"Witch Earrings I",54,"Mempercepat pemulihan AP 10 menit (berlaku selama 30 hari).",1,63,1,106,2,"chara_id1009.png",9,0,0,1,,54,14.1,1.8
+1234,"Witch Earrings II",96,"Mempercepat pemulihan AP 15 menit (berlaku selama 30 hari).",1,64,1,107,2,"chara_id1010.png",9,0,0,1,,96,25.07,3.2
+1235,"Witch Earrings III",123,"Mempercepat pemulihan AP 20 menit (berlaku selama 30 hari).",1,65,1,108,2,"chara_id1011.png",9,0,0,1,,123,32.12,4.1
+1236,"Fortune Wand I",54,"Memberi bonus 50% GEM (berlaku selama 30 hari).",1,66,1,109,2,"chara_id1012.png",9,0,0,1,,54,14.1,1.8
+1237,"Fortune Wand II",96,"Memberi bonus 100% GEM (berlaku selama 30 hari).",1,67,1,110,2,"chara_id1013.png",9,0,0,1,,96,25.07,3.2
+1238,"Fortune Wand III",123,"Memberi bonus 200% GEM (berlaku selama 30 hari).",1,68,1,111,2,"chara_id1014.png",9,0,0,1,,123,32.12,4.1
+1239,"Eye Patch (White)",54,"Dapat digunakan sebagai perban.",1,79,1,200,2,"chara_id1015.png",9,0,0,1,,54,14.1,1.8
+1240,"Mush (Brown)",54,"Gaya rambut anak-anak.",1,72,1,201,2,"chara_id1021.png",9,0,0,1,,54,14.1,1.8
+1241,"Mush (White)",54,"Gaya rambut anak-anak.",1,73,1,202,2,"chara_id1023.png",9,0,0,1,,54,14.1,1.8
+1242,"Twin Tail (Blond)",54,"Gaya rambut bangsawan.",1,75,1,203,2,"chara_id1030.png",9,0,0,1,,54,14.1,1.8
+1243,"Twin Tail (Brown)",54,"Gaya rambut bangsawan.",1,76,1,204,2,"chara_id1031.png",9,0,0,1,,54,14.1,1.8
+1244,"Long Hair (Blond)",54,"Gaya rambut dewasa.",1,89,1,205,2,"chara_id1040.png",9,0,0,1,,54,14.1,1.8
+1245,"Long Hair (White)",54,"Gaya rambut dewasa.",1,90,1,206,2,"chara_id1043.png",9,0,0,1,,54,14.1,1.8
+1246,"Long Hair (Black)",54,"Gaya rambut dewasa.",1,91,1,207,2,"chara_id1047.png",9,0,0,1,,54,14.1,1.8
+1247,"Blue Glasses",42,"Kacamata pembantu penglihatan.",1,92,1,208,2,"chara_id1017.png",9,0,0,1,,42,10.97,1.4
+1248,"Red Glasses",42,"Kacamata pembantu penglihatan.",1,93,1,209,2,"chara_id1018.png",9,0,0,1,,42,10.97,1.4
+1249,"Mystery Closet",96,"Menambah 5 slot perlengkapan Avatar.",0,37,1,30,2,"item_id037.png",9,0,0,1,,96,25.07,3.2
+1250,"Casual Short (Blond)",54,"Gaya rambut halus.",1,103,1,210,2,"chara_id1050.png",9,0,0,1,,54,14.1,1.8
+1251,"Casual Short (Blue)",54,"Gaya rambut halus.",1,104,1,211,2,"chara_id1052.png",9,0,0,1,,54,14.1,1.8
+1252,"Casual Short (Red)",54,"Gaya rambut halus.",1,105,1,212,2,"chara_id1056.png",9,0,0,1,,54,14.1,1.8
+1253,"Blue Purification Flame",270,"Mereset catatan duel Avatar.",0,40,1,32,2,"item_id040.png",9,0,0,1,,270,70.51,9
+1254,"Red Purification Flame",270,"Mereset BP dari Avatar.",0,41,1,33,2,"item_id041.png",9,0,0,1,,270,70.51,9
+1255,"Witch Closet",135,"Menambah 10 slot perlengkapan Avatar.",0,42,1,31,2,"item_id042.png",9,0,0,1,,135,35.25,4.5
+1256,"Noble Long (Blue)",54,"Rambut lurus.",1,115,1,213,2,"chara_id1062.png",9,0,0,1,,54,14.1,1.8
+1257,"Noble Long (Red)",54,"Rambut lurus.",1,116,1,214,2,"chara_id1063.png",9,0,0,1,,54,14.1,1.8
+1258,"Noble Long (Black)",54,"Rambut lurus.",1,117,1,215,2,"chara_id1067.png",9,0,0,1,,54,14.1,1.8
+1259,"Long (Blond)",54,"Rambut panjang lurus.",1,118,1,216,2,"chara_id1070.png",9,0,0,1,,54,14.1,1.8
+1260,"Long (Red)",54,"Rambut panjang lurus.",1,119,1,217,2,"chara_id1076.png",9,0,0,1,,54,14.1,1.8
+1261,"Long (Brown)",54,"Rambut panjang lurus.",1,120,1,218,2,"chara_id1078.png",9,0,0,1,,54,14.1,1.8
+1262,"New Year's Dress (Green)",54,"Baju khusus Tahun Baru.",1,122,1,219,2,"chara_id2000.png",9,0,0,1,,54,14.1,1.8
+1263,"New Year's Dress (Purple)",54,"Baju khusus Tahun Baru.",1,123,1,220,2,"chara_id2001.png",9,0,0,1,,54,14.1,1.8
+1264,"Milian",486,"Mantan prajurit Regiment bertangan satu yang pernah bekerja bersama Rosso.",4,241,1,4,2,"chara_id241.png",10,0,0,1,,486,126.91,16.2
+1265,"Quest Set A",96,"Set Quest. Magic Potion x2. Hourglass x3. Elixir x2.",0,3,2,80,2,"item_set_b000.png",1,81,0,1,,96,25.07,3.2
+1266,"Quest Set B",177,"Set Quest. Magic Potion x2. Hourglass x3. Elixir x2. Demon Compass x2. Special Mushroom Extract. Avatar Parts.",0,3,2,81,2,"item_set_b001.png",1,155,0,1,,177,46.22,5.9
+1267,"Duel Set A",96,"Set Duel. Magic Potion. Lucky Clover x3. White Heath 5 x3.",0,3,1,90,2,"item_set_a000.png",2,90,0,1,,96,25.07,3.2
+1268,"Duel Set B",177,"Set Duel. Special Mushroom Extract. Lucky Clover x5. White Heath 5 x3. Skip Star x3. Black Mini Hat (pada pembelian pertama).",0,4,5,91,2,"item_set_a001.png",2,154,0,1,,177,46.22,5.9
+1269,"Deck Set 1",270,"Mendapatkan kartu berikut dalam Deck LV21. Evarist LV4. Grunwald LV4. Abel LV4.",5,114060,1,0,2,"item_deck_a000.png",10,101,1,1,"item_c_k000.swf",270,70.51,9
+1270,"Deck Set 2",810,"Mendapatkan kartu berikut dalam Deck LV21. Jead LV3. Kronig LV3. Redgrave LV3. CHANCE3 x2. SPECIAL3 x2. SPECIAL2 x6. SPECIAL1/SHIELD1 x6. SHIELD3 x2.",5,114060,1,0,2,"item_deck_a001.png",10,105,2,1,"item_c_k000.swf",810,211.52,27
+1271,"Duel Set 3",1650,"Mendapatkan kartu berikut dalam Deck LV31. Jead LV3. Kronig LV5. Redgrave LV5. CHANCE4. CHANCE3. MOVE3. SPECIAL3 x4. SPECIAL2 x6. SPECIAL1/SHIELD1 x5.",5,551060,1,0,2,"item_deck_a002.png",10,127,3,1,"item_c_k000.swf",1650,430.87,55
+1272,"Silk Dress (Blue)",54,"Dress berpotongan rendah.",1,205,1,221,2,"chara_id2002.png",9,0,0,1,,54,14.1,1.8
+1273,"Silk Dress (Black)",54,"Dress berpotongan rendah.",1,206,1,222,2,"chara_id2003.png",9,0,0,1,,54,14.1,1.8
+1274,"Silk Pumps (Blue)",54,"Sepatu yang cocok dengan gaun.",1,208,1,223,2,"chara_id6000.png",9,0,0,1,,54,14.1,1.8
+1275,"Silk Pumps (Black)",54,"Sepatu yang cocok dengan gaun.",1,209,1,224,2,"chara_id6001.png",9,0,0,1,,54,14.1,1.8
+1276,"ミニクラウン（赤）",54,"高貴な者だけが身につける事を許された王冠",1,256,1,225,2,"chara_id3005.png",9,0,0,1,,54,14.1,1.8
+1277,"王子の服（赤）",54,"気品漂う服",1,259,1,226,2,"chara_id4000.png",9,0,0,1,,54,14.1,1.8
+1278,"王子の服（青）",54,"気品漂う服",1,260,1,227,2,"chara_id4001.png",9,0,0,1,,54,14.1,1.8
+1279,"王子のパンツ（赤）",54,"気品漂うパンツ",1,262,1,228,2,"chara_id5000.png",9,0,0,1,,54,14.1,1.8
+1280,"王子のパンツ（青）",54,"気品漂うパンツ",1,263,1,229,2,"chara_id5001.png",9,0,0,1,,54,14.1,1.8
+1281,"カエル王子の剣（青）",54,"高貴な者だけが身につける事を許された剣。特殊な効果は無い",1,267,1,0,2,"chara_id1700.png",9,0,0,1,,54,14.1,1.8
+1282,"カエル王子の剣（緑）",54,"高貴な者だけが身につける事を許された剣。特殊な効果は無い",1,268,1,1,2,"chara_id1702.png",9,0,0,1,,54,14.1,1.8
+1283,"ミニクラウン（黒）",54,"高貴な者だけが身につける事を許された王冠",1,276,1,2,2,"chara_id3008.png",9,0,0,1,,54,14.1,1.8
+1284,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1285,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1286,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1287,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1288,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1289,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1290,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1291,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1292,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1293,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1294,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1295,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1296,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1297,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1298,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1299,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1300,"Magic Potion",27,"Mengisi penuh AP.",0,3,1,0,2,"item_id003.png",0,0,0,2,,27,7.05,0.9
+1301,"Magic Potion x10",192,"Mengisi penuh AP.",0,3,10,1,2,"item_id003_.png",0,0,0,2,,192,50.14,6.4
+1302,"Lucky Clover",12,"Melempar ulang dadu di Bonus Game.",0,4,1,0,2,"item_id004.png",2,0,0,2,,12,3.13,0.4
+1303,"Lucky Clover x10",102,"Melempar ulang dadu di Bonus Game.",0,4,10,1,2,"item_id004_.png",2,0,0,2,,102,26.64,3.4
+1304,"White Heath 5",15,"Melanjutkan bonus game jika jumlah dadu dibawah 5.",0,7,1,10,2,"item_id007.png",2,0,0,2,,15,3.92,0.5
+1305,"White Heath 5 x10",129,"Melanjutkan bonus game jika jumlah dadu dibawah 5.",0,7,10,11,2,"item_id007_.png",2,0,0,2,,129,33.69,4.3
+1306,"Skip Star",27,"Kemampuan untuk melewati bonus game.",0,8,1,20,2,"item_id008.png",9,0,0,2,,27,7.05,0.9
+1307,"Skip Star x10",192,"Kemampuan untuk melewati bonus game.",0,8,10,21,2,"item_id008_.png",9,0,0,2,,192,50.14,6.4
+1308,"Hourglass",15,"Menyelesaikan pencarian Quest.",0,12,1,0,2,"item_id012.png",1,0,0,2,,15,3.92,0.5
+1309,"Hourglass x10",129,"Menyelesaikan pencarian Quest.",0,12,10,1,2,"item_id012_.png",1,0,0,2,,129,33.69,4.3
+1310,"Elixir",9,"Memulihkan HP didalam Quest.",0,17,1,10,2,"item_id013.png",5,0,0,2,,9,2.35,0.3
+1311,"Elixir x10",63,"Memulihkan HP didalam Quest.",0,17,10,11,2,"item_id013_.png",5,0,0,2,,63,16.45,2.1
+1312,"Traumerei Door",51,"Mengisi Quest progress 10 poin.",0,22,1,10,2,"item_id022.png",9,0,0,2,,51,13.32,1.7
+1313,"Paladin Testament",192,"Melanjutkan ke area berikutnya.",0,23,1,11,2,"item_id024.png",1,0,0,2,,192,50.14,6.4
+1314,"Demon Compass",39,"Memunculkan Quest Boss saat menyelesaikan Quest.",0,24,1,12,2,"item_id023.png",1,0,0,2,,39,10.18,1.3
+1315,"Ticket x10",165,"10 Tiket untuk mendapatkan kartu langka.",0,9,10,0,2,"item_id009_10.png",7,0,0,2,,165,43.09,5.5
+1316,"Ticket x30 + 4 + α",459,"34 Tiket untuk mendapatkan kartu langka + Hades Seal",0,9,34,0,2,"item_id009_30.png",7,78,0,2,,459,119.86,15.3
+1317,"Ticket x50 + 4 + α",765,"58 Tiket untuk mendapatkan kartu langka + 2 Hades Seal",0,9,58,1,2,"item_id009_50.png",7,79,0,2,,765,199.77,25.5
+1318,"Memory Fragment",39,"Kepingan memori dari kehidupan sebelumnya.",4,10006,1,0,2,"chara_id10006.png",8,0,0,2,,39,10.18,1.3
+1319,"Memory Fragment x12",384,"Kepingan memori dari kehidupan sebelumnya.",4,10006,12,1,2,"chara_id10006_12.png",8,0,0,2,,384,100.28,12.8
+1320,"Time Fragment",51,"Kepingan waktu yang dapat digunakan untuk mengarungi waktu.",4,10007,1,2,2,"chara_id10007.png",8,0,0,2,,51,13.32,1.7
+1321,"Time Fragment x12",510,"Kepingan waktu yang dapat digunakan untuk mengarungi waktu.",4,10007,12,3,2,"chara_id10007_12.png",8,0,0,2,,510,133.18,17
+1322,"Soul Fragment",63,"Kepingan jiwa yang hilang.",4,10008,1,4,2,"chara_id10008.png",8,0,0,2,,63,16.45,2.1
+1323,"Soul Fragment x12",639,"Kepingan jiwa yang hilang.",4,10008,12,5,2,"chara_id10008_12.png",8,0,0,2,,639,166.86,21.3
+1324,"Pioneer Bracelet I",51,"Menambah 1 slot pencarian (berlaku selama 30 hari).",0,9,1,3,2,"item_id013.png",10,0,0,2,,51,13.32,1.7
+1325,"Pioneer Bracelet II",90,"Menambah 2 slot pencarian (berlaku selama 30 hari).",0,9,1,4,2,"item_id013.png",10,0,0,2,,90,23.5,3
+1326,"Pioneer Bracelet III",114,"Menambah 3 slot pencarian (berlaku selama 30 hari).",0,9,1,5,2,"item_id013.png",10,0,0,2,,114,29.77,3.8
+1327,"Mystery Tiara I",51,"Mengurangi waktu pencarian Quest sebanyak 30% (berlaku selama 30 hari).",1,57,1,100,2,"chara_id1003.png",9,0,0,2,,51,13.32,1.7
+1328,"Mystery Tiara II",90,"Mengurangi waktu pencarian Quest sebanyak 50% (berlaku selama 30 hari).",1,58,1,101,2,"chara_id1004.png",9,0,0,2,,90,23.5,3
+1329,"Mystery Tiara III",114,"Mengurangi waktu pencarian Quest sebanyak 75% (berlaku selama 30 hari).",1,59,1,102,2,"chara_id1005.png",9,0,0,2,,114,29.77,3.8
+1330,"Fairy Familiar I",51,"Menambah 1 slot pencarian (berlaku selama 30 hari).",1,60,1,103,2,"chara_id1006.png",9,0,0,2,,51,13.32,1.7
+1331,"Fairy Familiar II",90,"Menambah 2 slot pencarian (berlaku selama 30 hari).",1,61,1,104,2,"chara_id1007.png",9,0,0,2,,90,23.5,3
+1332,"Fairy Familiar III",114,"Menambah 3 slot pencarian (berlaku selama 30 hari).",1,62,1,105,2,"chara_id1008.png",9,0,0,2,,114,29.77,3.8
+1333,"Witch Earrings I",51,"Mempercepat pemulihan AP 10 menit (berlaku selama 30 hari).",1,63,1,106,2,"chara_id1009.png",9,0,0,2,,51,13.32,1.7
+1334,"Witch Earrings II",90,"Mempercepat pemulihan AP 15 menit (berlaku selama 30 hari).",1,64,1,107,2,"chara_id1010.png",9,0,0,2,,90,23.5,3
+1335,"Witch Earrings III",114,"Mempercepat pemulihan AP 20 menit (berlaku selama 30 hari).",1,65,1,108,2,"chara_id1011.png",9,0,0,2,,114,29.77,3.8
+1336,"Fortune Wand I",51,"Memberi bonus 50% GEM (berlaku selama 30 hari).",1,66,1,109,2,"chara_id1012.png",9,0,0,2,,51,13.32,1.7
+1337,"Fortune Wand II",90,"Memberi bonus 100% GEM (berlaku selama 30 hari).",1,67,1,110,2,"chara_id1013.png",9,0,0,2,,90,23.5,3
+1338,"Fortune Wand III",114,"Memberi bonus 200% GEM (berlaku selama 30 hari).",1,68,1,111,2,"chara_id1014.png",9,0,0,2,,114,29.77,3.8
+1339,"Eye Patch (White)",51,"Dapat digunakan sebagai perban.",1,79,1,200,2,"chara_id1015.png",9,0,0,2,,51,13.32,1.7
+1340,"Mush (Brown)",51,"Gaya rambut anak-anak.",1,72,1,201,2,"chara_id1021.png",9,0,0,2,,51,13.32,1.7
+1341,"Mush (White)",51,"Gaya rambut anak-anak.",1,73,1,202,2,"chara_id1023.png",9,0,0,2,,51,13.32,1.7
+1342,"Twin Tail (Blond)",51,"Gaya rambut bangsawan.",1,75,1,203,2,"chara_id1030.png",9,0,0,2,,51,13.32,1.7
+1343,"Twin Tail (Brown)",51,"Gaya rambut bangsawan.",1,76,1,204,2,"chara_id1031.png",9,0,0,2,,51,13.32,1.7
+1344,"Long Hair (Blond)",51,"Gaya rambut dewasa.",1,89,1,205,2,"chara_id1040.png",9,0,0,2,,51,13.32,1.7
+1345,"Long Hair (White)",51,"Gaya rambut dewasa.",1,90,1,206,2,"chara_id1043.png",9,0,0,2,,51,13.32,1.7
+1346,"Long Hair (Black)",51,"Gaya rambut dewasa.",1,91,1,207,2,"chara_id1047.png",9,0,0,2,,51,13.32,1.7
+1347,"Blue Glasses",39,"Kacamata pembantu penglihatan.",1,92,1,208,2,"chara_id1017.png",9,0,0,2,,39,10.18,1.3
+1348,"Red Glasses",39,"Kacamata pembantu penglihatan.",1,93,1,209,2,"chara_id1018.png",9,0,0,2,,39,10.18,1.3
+1349,"Mystery Closet",90,"Menambah 5 slot perlengkapan Avatar.",0,37,1,30,2,"item_id037.png",9,0,0,2,,90,23.5,3
+1350,"Casual Short (Blond)",51,"Gaya rambut halus.",1,103,1,210,2,"chara_id1050.png",9,0,0,2,,51,13.32,1.7
+1351,"Casual Short (Blue)",51,"Gaya rambut halus.",1,104,1,211,2,"chara_id1052.png",9,0,0,2,,51,13.32,1.7
+1352,"Casual Short (Red)",51,"Gaya rambut halus.",1,105,1,212,2,"chara_id1056.png",9,0,0,2,,51,13.32,1.7
+1353,"Blue Purification Flame",255,"Mereset catatan duel Avatar.",0,40,1,32,2,"item_id040.png",9,0,0,2,,255,66.59,8.5
+1354,"Red Purification Flame",255,"Mereset BP dari Avatar.",0,41,1,33,2,"item_id041.png",9,0,0,2,,255,66.59,8.5
+1355,"Witch Closet",129,"Menambah 10 slot perlengkapan Avatar.",0,42,1,31,2,"item_id042.png",9,0,0,2,,129,33.69,4.3
+1356,"Noble Long (Blue)",51,"Rambut lurus.",1,115,1,213,2,"chara_id1062.png",9,0,0,2,,51,13.32,1.7
+1357,"Noble Long (Red)",51,"Rambut lurus.",1,116,1,214,2,"chara_id1063.png",9,0,0,2,,51,13.32,1.7
+1358,"Noble Long (Black)",51,"Rambut lurus.",1,117,1,215,2,"chara_id1067.png",9,0,0,2,,51,13.32,1.7
+1359,"Long (Blond)",51,"Rambut panjang lurus.",1,118,1,216,2,"chara_id1070.png",9,0,0,2,,51,13.32,1.7
+1360,"Long (Red)",51,"Rambut panjang lurus.",1,119,1,217,2,"chara_id1076.png",9,0,0,2,,51,13.32,1.7
+1361,"Long (Brown)",51,"Rambut panjang lurus.",1,120,1,218,2,"chara_id1078.png",9,0,0,2,,51,13.32,1.7
+1362,"New Year's Dress (Green)",51,"Baju khusus Tahun Baru.",1,122,1,219,2,"chara_id2000.png",9,0,0,2,,51,13.32,1.7
+1363,"New Year's Dress (Purple)",51,"Baju khusus Tahun Baru.",1,123,1,220,2,"chara_id2001.png",9,0,0,2,,51,13.32,1.7
+1364,"Milian",459,"Mantan prajurit Regiment bertangan satu yang pernah bekerja bersama Rosso.",4,241,1,4,2,"chara_id241.png",10,0,0,2,,459,119.86,15.3
+1365,"Quest Set A",90,"Set Quest. Magic Potion x2. Hourglass x3. Elixir x2.",0,3,2,80,2,"item_set_b000.png",1,81,0,2,,90,23.5,3
+1366,"Quest Set B",165,"Set Quest. Magic Potion x2. Hourglass x3. Elixir x2. Demon Compass x2. Special Mushroom Extract. Avatar Parts.",0,3,2,81,2,"item_set_b001.png",1,155,0,2,,165,43.09,5.5
+1367,"Duel Set A",90,"Set Duel. Magic Potion. Lucky Clover x3. White Heath 5 x3.",0,3,1,90,2,"item_set_a000.png",2,90,0,2,,90,23.5,3
+1368,"Duel Set B",165,"Set Duel. Special Mushroom Extract. Lucky Clover x5. White Heath 5 x3. Skip Star x3. Black Mini Hat (pada pembelian pertama).",0,4,5,91,2,"item_set_a001.png",2,154,0,2,,165,43.09,5.5
+1369,"Deck Set 1",255,"Mendapatkan kartu berikut dalam Deck LV21. Evarist LV4. Grunwald LV4. Abel LV4.",5,114060,1,0,2,"item_deck_a000.png",10,101,1,2,"item_c_k000.swf",255,66.59,8.5
+1370,"Deck Set 2",765,"Mendapatkan kartu berikut dalam Deck LV21. Jead LV3. Kronig LV3. Redgrave LV3. CHANCE3 x2. SPECIAL3 x2. SPECIAL2 x6. SPECIAL1/SHIELD1 x6. SHIELD3 x2.",5,114060,1,0,2,"item_deck_a001.png",10,105,2,2,"item_c_k000.swf",765,199.77,25.5
+1371,"Duel Set 3",1650,"Mendapatkan kartu berikut dalam Deck LV31. Jead LV3. Kronig LV5. Redgrave LV5. CHANCE4. CHANCE3. MOVE3. SPECIAL3 x4. SPECIAL2 x6. SPECIAL1/SHIELD1 x5.",5,551060,1,0,2,"item_deck_a002.png",10,127,3,2,"item_c_k000.swf",1650,430.87,55
+1372,"Silk Dress (Blue)",51,"Dress berpotongan rendah.",1,205,1,221,2,"chara_id2002.png",9,0,0,2,,51,13.32,1.7
+1373,"Silk Dress (Black)",51,"Dress berpotongan rendah.",1,206,1,222,2,"chara_id2003.png",9,0,0,2,,51,13.32,1.7
+1374,"Silk Pumps (Blue)",51,"Sepatu yang cocok dengan gaun.",1,208,1,223,2,"chara_id6000.png",9,0,0,2,,51,13.32,1.7
+1375,"Silk Pumps (Black)",51,"Sepatu yang cocok dengan gaun.",1,209,1,224,2,"chara_id6001.png",9,0,0,2,,51,13.32,1.7
+1376,"ミニクラウン（赤）",51,"高貴な者だけが身につける事を許された王冠",1,256,1,225,2,"chara_id3005.png",9,0,0,2,,51,13.32,1.7
+1377,"王子の服（赤）",51,"気品漂う服",1,259,1,226,2,"chara_id4000.png",9,0,0,2,,51,13.32,1.7
+1378,"王子の服（青）",51,"気品漂う服",1,260,1,227,2,"chara_id4001.png",9,0,0,2,,51,13.32,1.7
+1379,"王子のパンツ（赤）",51,"気品漂うパンツ",1,262,1,228,2,"chara_id5000.png",9,0,0,2,,51,13.32,1.7
+1380,"王子のパンツ（青）",51,"気品漂うパンツ",1,263,1,229,2,"chara_id5001.png",9,0,0,2,,51,13.32,1.7
+1381,"カエル王子の剣（青）",51,"高貴な者だけが身につける事を許された剣。特殊な効果は無い",1,267,1,0,2,"chara_id1700.png",9,0,0,2,,51,13.32,1.7
+1382,"カエル王子の剣（緑）",51,"高貴な者だけが身につける事を許された剣。特殊な効果は無い",1,268,1,1,2,"chara_id1702.png",9,0,0,2,,51,13.32,1.7
+1383,"ミニクラウン（黒）",51,"高貴な者だけが身につける事を許された王冠",1,276,1,2,2,"chara_id3008.png",9,0,0,2,,51,13.32,1.7
+1384,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1385,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1386,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1387,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1388,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1389,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1390,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1391,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1392,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1393,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1394,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1395,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1396,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1397,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1398,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1399,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1400,"Magic Potion",24,"Mengisi penuh AP.",0,3,1,0,2,"item_id003.png",0,0,0,3,,24,6.27,0.8
+1401,"Magic Potion x10",180,"Mengisi penuh AP.",0,3,10,1,2,"item_id003_.png",0,0,0,3,,180,47,6
+1402,"Lucky Clover",12,"Melempar ulang dadu di Bonus Game.",0,4,1,0,2,"item_id004.png",2,0,0,3,,12,3.13,0.4
+1403,"Lucky Clover x10",96,"Melempar ulang dadu di Bonus Game.",0,4,10,1,2,"item_id004_.png",2,0,0,3,,96,25.07,3.2
+1404,"White Heath 5",15,"Melanjutkan bonus game jika jumlah dadu dibawah 5.",0,7,1,10,2,"item_id007.png",2,0,0,3,,15,3.92,0.5
+1405,"White Heath 5 x10",120,"Melanjutkan bonus game jika jumlah dadu dibawah 5.",0,7,10,11,2,"item_id007_.png",2,0,0,3,,120,31.34,4
+1406,"Skip Star",24,"Kemampuan untuk melewati bonus game.",0,8,1,20,2,"item_id008.png",9,0,0,3,,24,6.27,0.8
+1407,"Skip Star x10",180,"Kemampuan untuk melewati bonus game.",0,8,10,21,2,"item_id008_.png",9,0,0,3,,180,47,6
+1408,"Hourglass",15,"Menyelesaikan pencarian Quest.",0,12,1,0,2,"item_id012.png",1,0,0,3,,15,3.92,0.5
+1409,"Hourglass x10",120,"Menyelesaikan pencarian Quest.",0,12,10,1,2,"item_id012_.png",1,0,0,3,,120,31.34,4
+1410,"Elixir",6,"Memulihkan HP didalam Quest.",0,17,1,10,2,"item_id013.png",5,0,0,3,,6,1.57,0.2
+1411,"Elixir x10",60,"Memulihkan HP didalam Quest.",0,17,10,11,2,"item_id013_.png",5,0,0,3,,60,15.67,2
+1412,"Traumerei Door",48,"Mengisi Quest progress 10 poin.",0,22,1,10,2,"item_id022.png",9,0,0,3,,48,12.53,1.6
+1413,"Paladin Testament",180,"Melanjutkan ke area berikutnya.",0,23,1,11,2,"item_id024.png",1,0,0,3,,180,47,6
+1414,"Demon Compass",36,"Memunculkan Quest Boss saat menyelesaikan Quest.",0,24,1,12,2,"item_id023.png",1,0,0,3,,36,9.4,1.2
+1415,"Ticket x10",156,"10 Tiket untuk mendapatkan kartu langka.",0,9,10,0,2,"item_id009_10.png",7,0,0,3,,156,40.74,5.2
+1416,"Ticket x30 + 4 + α",432,"34 Tiket untuk mendapatkan kartu langka + Hades Seal",0,9,34,0,2,"item_id009_30.png",7,78,0,3,,432,112.81,14.4
+1417,"Ticket x50 + 4 + α",720,"58 Tiket untuk mendapatkan kartu langka + 2 Hades Seal",0,9,58,1,2,"item_id009_50.png",7,79,0,3,,720,188.02,24
+1418,"Memory Fragment",36,"Kepingan memori dari kehidupan sebelumnya.",4,10006,1,0,2,"chara_id10006.png",8,0,0,3,,36,9.4,1.2
+1419,"Memory Fragment x12",360,"Kepingan memori dari kehidupan sebelumnya.",4,10006,12,1,2,"chara_id10006_12.png",8,0,0,3,,360,94.01,12
+1420,"Time Fragment",48,"Kepingan waktu yang dapat digunakan untuk mengarungi waktu.",4,10007,1,2,2,"chara_id10007.png",8,0,0,3,,48,12.53,1.6
+1421,"Time Fragment x12",480,"Kepingan waktu yang dapat digunakan untuk mengarungi waktu.",4,10007,12,3,2,"chara_id10007_12.png",8,0,0,3,,480,125.34,16
+1422,"Soul Fragment",60,"Kepingan jiwa yang hilang.",4,10008,1,4,2,"chara_id10008.png",8,0,0,3,,60,15.67,2
+1423,"Soul Fragment x12",600,"Kepingan jiwa yang hilang.",4,10008,12,5,2,"chara_id10008_12.png",8,0,0,3,,600,156.68,20
+1424,"Pioneer Bracelet I",48,"Menambah 1 slot pencarian (berlaku selama 30 hari).",0,9,1,3,2,"item_id013.png",10,0,0,3,,48,12.53,1.6
+1425,"Pioneer Bracelet II",84,"Menambah 2 slot pencarian (berlaku selama 30 hari).",0,9,1,4,2,"item_id013.png",10,0,0,3,,84,21.94,2.8
+1426,"Pioneer Bracelet III",108,"Menambah 3 slot pencarian (berlaku selama 30 hari).",0,9,1,5,2,"item_id013.png",10,0,0,3,,108,28.2,3.6
+1427,"Mystery Tiara I",48,"Mengurangi waktu pencarian Quest sebanyak 30% (berlaku selama 30 hari).",1,57,1,100,2,"chara_id1003.png",9,0,0,3,,48,12.53,1.6
+1428,"Mystery Tiara II",84,"Mengurangi waktu pencarian Quest sebanyak 50% (berlaku selama 30 hari).",1,58,1,101,2,"chara_id1004.png",9,0,0,3,,84,21.94,2.8
+1429,"Mystery Tiara III",108,"Mengurangi waktu pencarian Quest sebanyak 75% (berlaku selama 30 hari).",1,59,1,102,2,"chara_id1005.png",9,0,0,3,,108,28.2,3.6
+1430,"Fairy Familiar I",48,"Menambah 1 slot pencarian (berlaku selama 30 hari).",1,60,1,103,2,"chara_id1006.png",9,0,0,3,,48,12.53,1.6
+1431,"Fairy Familiar II",84,"Menambah 2 slot pencarian (berlaku selama 30 hari).",1,61,1,104,2,"chara_id1007.png",9,0,0,3,,84,21.94,2.8
+1432,"Fairy Familiar III",108,"Menambah 3 slot pencarian (berlaku selama 30 hari).",1,62,1,105,2,"chara_id1008.png",9,0,0,3,,108,28.2,3.6
+1433,"Witch Earrings I",48,"Mempercepat pemulihan AP 10 menit (berlaku selama 30 hari).",1,63,1,106,2,"chara_id1009.png",9,0,0,3,,48,12.53,1.6
+1434,"Witch Earrings II",84,"Mempercepat pemulihan AP 15 menit (berlaku selama 30 hari).",1,64,1,107,2,"chara_id1010.png",9,0,0,3,,84,21.94,2.8
+1435,"Witch Earrings III",108,"Mempercepat pemulihan AP 20 menit (berlaku selama 30 hari).",1,65,1,108,2,"chara_id1011.png",9,0,0,3,,108,28.2,3.6
+1436,"Fortune Wand I",48,"Memberi bonus 50% GEM (berlaku selama 30 hari).",1,66,1,109,2,"chara_id1012.png",9,0,0,3,,48,12.53,1.6
+1437,"Fortune Wand II",84,"Memberi bonus 100% GEM (berlaku selama 30 hari).",1,67,1,110,2,"chara_id1013.png",9,0,0,3,,84,21.94,2.8
+1438,"Fortune Wand III",108,"Memberi bonus 200% GEM (berlaku selama 30 hari).",1,68,1,111,2,"chara_id1014.png",9,0,0,3,,108,28.2,3.6
+1439,"Eye Patch (White)",48,"Dapat digunakan sebagai perban.",1,79,1,200,2,"chara_id1015.png",9,0,0,3,,48,12.53,1.6
+1440,"Mush (Brown)",48,"Gaya rambut anak-anak.",1,72,1,201,2,"chara_id1021.png",9,0,0,3,,48,12.53,1.6
+1441,"Mush (White)",48,"Gaya rambut anak-anak.",1,73,1,202,2,"chara_id1023.png",9,0,0,3,,48,12.53,1.6
+1442,"Twin Tail (Blond)",48,"Gaya rambut bangsawan.",1,75,1,203,2,"chara_id1030.png",9,0,0,3,,48,12.53,1.6
+1443,"Twin Tail (Brown)",48,"Gaya rambut bangsawan.",1,76,1,204,2,"chara_id1031.png",9,0,0,3,,48,12.53,1.6
+1444,"Long Hair (Blond)",48,"Gaya rambut dewasa.",1,89,1,205,2,"chara_id1040.png",9,0,0,3,,48,12.53,1.6
+1445,"Long Hair (White)",48,"Gaya rambut dewasa.",1,90,1,206,2,"chara_id1043.png",9,0,0,3,,48,12.53,1.6
+1446,"Long Hair (Black)",48,"Gaya rambut dewasa.",1,91,1,207,2,"chara_id1047.png",9,0,0,3,,48,12.53,1.6
+1447,"Blue Glasses",36,"Kacamata pembantu penglihatan.",1,92,1,208,2,"chara_id1017.png",9,0,0,3,,36,9.4,1.2
+1448,"Red Glasses",36,"Kacamata pembantu penglihatan.",1,93,1,209,2,"chara_id1018.png",9,0,0,3,,36,9.4,1.2
+1449,"Mystery Closet",84,"Menambah 5 slot perlengkapan Avatar.",0,37,1,30,2,"item_id037.png",9,0,0,3,,84,21.94,2.8
+1450,"Casual Short (Blond)",48,"Gaya rambut halus.",1,103,1,210,2,"chara_id1050.png",9,0,0,3,,48,12.53,1.6
+1451,"Casual Short (Blue)",48,"Gaya rambut halus.",1,104,1,211,2,"chara_id1052.png",9,0,0,3,,48,12.53,1.6
+1452,"Casual Short (Red)",48,"Gaya rambut halus.",1,105,1,212,2,"chara_id1056.png",9,0,0,3,,48,12.53,1.6
+1453,"Blue Purification Flame",240,"Mereset catatan duel Avatar.",0,40,1,32,2,"item_id040.png",9,0,0,3,,240,62.67,8
+1454,"Red Purification Flame",240,"Mereset BP dari Avatar.",0,41,1,33,2,"item_id041.png",9,0,0,3,,240,62.67,8
+1455,"Witch Closet",120,"Menambah 10 slot perlengkapan Avatar.",0,42,1,31,2,"item_id042.png",9,0,0,3,,120,31.34,4
+1456,"Noble Long (Blue)",48,"Rambut lurus.",1,115,1,213,2,"chara_id1062.png",9,0,0,3,,48,12.53,1.6
+1457,"Noble Long (Red)",48,"Rambut lurus.",1,116,1,214,2,"chara_id1063.png",9,0,0,3,,48,12.53,1.6
+1458,"Noble Long (Black)",48,"Rambut lurus.",1,117,1,215,2,"chara_id1067.png",9,0,0,3,,48,12.53,1.6
+1459,"Long (Blond)",48,"Rambut panjang lurus.",1,118,1,216,2,"chara_id1070.png",9,0,0,3,,48,12.53,1.6
+1460,"Long (Red)",48,"Rambut panjang lurus.",1,119,1,217,2,"chara_id1076.png",9,0,0,3,,48,12.53,1.6
+1461,"Long (Brown)",48,"Rambut panjang lurus.",1,120,1,218,2,"chara_id1078.png",9,0,0,3,,48,12.53,1.6
+1462,"New Year's Dress (Green)",48,"Baju khusus Tahun Baru.",1,122,1,219,2,"chara_id2000.png",9,0,0,3,,48,12.53,1.6
+1463,"New Year's Dress (Purple)",48,"Baju khusus Tahun Baru.",1,123,1,220,2,"chara_id2001.png",9,0,0,3,,48,12.53,1.6
+1464,"Milian",432,"Mantan prajurit Regiment bertangan satu yang pernah bekerja bersama Rosso.",4,241,1,4,2,"chara_id241.png",10,0,0,3,,432,112.81,14.4
+1465,"Quest Set A",84,"Set Quest. Magic Potion x2. Hourglass x3. Elixir x2.",0,3,2,80,2,"item_set_b000.png",1,81,0,3,,84,21.94,2.8
+1466,"Quest Set B",156,"Set Quest. Magic Potion x2. Hourglass x3. Elixir x2. Demon Compass x2. Special Mushroom Extract. Avatar Parts.",0,3,2,81,2,"item_set_b001.png",1,155,0,3,,156,40.74,5.2
+1467,"Duel Set A",84,"Set Duel. Magic Potion. Lucky Clover x3. White Heath 5 x3.",0,3,1,90,2,"item_set_a000.png",2,90,0,3,,84,21.94,2.8
+1468,"Duel Set B",156,"Set Duel. Special Mushroom Extract. Lucky Clover x5. White Heath 5 x3. Skip Star x3. Black Mini Hat (pada pembelian pertama).",0,4,5,91,2,"item_set_a001.png",2,154,0,3,,156,40.74,5.2
+1469,"Deck Set 1",225,"Mendapatkan kartu berikut dalam Deck LV21. Evarist LV4. Grunwald LV4. Abel LV4.",5,114060,1,0,2,"item_deck_a000.png",10,101,1,3,"item_c_k000.swf",225,58.76,7.5
+1470,"Deck Set 2",720,"Mendapatkan kartu berikut dalam Deck LV21. Jead LV3. Kronig LV3. Redgrave LV3. CHANCE3 x2. SPECIAL3 x2. SPECIAL2 x6. SPECIAL1/SHIELD1 x6. SHIELD3 x2.",5,114060,1,0,2,"item_deck_a001.png",10,105,2,3,"item_c_k000.swf",720,188.02,24
+1471,"Duel Set 3",1440,"Mendapatkan kartu berikut dalam Deck LV31. Jead LV3. Kronig LV5. Redgrave LV5. CHANCE4. CHANCE3. MOVE3. SPECIAL3 x4. SPECIAL2 x6. SPECIAL1/SHIELD1 x5.",5,551060,1,0,2,"item_deck_a002.png",10,127,3,3,"item_c_k000.swf",1440,376.03,48
+1472,"Silk Dress (Blue)",48,"Dress berpotongan rendah.",1,205,1,221,2,"chara_id2002.png",9,0,0,3,,48,12.53,1.6
+1473,"Silk Dress (Black)",48,"Dress berpotongan rendah.",1,206,1,222,2,"chara_id2003.png",9,0,0,3,,48,12.53,1.6
+1474,"Silk Pumps (Blue)",48,"Sepatu yang cocok dengan gaun.",1,208,1,223,2,"chara_id6000.png",9,0,0,3,,48,12.53,1.6
+1475,"Silk Pumps (Black)",48,"Sepatu yang cocok dengan gaun.",1,209,1,224,2,"chara_id6001.png",9,0,0,3,,48,12.53,1.6
+1476,"ミニクラウン（赤）",48,"高貴な者だけが身につける事を許された王冠",1,256,1,225,2,"chara_id3005.png",9,0,0,3,,48,12.53,1.6
+1477,"王子の服（赤）",48,"気品漂う服",1,259,1,226,2,"chara_id4000.png",9,0,0,3,,48,12.53,1.6
+1478,"王子の服（青）",48,"気品漂う服",1,260,1,227,2,"chara_id4001.png",9,0,0,3,,48,12.53,1.6
+1479,"王子のパンツ（赤）",48,"気品漂うパンツ",1,262,1,228,2,"chara_id5000.png",9,0,0,3,,48,12.53,1.6
+1480,"王子のパンツ（青）",48,"気品漂うパンツ",1,263,1,229,2,"chara_id5001.png",9,0,0,3,,48,12.53,1.6
+1481,"カエル王子の剣（青）",48,"高貴な者だけが身につける事を許された剣。特殊な効果は無い",1,267,1,0,2,"chara_id1700.png",9,0,0,3,,48,12.53,1.6
+1482,"カエル王子の剣（緑）",48,"高貴な者だけが身につける事を許された剣。特殊な効果は無い",1,268,1,1,2,"chara_id1702.png",9,0,0,3,,48,12.53,1.6
+1483,"ミニクラウン（黒）",48,"高貴な者だけが身につける事を許された王冠",1,276,1,2,2,"chara_id3008.png",9,0,0,3,,48,12.53,1.6
+1484,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1485,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1486,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1487,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1488,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1489,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1490,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1491,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1492,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1493,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1494,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1495,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1496,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1497,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1498,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1499,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1500,"Magic Potion",21,"Mengisi penuh AP.",0,3,1,0,2,"item_id003.png",0,0,0,4,,21,5.48,0.7
+1501,"Magic Potion x10",159,"Mengisi penuh AP.",0,3,10,1,2,"item_id003_.png",0,0,0,4,,159,41.52,5.3
+1502,"Lucky Clover",12,"Melempar ulang dadu di Bonus Game.",0,4,1,0,2,"item_id004.png",2,0,0,4,,12,3.13,0.4
+1503,"Lucky Clover x10",84,"Melempar ulang dadu di Bonus Game.",0,4,10,1,2,"item_id004_.png",2,0,0,4,,84,21.94,2.8
+1504,"White Heath 5",12,"Melanjutkan bonus game jika jumlah dadu dibawah 5.",0,7,1,10,2,"item_id007.png",2,0,0,4,,12,3.13,0.4
+1505,"White Heath 5 x10",105,"Melanjutkan bonus game jika jumlah dadu dibawah 5.",0,7,10,11,2,"item_id007_.png",2,0,0,4,,105,27.42,3.5
+1506,"Skip Star",21,"Kemampuan untuk melewati bonus game.",0,8,1,20,2,"item_id008.png",9,0,0,4,,21,5.48,0.7
+1507,"Skip Star x10",159,"Kemampuan untuk melewati bonus game.",0,8,10,21,2,"item_id008_.png",9,0,0,4,,159,41.52,5.3
+1508,"Hourglass",12,"Menyelesaikan pencarian Quest.",0,12,1,0,2,"item_id012.png",1,0,0,4,,12,3.13,0.4
+1509,"Hourglass x10",105,"Menyelesaikan pencarian Quest.",0,12,10,1,2,"item_id012_.png",1,0,0,4,,105,27.42,3.5
+1510,"Elixir",6,"Memulihkan HP didalam Quest.",0,17,1,10,2,"item_id013.png",5,0,0,4,,6,1.57,0.2
+1511,"Elixir x10",54,"Memulihkan HP didalam Quest.",0,17,10,11,2,"item_id013_.png",5,0,0,4,,54,14.1,1.8
+1512,"Traumerei Door",42,"Mengisi Quest progress 10 poin.",0,22,1,10,2,"item_id022.png",9,0,0,4,,42,10.97,1.4
+1513,"Paladin Testament",159,"Melanjutkan ke area berikutnya.",0,23,1,11,2,"item_id024.png",1,0,0,4,,159,41.52,5.3
+1514,"Demon Compass",33,"Memunculkan Quest Boss saat menyelesaikan Quest.",0,24,1,12,2,"item_id023.png",1,0,0,4,,33,8.62,1.1
+1515,"Ticket x10",138,"10 Tiket untuk mendapatkan kartu langka.",0,9,10,0,2,"item_id009_10.png",7,0,0,4,,138,36.04,4.6
+1516,"Ticket x30 + 4 + α",378,"34 Tiket untuk mendapatkan kartu langka + Hades Seal",0,9,34,0,2,"item_id009_30.png",7,78,0,4,,378,98.71,12.6
+1517,"Ticket x50 + 4 + α",630,"58 Tiket untuk mendapatkan kartu langka + 2 Hades Seal",0,9,58,1,2,"item_id009_50.png",7,79,0,4,,630,164.51,21
+1518,"Memory Fragment",33,"Kepingan memori dari kehidupan sebelumnya.",4,10006,1,0,2,"chara_id10006.png",8,0,0,4,,33,8.62,1.1
+1519,"Memory Fragment x12",315,"Kepingan memori dari kehidupan sebelumnya.",4,10006,12,1,2,"chara_id10006_12.png",8,0,0,4,,315,82.26,10.5
+1520,"Time Fragment",42,"Kepingan waktu yang dapat digunakan untuk mengarungi waktu.",4,10007,1,2,2,"chara_id10007.png",8,0,0,4,,42,10.97,1.4
+1521,"Time Fragment x12",420,"Kepingan waktu yang dapat digunakan untuk mengarungi waktu.",4,10007,12,3,2,"chara_id10007_12.png",8,0,0,4,,420,109.68,14
+1522,"Soul Fragment",54,"Kepingan jiwa yang hilang.",4,10008,1,4,2,"chara_id10008.png",8,0,0,4,,54,14.1,1.8
+1523,"Soul Fragment x12",525,"Kepingan jiwa yang hilang.",4,10008,12,5,2,"chara_id10008_12.png",8,0,0,4,,525,137.1,17.5
+1524,"Pioneer Bracelet I",42,"Menambah 1 slot pencarian (berlaku selama 30 hari).",0,9,1,3,2,"item_id013.png",10,0,0,4,,42,10.97,1.4
+1525,"Pioneer Bracelet II",75,"Menambah 2 slot pencarian (berlaku selama 30 hari).",0,9,1,4,2,"item_id013.png",10,0,0,4,,75,19.59,2.5
+1526,"Pioneer Bracelet III",96,"Menambah 3 slot pencarian (berlaku selama 30 hari).",0,9,1,5,2,"item_id013.png",10,0,0,4,,96,25.07,3.2
+1527,"Mystery Tiara I",42,"Mengurangi waktu pencarian Quest sebanyak 30% (berlaku selama 30 hari).",1,57,1,100,2,"chara_id1003.png",9,0,0,4,,42,10.97,1.4
+1528,"Mystery Tiara II",75,"Mengurangi waktu pencarian Quest sebanyak 50% (berlaku selama 30 hari).",1,58,1,101,2,"chara_id1004.png",9,0,0,4,,75,19.59,2.5
+1529,"Mystery Tiara III",96,"Mengurangi waktu pencarian Quest sebanyak 75% (berlaku selama 30 hari).",1,59,1,102,2,"chara_id1005.png",9,0,0,4,,96,25.07,3.2
+1530,"Fairy Familiar I",42,"Menambah 1 slot pencarian (berlaku selama 30 hari).",1,60,1,103,2,"chara_id1006.png",9,0,0,4,,42,10.97,1.4
+1531,"Fairy Familiar II",75,"Menambah 2 slot pencarian (berlaku selama 30 hari).",1,61,1,104,2,"chara_id1007.png",9,0,0,4,,75,19.59,2.5
+1532,"Fairy Familiar III",96,"Menambah 3 slot pencarian (berlaku selama 30 hari).",1,62,1,105,2,"chara_id1008.png",9,0,0,4,,96,25.07,3.2
+1533,"Witch Earrings I",42,"Mempercepat pemulihan AP 10 menit (berlaku selama 30 hari).",1,63,1,106,2,"chara_id1009.png",9,0,0,4,,42,10.97,1.4
+1534,"Witch Earrings II",75,"Mempercepat pemulihan AP 15 menit (berlaku selama 30 hari).",1,64,1,107,2,"chara_id1010.png",9,0,0,4,,75,19.59,2.5
+1535,"Witch Earrings III",96,"Mempercepat pemulihan AP 20 menit (berlaku selama 30 hari).",1,65,1,108,2,"chara_id1011.png",9,0,0,4,,96,25.07,3.2
+1536,"Fortune Wand I",42,"Memberi bonus 50% GEM (berlaku selama 30 hari).",1,66,1,109,2,"chara_id1012.png",9,0,0,4,,42,10.97,1.4
+1537,"Fortune Wand II",75,"Memberi bonus 100% GEM (berlaku selama 30 hari).",1,67,1,110,2,"chara_id1013.png",9,0,0,4,,75,19.59,2.5
+1538,"Fortune Wand III",96,"Memberi bonus 200% GEM (berlaku selama 30 hari).",1,68,1,111,2,"chara_id1014.png",9,0,0,4,,96,25.07,3.2
+1539,"Eye Patch (White)",42,"Dapat digunakan sebagai perban.",1,79,1,200,2,"chara_id1015.png",9,0,0,4,,42,10.97,1.4
+1540,"Mush (Brown)",42,"Gaya rambut anak-anak.",1,72,1,201,2,"chara_id1021.png",9,0,0,4,,42,10.97,1.4
+1541,"Mush (White)",42,"Gaya rambut anak-anak.",1,73,1,202,2,"chara_id1023.png",9,0,0,4,,42,10.97,1.4
+1542,"Twin Tail (Blond)",42,"Gaya rambut bangsawan.",1,75,1,203,2,"chara_id1030.png",9,0,0,4,,42,10.97,1.4
+1543,"Twin Tail (Brown)",42,"Gaya rambut bangsawan.",1,76,1,204,2,"chara_id1031.png",9,0,0,4,,42,10.97,1.4
+1544,"Long Hair (Blond)",42,"Gaya rambut dewasa.",1,89,1,205,2,"chara_id1040.png",9,0,0,4,,42,10.97,1.4
+1545,"Long Hair (White)",42,"Gaya rambut dewasa.",1,90,1,206,2,"chara_id1043.png",9,0,0,4,,42,10.97,1.4
+1546,"Long Hair (Black)",42,"Gaya rambut dewasa.",1,91,1,207,2,"chara_id1047.png",9,0,0,4,,42,10.97,1.4
+1547,"Blue Glasses",33,"Kacamata pembantu penglihatan.",1,92,1,208,2,"chara_id1017.png",9,0,0,4,,33,8.62,1.1
+1548,"Red Glasses",33,"Kacamata pembantu penglihatan.",1,93,1,209,2,"chara_id1018.png",9,0,0,4,,33,8.62,1.1
+1549,"Mystery Closet",75,"Menambah 5 slot perlengkapan Avatar.",0,37,1,30,2,"item_id037.png",9,0,0,4,,75,19.59,2.5
+1550,"Casual Short (Blond)",42,"Gaya rambut halus.",1,103,1,210,2,"chara_id1050.png",9,0,0,4,,42,10.97,1.4
+1551,"Casual Short (Blue)",42,"Gaya rambut halus.",1,104,1,211,2,"chara_id1052.png",9,0,0,4,,42,10.97,1.4
+1552,"Casual Short (Red)",42,"Gaya rambut halus.",1,105,1,212,2,"chara_id1056.png",9,0,0,4,,42,10.97,1.4
+1553,"Blue Purification Flame",210,"Mereset catatan duel Avatar.",0,40,1,32,2,"item_id040.png",9,0,0,4,,210,54.84,7
+1554,"Red Purification Flame",210,"Mereset BP dari Avatar.",0,41,1,33,2,"item_id041.png",9,0,0,4,,210,54.84,7
+1555,"Witch Closet",105,"Menambah 10 slot perlengkapan Avatar.",0,42,1,31,2,"item_id042.png",9,0,0,4,,105,27.42,3.5
+1556,"Noble Long (Blue)",42,"Rambut lurus.",1,115,1,213,2,"chara_id1062.png",9,0,0,4,,42,10.97,1.4
+1557,"Noble Long (Red)",42,"Rambut lurus.",1,116,1,214,2,"chara_id1063.png",9,0,0,4,,42,10.97,1.4
+1558,"Noble Long (Black)",42,"Rambut lurus.",1,117,1,215,2,"chara_id1067.png",9,0,0,4,,42,10.97,1.4
+1559,"Long (Blond)",42,"Rambut panjang lurus.",1,118,1,216,2,"chara_id1070.png",9,0,0,4,,42,10.97,1.4
+1560,"Long (Red)",42,"Rambut panjang lurus.",1,119,1,217,2,"chara_id1076.png",9,0,0,4,,42,10.97,1.4
+1561,"Long (Brown)",42,"Rambut panjang lurus.",1,120,1,218,2,"chara_id1078.png",9,0,0,4,,42,10.97,1.4
+1562,"New Year's Dress (Green)",42,"Baju khusus Tahun Baru.",1,122,1,219,2,"chara_id2000.png",9,0,0,4,,42,10.97,1.4
+1563,"New Year's Dress (Purple)",42,"Baju khusus Tahun Baru.",1,123,1,220,2,"chara_id2001.png",9,0,0,4,,42,10.97,1.4
+1564,"Milian",378,"Mantan prajurit Regiment bertangan satu yang pernah bekerja bersama Rosso.",4,241,1,4,2,"chara_id241.png",10,0,0,4,,378,98.71,12.6
+1565,"Quest Set A",75,"Set Quest. Magic Potion x2. Hourglass x3. Elixir x2.",0,3,2,80,2,"item_set_b000.png",1,81,0,4,,75,19.59,2.5
+1566,"Quest Set B",138,"Set Quest. Magic Potion x2. Hourglass x3. Elixir x2. Demon Compass x2. Special Mushroom Extract. Avatar Parts.",0,3,2,81,2,"item_set_b001.png",1,155,0,4,,138,36.04,4.6
+1567,"Duel Set A",75,"Set Duel. Magic Potion. Lucky Clover x3. White Heath 5 x3.",0,3,1,90,2,"item_set_a000.png",2,90,0,4,,75,19.59,2.5
+1568,"Duel Set B",138,"Set Duel. Special Mushroom Extract. Lucky Clover x5. White Heath 5 x3. Skip Star x3. Black Mini Hat (pada pembelian pertama).",0,4,5,91,2,"item_set_a001.png",2,154,0,4,,138,36.04,4.6
+1569,"Deck Set 1",189,"Mendapatkan kartu berikut dalam Deck LV21. Evarist LV4. Grunwald LV4. Abel LV4.",5,114060,1,0,2,"item_deck_a000.png",10,101,1,4,"item_c_k000.swf",189,49.35,6.3
+1570,"Deck Set 2",630,"Mendapatkan kartu berikut dalam Deck LV21. Jead LV3. Kronig LV3. Redgrave LV3. CHANCE3 x2. SPECIAL3 x2. SPECIAL2 x6. SPECIAL1/SHIELD1 x6. SHIELD3 x2.",5,114060,1,0,2,"item_deck_a001.png",10,105,2,4,"item_c_k000.swf",630,164.51,21
+1571,"Duel Set 3",1260,"Mendapatkan kartu berikut dalam Deck LV31. Jead LV3. Kronig LV5. Redgrave LV5. CHANCE4. CHANCE3. MOVE3. SPECIAL3 x4. SPECIAL2 x6. SPECIAL1/SHIELD1 x5.",5,551060,1,0,2,"item_deck_a002.png",10,127,3,4,"item_c_k000.swf",1260,329.03,42
+1572,"Silk Dress (Blue)",42,"Dress berpotongan rendah.",1,205,1,221,2,"chara_id2002.png",9,0,0,4,,42,10.97,1.4
+1573,"Silk Dress (Black)",42,"Dress berpotongan rendah.",1,206,1,222,2,"chara_id2003.png",9,0,0,4,,42,10.97,1.4
+1574,"Silk Pumps (Blue)",42,"Sepatu yang cocok dengan gaun.",1,208,1,223,2,"chara_id6000.png",9,0,0,4,,42,10.97,1.4
+1575,"Silk Pumps (Black)",42,"Sepatu yang cocok dengan gaun.",1,209,1,224,2,"chara_id6001.png",9,0,0,4,,42,10.97,1.4
+1576,"ミニクラウン（赤）",42,"高貴な者だけが身につける事を許された王冠",1,256,1,225,2,"chara_id3005.png",9,0,0,4,,42,10.97,1.4
+1577,"王子の服（赤）",42,"気品漂う服",1,259,1,226,2,"chara_id4000.png",9,0,0,4,,42,10.97,1.4
+1578,"王子の服（青）",42,"気品漂う服",1,260,1,227,2,"chara_id4001.png",9,0,0,4,,42,10.97,1.4
+1579,"王子のパンツ（赤）",42,"気品漂うパンツ",1,262,1,228,2,"chara_id5000.png",9,0,0,4,,42,10.97,1.4
+1580,"王子のパンツ（青）",42,"気品漂うパンツ",1,263,1,229,2,"chara_id5001.png",9,0,0,4,,42,10.97,1.4
+1581,"カエル王子の剣（青）",42,"高貴な者だけが身につける事を許された剣。特殊な効果は無い",1,267,1,0,2,"chara_id1700.png",9,0,0,4,,42,10.97,1.4
+1582,"カエル王子の剣（緑）",42,"高貴な者だけが身につける事を許された剣。特殊な効果は無い",1,268,1,1,2,"chara_id1702.png",9,0,0,4,,42,10.97,1.4
+1583,"ミニクラウン（黒）",42,"高貴な者だけが身につける事を許された王冠",1,276,1,2,2,"chara_id3008.png",9,0,0,4,,42,10.97,1.4
+1584,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1585,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1586,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1587,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1588,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1589,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1590,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1591,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1592,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1593,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1594,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1595,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1596,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1597,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1598,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1599,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1600,"Magic Potion",18,"Mengisi penuh AP.",0,3,1,0,2,"item_id003.png",0,0,0,5,,18,4.7,0.6
+1601,"Magic Potion x10",135,"Mengisi penuh AP.",0,3,10,1,2,"item_id003_.png",0,0,0,5,,135,35.25,4.5
+1602,"Lucky Clover",9,"Melempar ulang dadu di Bonus Game.",0,4,1,0,2,"item_id004.png",2,0,0,5,,9,2.35,0.3
+1603,"Lucky Clover x10",72,"Melempar ulang dadu di Bonus Game.",0,4,10,1,2,"item_id004_.png",2,0,0,5,,72,18.8,2.4
+1604,"White Heath 5",12,"Melanjutkan bonus game jika jumlah dadu dibawah 5.",0,7,1,10,2,"item_id007.png",2,0,0,5,,12,3.13,0.4
+1605,"White Heath 5 x10",90,"Melanjutkan bonus game jika jumlah dadu dibawah 5.",0,7,10,11,2,"item_id007_.png",2,0,0,5,,90,23.5,3
+1606,"Skip Star",18,"Kemampuan untuk melewati bonus game.",0,8,1,20,2,"item_id008.png",9,0,0,5,,18,4.7,0.6
+1607,"Skip Star x10",135,"Kemampuan untuk melewati bonus game.",0,8,10,21,2,"item_id008_.png",9,0,0,5,,135,35.25,4.5
+1608,"Hourglass",12,"Menyelesaikan pencarian Quest.",0,12,1,0,2,"item_id012.png",1,0,0,5,,12,3.13,0.4
+1609,"Hourglass x10",90,"Menyelesaikan pencarian Quest.",0,12,10,1,2,"item_id012_.png",1,0,0,5,,90,23.5,3
+1610,"Elixir",6,"Memulihkan HP didalam Quest.",0,17,1,10,2,"item_id013.png",5,0,0,5,,6,1.57,0.2
+1611,"Elixir x10",45,"Memulihkan HP didalam Quest.",0,17,10,11,2,"item_id013_.png",5,0,0,5,,45,11.75,1.5
+1612,"Traumerei Door",36,"Mengisi Quest progress 10 poin.",0,22,1,10,2,"item_id022.png",9,0,0,5,,36,9.4,1.2
+1613,"Paladin Testament",135,"Melanjutkan ke area berikutnya.",0,23,1,11,2,"item_id024.png",1,0,0,5,,135,35.25,4.5
+1614,"Demon Compass",27,"Memunculkan Quest Boss saat menyelesaikan Quest.",0,24,1,12,2,"item_id023.png",1,0,0,5,,27,7.05,0.9
+1615,"Ticket x10",117,"10 Tiket untuk mendapatkan kartu langka.",0,9,10,0,2,"item_id009_10.png",7,0,0,5,,117,30.55,3.9
+1616,"Ticket x30 + 4 + α",324,"34 Tiket untuk mendapatkan kartu langka + Hades Seal",0,9,34,0,2,"item_id009_30.png",7,78,0,5,,324,84.61,10.8
+1617,"Ticket x50 + 4 + α",540,"58 Tiket untuk mendapatkan kartu langka + 2 Hades Seal",0,9,58,1,2,"item_id009_50.png",7,79,0,5,,540,141.01,18
+1618,"Memory Fragment",27,"Kepingan memori dari kehidupan sebelumnya.",4,10006,1,0,2,"chara_id10006.png",8,0,0,5,,27,7.05,0.9
+1619,"Memory Fragment x12",270,"Kepingan memori dari kehidupan sebelumnya.",4,10006,12,1,2,"chara_id10006_12.png",8,0,0,5,,270,70.51,9
+1620,"Time Fragment",36,"Kepingan waktu yang dapat digunakan untuk mengarungi waktu.",4,10007,1,2,2,"chara_id10007.png",8,0,0,5,,36,9.4,1.2
+1621,"Time Fragment x12",360,"Kepingan waktu yang dapat digunakan untuk mengarungi waktu.",4,10007,12,3,2,"chara_id10007_12.png",8,0,0,5,,360,94.01,12
+1622,"Soul Fragment",45,"Kepingan jiwa yang hilang.",4,10008,1,4,2,"chara_id10008.png",8,0,0,5,,45,11.75,1.5
+1623,"Soul Fragment x12",450,"Kepingan jiwa yang hilang.",4,10008,12,5,2,"chara_id10008_12.png",8,0,0,5,,450,117.51,15
+1624,"Pioneer Bracelet I",36,"Menambah 1 slot pencarian (berlaku selama 30 hari).",0,9,1,3,2,"item_id013.png",10,0,0,5,,36,9.4,1.2
+1625,"Pioneer Bracelet II",63,"Menambah 2 slot pencarian (berlaku selama 30 hari).",0,9,1,4,2,"item_id013.png",10,0,0,5,,63,16.45,2.1
+1626,"Pioneer Bracelet III",81,"Menambah 3 slot pencarian (berlaku selama 30 hari).",0,9,1,5,2,"item_id013.png",10,0,0,5,,81,21.15,2.7
+1627,"Mystery Tiara I",36,"Mengurangi waktu pencarian Quest sebanyak 30% (berlaku selama 30 hari).",1,57,1,100,2,"chara_id1003.png",9,0,0,5,,36,9.4,1.2
+1628,"Mystery Tiara II",63,"Mengurangi waktu pencarian Quest sebanyak 50% (berlaku selama 30 hari).",1,58,1,101,2,"chara_id1004.png",9,0,0,5,,63,16.45,2.1
+1629,"Mystery Tiara III",81,"Mengurangi waktu pencarian Quest sebanyak 75% (berlaku selama 30 hari).",1,59,1,102,2,"chara_id1005.png",9,0,0,5,,81,21.15,2.7
+1630,"Fairy Familiar I",36,"Menambah 1 slot pencarian (berlaku selama 30 hari).",1,60,1,103,2,"chara_id1006.png",9,0,0,5,,36,9.4,1.2
+1631,"Fairy Familiar II",63,"Menambah 2 slot pencarian (berlaku selama 30 hari).",1,61,1,104,2,"chara_id1007.png",9,0,0,5,,63,16.45,2.1
+1632,"Fairy Familiar III",81,"Menambah 3 slot pencarian (berlaku selama 30 hari).",1,62,1,105,2,"chara_id1008.png",9,0,0,5,,81,21.15,2.7
+1633,"Witch Earrings I",36,"Mempercepat pemulihan AP 10 menit (berlaku selama 30 hari).",1,63,1,106,2,"chara_id1009.png",9,0,0,5,,36,9.4,1.2
+1634,"Witch Earrings II",63,"Mempercepat pemulihan AP 15 menit (berlaku selama 30 hari).",1,64,1,107,2,"chara_id1010.png",9,0,0,5,,63,16.45,2.1
+1635,"Witch Earrings III",81,"Mempercepat pemulihan AP 20 menit (berlaku selama 30 hari).",1,65,1,108,2,"chara_id1011.png",9,0,0,5,,81,21.15,2.7
+1636,"Fortune Wand I",36,"Memberi bonus 50% GEM (berlaku selama 30 hari).",1,66,1,109,2,"chara_id1012.png",9,0,0,5,,36,9.4,1.2
+1637,"Fortune Wand II",63,"Memberi bonus 100% GEM (berlaku selama 30 hari).",1,67,1,110,2,"chara_id1013.png",9,0,0,5,,63,16.45,2.1
+1638,"Fortune Wand III",81,"Memberi bonus 200% GEM (berlaku selama 30 hari).",1,68,1,111,2,"chara_id1014.png",9,0,0,5,,81,21.15,2.7
+1639,"Eye Patch (White)",36,"Dapat digunakan sebagai perban.",1,79,1,200,2,"chara_id1015.png",9,0,0,5,,36,9.4,1.2
+1640,"Mush (Brown)",36,"Gaya rambut anak-anak.",1,72,1,201,2,"chara_id1021.png",9,0,0,5,,36,9.4,1.2
+1641,"Mush (White)",36,"Gaya rambut anak-anak.",1,73,1,202,2,"chara_id1023.png",9,0,0,5,,36,9.4,1.2
+1642,"Twin Tail (Blond)",36,"Gaya rambut bangsawan.",1,75,1,203,2,"chara_id1030.png",9,0,0,5,,36,9.4,1.2
+1643,"Twin Tail (Brown)",36,"Gaya rambut bangsawan.",1,76,1,204,2,"chara_id1031.png",9,0,0,5,,36,9.4,1.2
+1644,"Long Hair (Blond)",36,"Gaya rambut dewasa.",1,89,1,205,2,"chara_id1040.png",9,0,0,5,,36,9.4,1.2
+1645,"Long Hair (White)",36,"Gaya rambut dewasa.",1,90,1,206,2,"chara_id1043.png",9,0,0,5,,36,9.4,1.2
+1646,"Long Hair (Black)",36,"Gaya rambut dewasa.",1,91,1,207,2,"chara_id1047.png",9,0,0,5,,36,9.4,1.2
+1647,"Blue Glasses",27,"Kacamata pembantu penglihatan.",1,92,1,208,2,"chara_id1017.png",9,0,0,5,,27,7.05,0.9
+1648,"Red Glasses",27,"Kacamata pembantu penglihatan.",1,93,1,209,2,"chara_id1018.png",9,0,0,5,,27,7.05,0.9
+1649,"Mystery Closet",63,"Menambah 5 slot perlengkapan Avatar.",0,37,1,30,2,"item_id037.png",9,0,0,5,,63,16.45,2.1
+1650,"Casual Short (Blond)",36,"Gaya rambut halus.",1,103,1,210,2,"chara_id1050.png",9,0,0,5,,36,9.4,1.2
+1651,"Casual Short (Blue)",36,"Gaya rambut halus.",1,104,1,211,2,"chara_id1052.png",9,0,0,5,,36,9.4,1.2
+1652,"Casual Short (Red)",36,"Gaya rambut halus.",1,105,1,212,2,"chara_id1056.png",9,0,0,5,,36,9.4,1.2
+1653,"Blue Purification Flame",180,"Mereset catatan duel Avatar.",0,40,1,32,2,"item_id040.png",9,0,0,5,,180,47,6
+1654,"Red Purification Flame",180,"Mereset BP dari Avatar.",0,41,1,33,2,"item_id041.png",9,0,0,5,,180,47,6
+1655,"Witch Closet",90,"Menambah 10 slot perlengkapan Avatar.",0,42,1,31,2,"item_id042.png",9,0,0,5,,90,23.5,3
+1656,"Noble Long (Blue)",36,"Rambut lurus.",1,115,1,213,2,"chara_id1062.png",9,0,0,5,,36,9.4,1.2
+1657,"Noble Long (Red)",36,"Rambut lurus.",1,116,1,214,2,"chara_id1063.png",9,0,0,5,,36,9.4,1.2
+1658,"Noble Long (Black)",36,"Rambut lurus.",1,117,1,215,2,"chara_id1067.png",9,0,0,5,,36,9.4,1.2
+1659,"Long (Blond)",36,"Rambut panjang lurus.",1,118,1,216,2,"chara_id1070.png",9,0,0,5,,36,9.4,1.2
+1660,"Long (Red)",36,"Rambut panjang lurus.",1,119,1,217,2,"chara_id1076.png",9,0,0,5,,36,9.4,1.2
+1661,"Long (Brown)",36,"Rambut panjang lurus.",1,120,1,218,2,"chara_id1078.png",9,0,0,5,,36,9.4,1.2
+1662,"New Year's Dress (Green)",36,"Baju khusus Tahun Baru.",1,122,1,219,2,"chara_id2000.png",9,0,0,5,,36,9.4,1.2
+1663,"New Year's Dress (Purple)",36,"Baju khusus Tahun Baru.",1,123,1,220,2,"chara_id2001.png",9,0,0,5,,36,9.4,1.2
+1664,"Milian",324,"Mantan prajurit Regiment bertangan satu yang pernah bekerja bersama Rosso.",4,241,1,4,2,"chara_id241.png",10,0,0,5,,324,84.61,10.8
+1665,"Quest Set A",63,"Set Quest. Magic Potion x2. Hourglass x3. Elixir x2.",0,3,2,80,2,"item_set_b000.png",1,81,0,5,,63,16.45,2.1
+1666,"Quest Set B",117,"Set Quest. Magic Potion x2. Hourglass x3. Elixir x2. Demon Compass x2. Special Mushroom Extract. Avatar Parts.",0,3,2,81,2,"item_set_b001.png",1,155,0,5,,117,30.55,3.9
+1667,"Duel Set A",63,"Set Duel. Magic Potion. Lucky Clover x3. White Heath 5 x3.",0,3,1,90,2,"item_set_a000.png",2,90,0,5,,63,16.45,2.1
+1668,"Duel Set B",117,"Set Duel. Special Mushroom Extract. Lucky Clover x5. White Heath 5 x3. Skip Star x3. Black Mini Hat (pada pembelian pertama).",0,4,5,91,2,"item_set_a001.png",2,154,0,5,,117,30.55,3.9
+1669,"Deck Set 1",180,"Mendapatkan kartu berikut dalam Deck LV21. Evarist LV4. Grunwald LV4. Abel LV4.",5,114060,1,0,2,"item_deck_a000.png",10,101,1,5,"item_c_k000.swf",180,47,6
+1670,"Deck Set 2",540,"Mendapatkan kartu berikut dalam Deck LV21. Jead LV3. Kronig LV3. Redgrave LV3. CHANCE3 x2. SPECIAL3 x2. SPECIAL2 x6. SPECIAL1/SHIELD1 x6. SHIELD3 x2.",5,114060,1,0,2,"item_deck_a001.png",10,105,2,5,"item_c_k000.swf",540,141.01,18
+1671,"Duel Set 3",1080,"Mendapatkan kartu berikut dalam Deck LV31. Jead LV3. Kronig LV5. Redgrave LV5. CHANCE4. CHANCE3. MOVE3. SPECIAL3 x4. SPECIAL2 x6. SPECIAL1/SHIELD1 x5.",5,551060,1,0,2,"item_deck_a002.png",10,127,3,5,"item_c_k000.swf",1080,282.02,36
+1672,"Silk Dress (Blue)",36,"Dress berpotongan rendah.",1,205,1,221,2,"chara_id2002.png",9,0,0,5,,36,9.4,1.2
+1673,"Silk Dress (Black)",36,"Dress berpotongan rendah.",1,206,1,222,2,"chara_id2003.png",9,0,0,5,,36,9.4,1.2
+1674,"Silk Pumps (Blue)",36,"Sepatu yang cocok dengan gaun.",1,208,1,223,2,"chara_id6000.png",9,0,0,5,,36,9.4,1.2
+1675,"Silk Pumps (Black)",36,"Sepatu yang cocok dengan gaun.",1,209,1,224,2,"chara_id6001.png",9,0,0,5,,36,9.4,1.2
+1676,"ミニクラウン（赤）",36,"高貴な者だけが身につける事を許された王冠",1,256,1,225,2,"chara_id3005.png",9,0,0,5,,36,9.4,1.2
+1677,"王子の服（赤）",36,"気品漂う服",1,259,1,226,2,"chara_id4000.png",9,0,0,5,,36,9.4,1.2
+1678,"王子の服（青）",36,"気品漂う服",1,260,1,227,2,"chara_id4001.png",9,0,0,5,,36,9.4,1.2
+1679,"王子のパンツ（赤）",36,"気品漂うパンツ",1,262,1,228,2,"chara_id5000.png",9,0,0,5,,36,9.4,1.2
+1680,"王子のパンツ（青）",36,"気品漂うパンツ",1,263,1,229,2,"chara_id5001.png",9,0,0,5,,36,9.4,1.2
+1681,"カエル王子の剣（青）",36,"高貴な者だけが身につける事を許された剣。特殊な効果は無い",1,267,1,0,2,"chara_id1700.png",9,0,0,5,,36,9.4,1.2
+1682,"カエル王子の剣（緑）",36,"高貴な者だけが身につける事を許された剣。特殊な効果は無い",1,268,1,1,2,"chara_id1702.png",9,0,0,5,,36,9.4,1.2
+1683,"ミニクラウン（黒）",36,"高貴な者だけが身につける事を許された王冠",1,276,1,2,2,"chara_id3008.png",9,0,0,5,,36,9.4,1.2
+1684,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1685,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1686,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1687,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1688,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1689,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1690,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1691,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1692,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1693,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1694,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1695,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1696,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1697,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1698,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1699,"dummy",0,"dummy",0,6,1,0,2,"item_id003.png",10,0,0,0,,0,0,0
+1700,"Magic Potion",12,"Mengisi penuh AP.",0,3,1,0,2,"item_id003.png",0,0,0,6,,12,3.13,0.4
+1701,"Magic Potion x10",90,"Mengisi penuh AP.",0,3,10,1,2,"item_id003_.png",0,0,0,6,,90,23.5,3
+1702,"Lucky Clover",6,"Melempar ulang dadu di Bonus Game.",0,4,1,0,2,"item_id004.png",2,0,0,6,,6,1.57,0.2
+1703,"Lucky Clover x10",48,"Melempar ulang dadu di Bonus Game.",0,4,10,1,2,"item_id004_.png",2,0,0,6,,48,12.53,1.6
+1704,"White Heath 5",6,"Melanjutkan bonus game jika jumlah dadu dibawah 5.",0,7,1,10,2,"item_id007.png",2,0,0,6,,6,1.57,0.2
+1705,"White Heath 5 x10",60,"Melanjutkan bonus game jika jumlah dadu dibawah 5.",0,7,10,11,2,"item_id007_.png",2,0,0,6,,60,15.67,2
+1706,"Skip Star",12,"Kemampuan untuk melewati bonus game.",0,8,1,20,2,"item_id008.png",9,0,0,6,,12,3.13,0.4
+1707,"Skip Star x10",90,"Kemampuan untuk melewati bonus game.",0,8,10,21,2,"item_id008_.png",9,0,0,6,,90,23.5,3
+1708,"Hourglass",6,"Menyelesaikan pencarian Quest.",0,12,1,0,2,"item_id012.png",1,0,0,6,,6,1.57,0.2
+1709,"Hourglass x10",60,"Menyelesaikan pencarian Quest.",0,12,10,1,2,"item_id012_.png",1,0,0,6,,60,15.67,2
+1710,"Elixir",3,"Memulihkan HP didalam Quest.",0,17,1,10,2,"item_id013.png",5,0,0,6,,3,0.78,0.1
+1711,"Elixir x10",30,"Memulihkan HP didalam Quest.",0,17,10,11,2,"item_id013_.png",5,0,0,6,,30,7.83,1
+1712,"Traumerei Door",24,"Mengisi Quest progress 10 poin.",0,22,1,10,2,"item_id022.png",9,0,0,6,,24,6.27,0.8
+1713,"Paladin Testament",90,"Melanjutkan ke area berikutnya.",0,23,1,11,2,"item_id024.png",1,0,0,6,,90,23.5,3
+1714,"Demon Compass",18,"Memunculkan Quest Boss saat menyelesaikan Quest.",0,24,1,12,2,"item_id023.png",1,0,0,6,,18,4.7,0.6
+1715,"Ticket x10",78,"10 Tiket untuk mendapatkan kartu langka.",0,9,10,0,2,"item_id009_10.png",7,0,0,6,,78,20.37,2.6
+1716,"Ticket x30 + 4 + α",216,"34 Tiket untuk mendapatkan kartu langka + Hades Seal",0,9,34,0,2,"item_id009_30.png",7,78,0,6,,216,56.4,7.2
+1717,"Ticket x50 + 4 + α",360,"58 Tiket untuk mendapatkan kartu langka + 2 Hades Seal",0,9,58,1,2,"item_id009_50.png",7,79,0,6,,360,94.01,12
+1718,"Memory Fragment",18,"Kepingan memori dari kehidupan sebelumnya.",4,10006,1,0,2,"chara_id10006.png",8,0,0,6,,18,4.7,0.6
+1719,"Memory Fragment x12",180,"Kepingan memori dari kehidupan sebelumnya.",4,10006,12,1,2,"chara_id10006_12.png",8,0,0,6,,180,47,6
+1720,"Time Fragment",24,"Kepingan waktu yang dapat digunakan untuk mengarungi waktu.",4,10007,1,2,2,"chara_id10007.png",8,0,0,6,,24,6.27,0.8
+1721,"Time Fragment x12",240,"Kepingan waktu yang dapat digunakan untuk mengarungi waktu.",4,10007,12,3,2,"chara_id10007_12.png",8,0,0,6,,240,62.67,8
+1722,"Soul Fragment",30,"Kepingan jiwa yang hilang.",4,10008,1,4,2,"chara_id10008.png",8,0,0,6,,30,7.83,1
+1723,"Soul Fragment x12",300,"Kepingan jiwa yang hilang.",4,10008,12,5,2,"chara_id10008_12.png",8,0,0,6,,300,78.34,10
+1724,"Pioneer Bracelet I",24,"Menambah 1 slot pencarian (berlaku selama 30 hari).",0,9,1,3,2,"item_id013.png",10,0,0,6,,24,6.27,0.8
+1725,"Pioneer Bracelet II",42,"Menambah 2 slot pencarian (berlaku selama 30 hari).",0,9,1,4,2,"item_id013.png",10,0,0,6,,42,10.97,1.4
+1726,"Pioneer Bracelet III",54,"Menambah 3 slot pencarian (berlaku selama 30 hari).",0,9,1,5,2,"item_id013.png",10,0,0,6,,54,14.1,1.8
+1727,"Mystery Tiara I",24,"Mengurangi waktu pencarian Quest sebanyak 30% (berlaku selama 30 hari).",1,57,1,100,2,"chara_id1003.png",9,0,0,6,,24,6.27,0.8
+1728,"Mystery Tiara II",42,"Mengurangi waktu pencarian Quest sebanyak 50% (berlaku selama 30 hari).",1,58,1,101,2,"chara_id1004.png",9,0,0,6,,42,10.97,1.4
+1729,"Mystery Tiara III",54,"Mengurangi waktu pencarian Quest sebanyak 75% (berlaku selama 30 hari).",1,59,1,102,2,"chara_id1005.png",9,0,0,6,,54,14.1,1.8
+1730,"Fairy Familiar I",24,"Menambah 1 slot pencarian (berlaku selama 30 hari).",1,60,1,103,2,"chara_id1006.png",9,0,0,6,,24,6.27,0.8
+1731,"Fairy Familiar II",42,"Menambah 2 slot pencarian (berlaku selama 30 hari).",1,61,1,104,2,"chara_id1007.png",9,0,0,6,,42,10.97,1.4
+1732,"Fairy Familiar III",54,"Menambah 3 slot pencarian (berlaku selama 30 hari).",1,62,1,105,2,"chara_id1008.png",9,0,0,6,,54,14.1,1.8
+1733,"Witch Earrings I",24,"Mempercepat pemulihan AP 10 menit (berlaku selama 30 hari).",1,63,1,106,2,"chara_id1009.png",9,0,0,6,,24,6.27,0.8
+1734,"Witch Earrings II",42,"Mempercepat pemulihan AP 15 menit (berlaku selama 30 hari).",1,64,1,107,2,"chara_id1010.png",9,0,0,6,,42,10.97,1.4
+1735,"Witch Earrings III",54,"Mempercepat pemulihan AP 20 menit (berlaku selama 30 hari).",1,65,1,108,2,"chara_id1011.png",9,0,0,6,,54,14.1,1.8
+1736,"Fortune Wand I",24,"Memberi bonus 50% GEM (berlaku selama 30 hari).",1,66,1,109,2,"chara_id1012.png",9,0,0,6,,24,6.27,0.8
+1737,"Fortune Wand II",42,"Memberi bonus 100% GEM (berlaku selama 30 hari).",1,67,1,110,2,"chara_id1013.png",9,0,0,6,,42,10.97,1.4
+1738,"Fortune Wand III",54,"Memberi bonus 200% GEM (berlaku selama 30 hari).",1,68,1,111,2,"chara_id1014.png",9,0,0,6,,54,14.1,1.8
+1739,"Eye Patch (White)",24,"Dapat digunakan sebagai perban.",1,79,1,200,2,"chara_id1015.png",9,0,0,6,,24,6.27,0.8
+1740,"Mush (Brown)",24,"Gaya rambut anak-anak.",1,72,1,201,2,"chara_id1021.png",9,0,0,6,,24,6.27,0.8
+1741,"Mush (White)",24,"Gaya rambut anak-anak.",1,73,1,202,2,"chara_id1023.png",9,0,0,6,,24,6.27,0.8
+1742,"Twin Tail (Blond)",24,"Gaya rambut bangsawan.",1,75,1,203,2,"chara_id1030.png",9,0,0,6,,24,6.27,0.8
+1743,"Twin Tail (Brown)",24,"Gaya rambut bangsawan.",1,76,1,204,2,"chara_id1031.png",9,0,0,6,,24,6.27,0.8
+1744,"Long Hair (Blond)",24,"Gaya rambut dewasa.",1,89,1,205,2,"chara_id1040.png",9,0,0,6,,24,6.27,0.8
+1745,"Long Hair (White)",24,"Gaya rambut dewasa.",1,90,1,206,2,"chara_id1043.png",9,0,0,6,,24,6.27,0.8
+1746,"Long Hair (Black)",24,"Gaya rambut dewasa.",1,91,1,207,2,"chara_id1047.png",9,0,0,6,,24,6.27,0.8
+1747,"Blue Glasses",18,"Kacamata pembantu penglihatan.",1,92,1,208,2,"chara_id1017.png",9,0,0,6,,18,4.7,0.6
+1748,"Red Glasses",18,"Kacamata pembantu penglihatan.",1,93,1,209,2,"chara_id1018.png",9,0,0,6,,18,4.7,0.6
+1749,"Mystery Closet",42,"Menambah 5 slot perlengkapan Avatar.",0,37,1,30,2,"item_id037.png",9,0,0,6,,42,10.97,1.4
+1750,"Casual Short (Blond)",24,"Gaya rambut halus.",1,103,1,210,2,"chara_id1050.png",9,0,0,6,,24,6.27,0.8
+1751,"Casual Short (Blue)",24,"Gaya rambut halus.",1,104,1,211,2,"chara_id1052.png",9,0,0,6,,24,6.27,0.8
+1752,"Casual Short (Red)",24,"Gaya rambut halus.",1,105,1,212,2,"chara_id1056.png",9,0,0,6,,24,6.27,0.8
+1753,"Blue Purification Flame",120,"Mereset catatan duel Avatar.",0,40,1,32,2,"item_id040.png",9,0,0,6,,120,31.34,4
+1754,"Red Purification Flame",120,"Mereset BP dari Avatar.",0,41,1,33,2,"item_id041.png",9,0,0,6,,120,31.34,4
+1755,"Witch Closet",60,"Menambah 10 slot perlengkapan Avatar.",0,42,1,31,2,"item_id042.png",9,0,0,6,,60,15.67,2
+1756,"Noble Long (Blue)",24,"Rambut lurus.",1,115,1,213,2,"chara_id1062.png",9,0,0,6,,24,6.27,0.8
+1757,"Noble Long (Red)",24,"Rambut lurus.",1,116,1,214,2,"chara_id1063.png",9,0,0,6,,24,6.27,0.8
+1758,"Noble Long (Black)",24,"Rambut lurus.",1,117,1,215,2,"chara_id1067.png",9,0,0,6,,24,6.27,0.8
+1759,"Long (Blond)",24,"Rambut panjang lurus.",1,118,1,216,2,"chara_id1070.png",9,0,0,6,,24,6.27,0.8
+1760,"Long (Red)",24,"Rambut panjang lurus.",1,119,1,217,2,"chara_id1076.png",9,0,0,6,,24,6.27,0.8
+1761,"Long (Brown)",24,"Rambut panjang lurus.",1,120,1,218,2,"chara_id1078.png",9,0,0,6,,24,6.27,0.8
+1762,"New Year's Dress (Green)",24,"Baju khusus Tahun Baru.",1,122,1,219,2,"chara_id2000.png",9,0,0,6,,24,6.27,0.8
+1763,"New Year's Dress (Purple)",24,"Baju khusus Tahun Baru.",1,123,1,220,2,"chara_id2001.png",9,0,0,6,,24,6.27,0.8
+1764,"Milian",216,"Mantan prajurit Regiment bertangan satu yang pernah bekerja bersama Rosso.",4,241,1,4,2,"chara_id241.png",10,0,0,6,,216,56.4,7.2
+1765,"Quest Set A",42,"Set Quest. Magic Potion x2. Hourglass x3. Elixir x2.",0,3,2,80,2,"item_set_b000.png",1,81,0,6,,42,10.97,1.4
+1766,"Quest Set B",78,"Set Quest. Magic Potion x2. Hourglass x3. Elixir x2. Demon Compass x2. Special Mushroom Extract. Avatar Parts.",0,3,2,81,2,"item_set_b001.png",1,155,0,6,,78,20.37,2.6
+1767,"Duel Set A",42,"Set Duel. Magic Potion. Lucky Clover x3. White Heath 5 x3.",0,3,1,90,2,"item_set_a000.png",2,90,0,6,,42,10.97,1.4
+1768,"Duel Set B",78,"Set Duel. Special Mushroom Extract. Lucky Clover x5. White Heath 5 x3. Skip Star x3. Black Mini Hat (pada pembelian pertama).",0,4,5,91,2,"item_set_a001.png",2,154,0,6,,78,20.37,2.6
+1769,"Deck Set 1",135,"Mendapatkan kartu berikut dalam Deck LV21. Evarist LV4. Grunwald LV4. Abel LV4.",5,114060,1,0,2,"item_deck_a000.png",10,101,1,6,"item_c_k000.swf",135,35.25,4.5
+1770,"Deck Set 2",450,"Mendapatkan kartu berikut dalam Deck LV21. Jead LV3. Kronig LV3. Redgrave LV3. CHANCE3 x2. SPECIAL3 x2. SPECIAL2 x6. SPECIAL1/SHIELD1 x6. SHIELD3 x2.",5,114060,1,0,2,"item_deck_a001.png",10,105,2,6,"item_c_k000.swf",450,117.51,15
+1771,"Duel Set 3",900,"Mendapatkan kartu berikut dalam Deck LV31. Jead LV3. Kronig LV5. Redgrave LV5. CHANCE4. CHANCE3. MOVE3. SPECIAL3 x4. SPECIAL2 x6. SPECIAL1/SHIELD1 x5.",5,551060,1,0,2,"item_deck_a002.png",10,127,3,6,"item_c_k000.swf",900,235.02,30
+1772,"Silk Dress (Blue)",24,"Dress berpotongan rendah.",1,205,1,221,2,"chara_id2002.png",9,0,0,6,,24,6.27,0.8
+1773,"Silk Dress (Black)",24,"Dress berpotongan rendah.",1,206,1,222,2,"chara_id2003.png",9,0,0,6,,24,6.27,0.8
+1774,"Silk Pumps (Blue)",24,"Sepatu yang cocok dengan gaun.",1,208,1,223,2,"chara_id6000.png",9,0,0,6,,24,6.27,0.8
+1775,"Silk Pumps (Black)",24,"Sepatu yang cocok dengan gaun.",1,209,1,224,2,"chara_id6001.png",9,0,0,6,,24,6.27,0.8
+1776,"Mini Crown (Red)",24,"Mahkota yang hanya dikenakan oleh bangsawan.",1,256,1,225,2,"chara_id3005.png",9,0,0,6,,24,6.27,0.8
+1777,"Prince Clothes (Red)",24,"Pakaian elegan.",1,259,1,226,2,"chara_id4000.png",9,0,0,6,,24,6.27,0.8
+1778,"Prince Clothes (Blue)",24,"Pakaian elegan.",1,260,1,227,2,"chara_id4001.png",9,0,0,6,,24,6.27,0.8
+1779,"Prince Clothes (Green)",24,"Celana elegan.",1,262,1,228,2,"chara_id5000.png",9,0,0,6,,24,6.27,0.8
+1780,"Prince Pants (Red)",24,"Celana elegan.",1,263,1,229,2,"chara_id5001.png",9,0,0,6,,24,6.27,0.8
+1781,"Frog Prince Sword (Blue)",24,"Pedang yang hanya dipakai oleh bangsawan. Tidak memiliki efek khusus.",1,267,1,0,2,"chara_id1700.png",9,0,0,6,,24,6.27,0.8
+1782,"Frog Prince Sword (Red)",24,"Pedang yang hanya dipakai oleh bangsawan. Tidak memiliki efek khusus.",1,268,1,1,2,"chara_id1702.png",9,0,0,6,,24,6.27,0.8
+1783,"ミニクラウン（黒）",24,"高貴な者だけが身につける事を許された王冠",1,276,1,2,2,"chara_id3008.png",9,0,0,6,,24,6.27,0.8
