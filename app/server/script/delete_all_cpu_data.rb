@@ -4,7 +4,6 @@ require 'unlight'
 $arg = ARGV.shift
 
 module Unlight
-  # ランキングをリセット
   puts "CPUデータを削除します(y/n)"
   answer = gets.chomp
   if answer == "y"
