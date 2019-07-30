@@ -1,0 +1,1555 @@
+Application {
+
+/*
+ borderSkin: ClassReference("RepeatedBackground");
+*/
+ backgroundColor: #000000;
+
+/*
+backgroundGradientColors: #660000, #ff0000;
+backgroundGradientAlphas: 0.9, 1;
+backgroundImage: Embed("../image/humidor.png"); 
+*/
+themeColor: #ff0000;
+color: #000000;
+}
+
+Button {
+cornerRadius: 3;
+textIndent: 0;
+paddingLeft: 2;
+paddingRight: 2;
+paddingTop:3;
+highlightAlphas: 0.6, 0;
+color: #000000;
+textRollOverColor: #FFFFFF;
+textSelectedColor: #660000;
+borderColor: #666666;
+themeColor: #660000;
+fontFamily: Palatino;
+fontSize: 12;
+fontWeight: bold;
+letterSpacing: 1;
+}
+
+Panel {
+fontSize: 12;
+color: #000000;
+cornerRadius: 2;
+borderColor: #f4f4f4;
+borderAlpha: 0.9;
+borderSkin: Embed("../image/panel_gene.png",scaleGridLeft="42", scaleGridRight="78", scaleGridTop="60", scaleGridBottom="64");
+paddingTop: 40;
+paddingLeft: 10;
+paddingRight: 10;
+paddingBottom: 10;
+backgroundSize: "100%";
+backgroundAlpha: 1.0;
+backgroundColor: #ffffff;
+roundedBottomCorners: true;
+}
+
+ToolTip { 
+fontSize: 12;
+color: #ffffff; 
+backgroundColor: #000000;
+backgroundImage: Embed("../image/help.png",scaleGridLeft="12", scaleGridRight="37", scaleGridTop="12", scaleGridBottom="37");
+backgroundSize: "100%";
+}
+
+Alert{
+title-style-name:"alertTitle";
+color:#999999;
+paddingTop: 40;
+paddingLeft: 10;
+paddingRight: 10;
+paddingBottom: 10;
+font-size:11;
+}
+.alertTitle{
+font-family :Verdana;
+font-size :12;
+font-weight :bold;
+color :#000000;
+}
+
+.ItemTabNabigator {
+tabHeight: 25;
+tabWidth: 100;
+borderColor: #f4f4f4;
+borderAlpha: 0.9;
+backgroundSize: "100%";
+backgroundAlpha: 1.0;
+backgroundColor: #ffffff;
+}
+
+.ItemBox {
+backgroundImage: Embed("../image/help.png",scaleGridLeft="12", scaleGridRight="37", scaleGridTop="12", scaleGridBottom="37");
+backgroundSize: "100%";
+backgroundAlpha: 1.0;
+backgroundColor: #ffffff;
+}
+
+.ItemList {
+backgroundImage: Embed("../image/help.png",scaleGridLeft="12", scaleGridRight="37", scaleGridTop="12", scaleGridBottom="37");
+backgroundSize: "100%";
+backgroundAlpha: 1.0;
+backgroundColor: #ffffff;
+}
+
+.ItemListPanelTabLabel {
+color: #ffffff;
+fontSize: 10;
+fontFamily: minchoB;
+textAlign: left;
+kerning: true;
+letterSpacing: 1;
+}
+
+.ItemListItemName {
+color: #ffffff;
+fontWeight: bold;
+fontSize: 14;
+fontFamily: minchoB;
+textAlign: left;
+kerning: true;
+letterSpacing: 1;
+}
+
+
+.ItemListNumericLeft {
+color: #ffffff;
+fontSize: 12;
+textAlign: left;
+}
+
+.ItemListNumericRight {
+color: #000000;
+fontSize: 10;
+textAlign: right;
+}
+
+.ItemListNumericRight2 {
+color: #ffffff;
+fontSize: 12;
+textAlign: right;
+}
+
+.BuySendPanelLabel {
+color: #ffffff;
+fontWeight: bold;
+fontSize: 12;
+fontFamily: mincho;
+textAlign: center;
+kerning: true;
+}
+
+.UseSendPanelLabel {
+color: #ffffff;
+fontWeight: bold;
+fontSize: 12;
+fontFamily: minchoB;
+textAlign: right;
+kerning: true;
+}
+
+.GetSendPanelLabel {
+color: #ffffff;
+fontSize: 12;
+fontFamily: minchoB;
+textAlign: center;
+kerning: true;
+}
+
+.GetSendPanelLabelNofont {
+color: #ffffff;
+fontSize: 12;
+textAlign: center;
+kerning: true;
+letterSpacing: 1;
+leading: 4;
+}
+
+.ShopListTile {
+borderThickness: 0;
+focusThickness: 0;
+focusAlpha: 0;
+backgroundSize: "100%";
+backgroundAlpha: 0.0;
+backgroundColor: #ffffff;
+selectionColor: #ff0030;
+rollOverColor: #ff77AA;
+}
+
+.ShopGemsNumeric {
+color: #ffffff;
+fontSize: 22;
+fontFamily: bradley;
+textAlign: center;
+kerning: true;
+letterSpacing: 1;
+}
+
+.ShopGemsNumericRed {
+color: #ff0000;
+fontSize: 22;
+fontFamily: bradley;
+textAlign: center;
+kerning: true;
+letterSpacing: 1;
+}
+
+.ShopGemsNumericYellow {
+color: #ffff00;
+fontSize: 22;
+fontFamily: bradley;
+textAlign: center;
+kerning: true;
+letterSpacing: 1;
+}
+
+.ShopCoinsNumeric {
+color: #ffffff;
+fontSize: 10;
+fontFamily: minchoB;
+textAlign: center;
+}
+
+.ShopCoinsNumericRed {
+color: #ff0000;
+fontSize: 10;
+fontFamily: minchoB;
+textAlign: center;
+}
+
+.ShopCoinsNumericYellow {
+color: #ffff00;
+fontSize: 10;
+fontFamily: minchoB;
+textAlign: center;
+}
+
+.ItemListTile {
+borderThickness: 0;
+focusThickness: 0;
+focusAlpha: 0;
+backgroundSize: "100%";
+backgroundAlpha: 0.0;
+backgroundColor: #ffffff;
+selectionColor: #0030ff;
+rollOverColor: #77AAff;
+}
+
+.SocialLogBase {
+backgroundImage: Embed("../image/common/log_base0.png", scaleGridLeft="1", scaleGridRight="2", scaleGridTop="5", scaleGridBottom="6");
+backgroundSize: "150%";
+backgroundAlpha: 1.0;
+backgroundColor: #ffffff;
+verticalScrollBarStyleName: SocialLogScrollBar;
+}
+
+.gamelobby {
+font-family: “Arial”;
+color:#999999;
+fontSize: 12;
+}
+
+.CharaCardParam {
+color: #ffffff;
+fontSize: 24;
+fontFamily: bradley;
+textAlign: center;
+kernig: true;
+letterSpacing: 2;
+}
+
+.CharaCardParamRed {
+color: #ff7070;
+fontSize: 24;
+fontFamily: bradley;
+textAlign: center;
+kernig: true;
+letterSpacing: 2;
+}
+
+.CharaCardParamYellow {
+color: #ffff30;
+fontSize: 24;
+fontFamily: bradley;
+textAlign: center;
+kernig: true;
+letterSpacing: 2;
+}
+
+.CharaCardBonus {
+color: #ffffff;
+fontSize: 8;
+fontFamily: minchoB;
+textAlign: center;
+kernig: true;
+}
+
+.CharaCardBonusRed {
+color: #ff9090;
+fontSize: 8;
+fontFamily: minchoB;
+textAlign: center;
+kernig: true;
+}
+
+.CharaCardBonusGreen {
+color: #90f290;
+fontSize: 8;
+fontFamily: minchoB;
+textAlign: center;
+kernig: true;
+}
+
+
+.Characardnum {
+Color: #000000;
+fontSize: 14;
+fontFamily: bradley;
+textAlign: right;
+kernig: true;
+letterSpacing: 2;
+}
+
+.CharaCardValueNum {
+color: #000000;
+fontSize: 14;
+fontFamily: bradley;
+textAlign: center;
+kernig: true;
+letterSpacing: 2;
+}
+
+.UnlockCharaCardLabel {
+color: #ffffff;
+fontSize: 64;
+fontFamily: bradley;
+textAlign: center;
+kernig: true;
+letterSpacing: 2;
+}
+
+.LockCharaCardLabel {
+color: #ff0000;
+fontSize: 64;
+fontFamily: bradley;
+textAlign: center;
+kernig: true;
+letterSpacing: 2;
+}
+
+
+.UnlockCharaCardNumLabel {
+color: #ffffff;
+fontSize: 10;
+fontFamily: Palatino;
+textAlign: right;
+letterSpacing: 2;
+}
+
+.CharaCardName {
+color: #ffffff;
+fontSize: 12;
+fontFamily: minchoB;
+textAlign: center;
+kerning: true;
+letterSpacing: 1;
+}
+
+.ActionCardParam {
+color: #000000;
+fontSize: 12;
+fontWeight: bold;
+textAlign: center;
+}
+
+.GameOpeningNameLabel {
+color: #ffffff;
+fontSize: 12;
+textAlign: left;
+borderStyle: bold;
+fontFamily: minchoB;
+}
+
+.GameOpeningSubNameLabel {
+color: #D0C0B0;
+fontSize: 12;
+textAlign: right;
+borderStyle: bold;
+fontFamily: minchoB;
+}
+
+.GameLobbyRoomClipNameLabel {
+color: #ffffff;
+fontSize: 12;
+textAlign: left;
+textIndent: 1;
+borderStyle: none;
+}
+
+.RoomCreateHeartLabel {
+color: #FFFFFF;
+fontSize: 16;
+fontFamily: bradley;
+textAlign: center;
+letterSpacing: 1;
+}
+
+.createPanelLabel {
+fontSize: 12;
+color: #FFFFFF;
+}
+
+.GameLobbyRoomClipLabel {
+color: #000000;
+fontSize: 12;
+textAlign: left;
+backgroundColor: #000000;
+backgroundAlpha: 0.0;
+textIndent: 1;
+borderStyle: solid;
+}
+
+
+.GameLobbyChannelLabel {
+color: #000000;
+fontSize: 12;
+fontFamily: minchoB;
+textAlign: center;
+borderStyle: none;
+}
+
+.GameLobbyChannelNameLabel {
+color: #FFFFFF;
+fontSize: 10;
+fontFamily: minchoB;
+textAlign: left;
+borderStyle: none;
+letterSpacing: 1;
+}
+
+.GameLobbyChannelCaptionLabel {
+color: #FFFFFF;
+fontSize: 10;
+textAlign: left;
+backgroundColor: #000000;
+backgroundAlpha: 0.0;
+textIndent: 1;
+leading: -1;
+borderStyle: none;
+}
+
+.GameLobbyRoomNameLabel {
+color: #ffffff;
+fontSize: 14;
+fontWeight: bold;
+textAlign: left;
+}
+
+.GameLobbyRoomRuleLabel {
+color: #ffffff;
+fontSize: 12;
+textAlign: right;
+}
+
+.GameLobbyRoomCommentLabel {
+color: #ffffff;
+fontSize: 9;
+textAlign: left;
+}
+
+
+.GameLobbyRoomAvatarDataTitleLabel {
+color: #ffffff;
+fontSize: 9;
+textAlign: left;
+}
+
+.GameLobbyRoomAvatarDataLabel {
+color: #000000;
+fontSize: 9;
+textAlign: right;
+}
+
+.GameLobbyAvatarName {
+color: #ffffff;
+fontSize: 10;
+fontFamily: Palatino;
+textAlign: right;
+}
+
+.GameLobbyAvatarTitleLabel {
+color: #FFFFFF;
+fontSize: 12;
+backgroundColor: #000000;
+backgroundAlpha: 0.0;
+textIndent: 16;
+borderStyle: none;
+fontFamily: Palatino;
+textAlign: left;
+}
+
+.GameLobbyAvatarAPLabel {
+color: #FFFFFF;
+fontSize: 28;
+paddingTop: -15;
+textAlign: center;
+backgroundColor: #000000;
+backgroundAlpha: 0.0;
+textIndent: 0;
+borderStyle: none;
+fontFamily: bradley;
+letterSpacing: 1;
+}
+
+
+.GameLobbyAvatarLabel {
+color: #ffffff;
+fontSize: 12;
+textAlign: right;
+fontFamily: Palatino;
+}
+
+
+.SocialLogTabLabel {
+color: #000000;
+fontSize: 12;
+fontFamily: bradley;
+textAlign: center;
+kernig: true;
+letterSpacing: 2;
+}
+
+.SocialLogTextLabel {
+color: #000000;
+fontSize: 12;
+textAlign: left;
+kernig: true;
+letterSpacing: 2;
+}
+
+
+.GameLobbyBattlePointLabel {
+color: #FFFFFF;
+fontSize: 24;
+textAlign: left;
+fontFamily: bradley;
+textIndent: 1;
+borderStyle: none;
+}
+
+
+.GameLobbyCommentLabel {
+color: #FFFFFF;
+fontSize: 14;
+fontWeight: bold;
+textAlign: left;
+backgroundColor: #000000;
+backgroundAlpha: 0.0;
+textIndent: 1;
+borderStyle: none;
+}
+
+.DeckDataLabel {
+color: #ffffff;
+fontSize: 16;
+textAlign: left;
+fontFamily: bradley;
+textIndent: 2;
+borderStyle: none;
+}
+
+.DeckDataLabelSmall {
+color: #DDDDEE;
+fontSize: 12;
+fontFamily: Palatino;
+textAlign: left;
+borderStyle: none;
+}
+
+.DeckDataLabelRed {
+color: #ff7070;
+fontSize: 16;
+textAlign: left;
+fontFamily: bradley;
+textIndent: 2;
+borderStyle: none;
+}
+
+.DeckCostLabelForDeckArea {
+color: #ffffff;
+fontSize: 34;
+textAlign: right;
+fontFamily: bradley;
+textIndent: 2;
+borderStyle: none;
+}
+
+.DeckCostLabelRedForDeckArea {
+color: #ff7070;
+fontSize: 34;
+textAlign: right;
+fontFamily: bradley;
+textIndent: 2;
+borderStyle: none;
+}
+
+.DeckCostMagniLabelForDeckArea {
+color: #ffffff;
+fontSize: 16;
+textAlign: left;
+fontFamily: bradley;
+textIndent: 2;
+borderStyle: none;
+}
+
+.DeckMiddleCostLabelForDeckArea {
+color: #ffffff;
+fontSize: 26;
+textAlign: center;
+fontFamily: bradley;
+textIndent: 2;
+borderStyle: none;
+}
+
+.DeckNameLabel {
+color: #000000;
+fontSize: 14;
+textAlign: left;
+backgroundColor: #000000;
+backgroundAlpha: 0.0;
+borderStyle: none;
+}
+
+.DeckNameLabelForDeckArea {
+color: #CCCCEE;
+fontSize: 11;
+textAlign: left;
+backgroundColor: #000000;
+backgroundAlpha: 0.0;
+borderStyle: none;
+}
+
+.CurrentDeckNameLabel {
+color: #ff0000;
+fontSize: 14;
+textAlign: left;
+backgroundColor: #000000;
+backgroundAlpha: 0.0;
+borderStyle: none;
+}
+
+.CurrentDeckNameLabelForDeckArea {
+color: #EEEEFF;
+fontSize: 11;
+textAlign: left;
+backgroundColor: #000000;
+backgroundAlpha: 0.0;
+borderStyle: none;
+}
+
+.QusetDeckNameLabel {
+color: #000000;
+fontSize: 10;
+textAlign: left;
+backgroundColor: #000000;
+backgroundAlpha: 0.0;
+borderStyle: none;
+}
+
+.CurrentQuestDeckNameLabel {
+color: #ff0000;
+fontSize: 10;
+textAlign: left;
+backgroundColor: #000000;
+backgroundAlpha: 0.0;
+borderStyle: none;
+}
+
+.QuestLandDataLabel {
+color: #ffffff;
+fontSize: 10;
+fontFamily: Palatino;
+borderStyle: none;
+}
+
+.EditCharaCardParam {
+color: #ffffff;
+fontSize: 10;
+textAlign: center;
+letterSpacing: 1;
+paddingBottom: 1;
+}
+
+.EditCharaCardParamSmall {
+color: #ffffff;
+fontSize: 9;
+textAlign: center;
+letterSpacing: 1;
+paddingBottom: 1;
+}
+
+.EditTitleLabel {
+color: #ffffff;
+fontSize: 24;   
+fontFamily: bradley;
+textAlign: left;
+}
+
+.DamageLabel {
+color: #000000;
+fontSize: 120;
+fontFamily: bradley;
+textAlign: right;
+}
+
+.GameLobbyChatLabel {
+color: #ffffff;
+fontSize: 14;
+fontFamily: Palatino;
+fontWeight: bold;
+textAlign: center;
+}
+
+.GameLobbyLoadingLabel {
+color: #ffffff;
+fontSize: 14;
+fontFamily: bradley;
+fontWeight: bold;
+textAlign: left;
+}
+
+.ChatLabel {
+color: #ffffff;
+fontSize: 14;
+fontWeight: bold;
+textAlign: center;
+}
+
+.FeatInfoLabel {
+color: #C0C0C0;
+fontSize: 15;
+fontFamily: minchoB;
+textAlign: center;
+verticalCenter: 0;
+}
+
+.FeatInfoLabelFlash {
+color: #FFFF30;
+fontSize: 15;
+fontFamily: minchoB;
+textAlign: center;
+}
+
+.CharaCardFeatInfoLabel {
+color: #ffffff;
+fontSize: 10;
+fontFamily: mincho;
+leading: -3;
+letterSpacing: 1;
+}
+
+.CharaCardFeatSmallInfoLabel {
+color: #ffffff;
+fontSize: 9;
+fontFamily: mincho;
+leading: -3;
+letterSpacing: 1;
+}
+
+.RegistCharaCardInfoLabel {
+color: #ffffff;
+fontSize: 10;
+fontFamily: mincho;
+leading: 0;
+letterSpacing: 1;
+}
+
+.FeatInfoCaption {
+color: #FFFFFF;
+font-family: “Arial”;
+backgroundColor: #000000;
+backgroundAlpha: 0.8;
+textIndent: 1;
+fontSize: 12;
+leading: 2;
+borderStyle: none;
+}
+
+
+.CharaCardFeatNameLabel {
+color: #ffffff;
+fontSize: 11;
+fontFamily: minchoB;
+textAlign: left;
+letterSpacing: 2;
+}
+
+.CharaCardFeatNameLabelBlue {
+color: #0ee0fc;
+fontSize: 11;
+fontFamily: minchoB;
+textAlign: left;
+letterSpacing: 2;
+}
+
+.CharaCardPassiveNameLabel {
+color: #ffffff;
+fontSize: 14;
+fontFamily: minchoB;
+textAlign: left;
+letterSpacing: 2;
+}
+
+.CharaCardPassiveInfoLabel {
+color: #ffffff;
+fontSize: 10;
+fontFamily: mincho;
+leading: -3;
+letterSpacing: 1;
+}
+
+.ChatText {
+color: #ffffff;
+fontSize: 12;
+}
+
+.NewsPanel {
+color: #000000;
+fontFamily: bradley;
+letterSpacing: 4;
+fontSize: 10;
+borderStyle: none;
+}
+
+.LoginPanel {
+paddingTop: 45;
+color: #000000;
+fontFamily: bradley;
+letterSpacing: 2;
+fontSize: 9;
+borderStyle: none;
+}
+
+.LoginLabel {
+color: #ffffff;
+letterSpacing: 1;
+fontSize: 16;
+fontFamily: bradley;
+textAlign: center;
+paddingTop: 4;
+}
+
+.LoginText {
+color: #000000;
+textAlign: left;
+font-family: “Arial”;
+fontSize: 12;
+}
+
+.RegistCB {
+paddingBottom: 15;          
+textAlign: center;
+fontFamily: bradley;
+fontSize: 12;
+color: #ffffff;
+verticalAlign:top;
+}
+
+.LogArea {
+color: #FFFFFF;
+font-family: “Arial”;
+backgroundColor: #000000;
+backgroundAlpha: 0.0;
+textIndent: 1;
+fontSize: 10;
+leading: 2;
+borderStyle: none;
+}
+
+.NewsTextArea {
+color: #FFFFFF;
+font-family: “Arial”;
+letterSpacing: 1;
+backgroundAlpha: 0.0;
+borderStyle: none;
+}
+
+.LobbyNewsTextArea {
+color: #444444;
+font-family: “Arial”;
+letterSpacing: 1;
+backgroundAlpha: 0.9;
+borderStyle: none;
+}
+
+.GameChatArea {
+color: #FFFFFF;
+backgroundColor: #000000;
+backgroundAlpha: 0.9;
+textIndent: 1;
+fontSize: 10;
+leading: 2;
+borderStyle: none;
+verticalScrollBarStyleName: GameChatScrollBar;
+}
+
+.GameChatInput {
+color: #FFFFFF;
+leading: 0;
+backgroundColor: #ffffff;
+backgroundAlpha: 0.0;
+textIndent: 1;
+borderStyle: none;
+focusAlpha:0.0;
+paddingTop: -1;
+}
+
+
+.GameLobbyChatArea {
+color: #FFFFFF;
+font-family: “Arial”;
+backgroundColor: #000000;
+backgroundAlpha: 0.0;
+textIndent: 1;
+fontSize: 12;
+leading: 2;
+borderStyle: none;
+verticalScrollBarStyleName: LobbyChatScrollBar;
+}
+
+.GameLobbyChatInput {
+color: #000000;
+backgroundColor: #000000;
+backgroundAlpha: 0.0;
+textIndent: 1;
+borderStyle: none;
+focusAlpha:0.0;
+}
+
+.GameChatScrollBar {
+      upArrowDisableSkin: Embed("../image/chat_scrlbar_up0.png");
+      upArrowDownSkin: Embed("../image/chat_scrlbar_up1.png");
+      upArrowOverSkin: Embed("../image/chat_scrlbar_up2.png");
+      upArrowUpSkin: Embed("../image/chat_scrlbar_up3.png");
+
+      downArrowDisableSkin: Embed("../image/chat_scrlbar_down0.png");
+      downArrowDownSkin: Embed("../image/chat_scrlbar_down1.png");
+      downArrowOverSkin: Embed("../image/chat_scrlbar_down2.png");
+      downArrowUpSkin: Embed("../image/chat_scrlbar_down3.png");
+
+      thumbDisableSkin: Embed("../image/chat_scrlbar_cursor0.png",scaleGridLeft="2", scaleGridRight="5", scaleGridTop="3", scaleGridBottom="9");
+      thumbDownSkin: Embed("../image/chat_scrlbar_cursor1.png",scaleGridLeft="2", scaleGridRight="5", scaleGridTop="3", scaleGridBottom="9");
+      thumbOverSkin: Embed("../image/chat_scrlbar_cursor2.png",scaleGridLeft="2", scaleGridRight="5", scaleGridTop="3", scaleGridBottom="9");
+      thumbUpSkin: Embed("../image/chat_scrlbar_cursor3.png",scaleGridLeft="2", scaleGridRight="5", scaleGridTop="3", scaleGridBottom="9");
+
+
+
+      trackColors: #000000, #000000;
+
+}
+
+.SocialLogScrollBar {
+
+      upArrowDisableSkin: Embed("../image/common/scrlbar_up_log0.png");
+      upArrowDownSkin: Embed("../image/common/scrlbar_up_log2.png");
+      upArrowOverSkin: Embed("../image/common/scrlbar_up_log1.png");
+      upArrowUpSkin: Embed("../image/common/scrlbar_up_log0.png");
+
+      downArrowDisableSkin: Embed("../image/common/scrlbar_dn_log0.png");
+      downArrowDownSkin: Embed("../image/common/scrlbar_dn_log2.png");
+      downArrowOverSkin: Embed("../image/common/scrlbar_dn_log1.png");
+      downArrowUpSkin: Embed("../image/common/scrlbar_dn_log0.png");
+
+      thumbDisableSkin: Embed("../image/common/scrlbar_csr_log0.png",scaleGridLeft="2", scaleGridRight="5", scaleGridTop="3", scaleGridBottom="9");
+      thumbDownSkin: Embed("../image/common/scrlbar_csr_log1.png",scaleGridLeft="2", scaleGridRight="5", scaleGridTop="3", scaleGridBottom="9");
+      thumbOverSkin: Embed("../image/common/scrlbar_csr_log2.png",scaleGridLeft="2", scaleGridRight="5", scaleGridTop="3", scaleGridBottom="9");
+      thumbUpSkin: Embed("../image/common/scrlbar_csr_log2.png",scaleGridLeft="2", scaleGridRight="5", scaleGridTop="3", scaleGridBottom="9");
+
+      trackColors: #000000, #000000;
+}
+
+.LobbyChatScrollBar {
+
+      upArrowDisableSkin: Embed("../image/match/scl_chat_up0.png");
+      upArrowDownSkin: Embed("../image/match/scl_chat_up1.png");
+      upArrowOverSkin: Embed("../image/match/scl_chat_up1.png");
+      upArrowUpSkin: Embed("../image/match/scl_chat_up0.png");
+
+      downArrowDisableSkin: Embed("../image/match/scl_chat_dn0.png");
+      downArrowDownSkin: Embed("../image/match/scl_chat_dn1.png");
+      downArrowOverSkin: Embed("../image/match/scl_chat_dn1.png");
+      downArrowUpSkin: Embed("../image/match/scl_chat_dn0.png");
+
+      thumbDisableSkin: Embed("../image/match/scl_chat_bar0.png",scaleGridLeft="2", scaleGridRight="5", scaleGridTop="3", scaleGridBottom="9");
+      thumbDownSkin: Embed("../image/match/scl_chat_bar1.png",scaleGridLeft="2", scaleGridRight="5", scaleGridTop="3", scaleGridBottom="9");
+      thumbOverSkin: Embed("../image/match/scl_chat_bar1.png",scaleGridLeft="2", scaleGridRight="5", scaleGridTop="3", scaleGridBottom="9");
+      thumbUpSkin: Embed("../image/match/scl_chat_bar0.png",scaleGridLeft="2", scaleGridRight="5", scaleGridTop="3", scaleGridBottom="9");
+
+      trackSkin: Embed("../image/match/scl_chat_guide.png");
+
+      trackColors: #000000, #000000;
+}
+
+.RaidChatArea {
+color: #FFFFFF;
+font-family: “Arial”;
+backgroundColor: #000000;
+backgroundAlpha: 0.0;
+textIndent: 1;
+fontSize: 12;
+leading: 2;
+borderStyle: none;
+verticalScrollBarStyleName: RaidChatScrollBar;
+}
+
+.RaidChatInput {
+color: #000000;
+backgroundColor: #000000;
+backgroundAlpha: 0.0;
+textIndent: 1;
+borderStyle: none;
+focusAlpha:0.0;
+}
+
+.RaidChatScrollBar {
+
+      upArrowDisableSkin: Embed("../image/raid/scl_chat_up0.png");
+      upArrowDownSkin: Embed("../image/raid/scl_chat_up1.png");
+      upArrowOverSkin: Embed("../image/raid/scl_chat_up1.png");
+      upArrowUpSkin: Embed("../image/raid/scl_chat_up0.png");
+
+      downArrowDisableSkin: Embed("../image/raid/scl_chat_dn0.png");
+      downArrowDownSkin: Embed("../image/raid/scl_chat_dn1.png");
+      downArrowOverSkin: Embed("../image/raid/scl_chat_dn1.png");
+      downArrowUpSkin: Embed("../image/raid/scl_chat_dn0.png");
+
+      thumbDisableSkin: Embed("../image/raid/scl_chat_bar0.png",scaleGridLeft="2", scaleGridRight="5", scaleGridTop="3", scaleGridBottom="9");
+      thumbDownSkin: Embed("../image/raid/scl_chat_bar1.png",scaleGridLeft="2", scaleGridRight="5", scaleGridTop="3", scaleGridBottom="9");
+      thumbOverSkin: Embed("../image/raid/scl_chat_bar1.png",scaleGridLeft="2", scaleGridRight="5", scaleGridTop="3", scaleGridBottom="9");
+      thumbUpSkin: Embed("../image/raid/scl_chat_bar0.png",scaleGridLeft="2", scaleGridRight="5", scaleGridTop="3", scaleGridBottom="9");
+
+      trackSkin: Embed("../image/raid/scl_chat_guide.png");
+
+      trackColors: #000000, #000000;
+}
+
+.RaidChatChannelDropBox {
+fontFamily: minchoB;
+color: #000000;
+fontSize: 9;
+textAlign: center;
+letterSpacing: 1;
+paddingBottom: -1;
+cornerRadius :0;
+}
+
+.DeckLabel {
+color: #ffffff;
+fontSize: 28;
+fontFamily: bradley;
+textAlign: center;
+}
+
+.ResultLabel {
+color: #e0e0e0;
+fontSize: 24;
+fontFamily: bradley;
+textAlign: right;
+kernig: true;
+letterSpacing: 2;
+}
+
+.ResultGetLabel {
+color: #FFFFFF;
+fontSize: 24;
+fontFamily: mincho;
+textAlign: left;
+letterSpacing: 1;
+}
+
+.ResultCardNumLabel {
+color: #FFFFFF;
+fontSize: 24;
+fontFamily: bradley;
+textAlign: right;
+letterSpacing: 1;
+}
+
+.ResultNumericLabel {
+color: #000000;
+fontSize: 24;
+fontFamily: bradley;
+textAlign: right;
+letterSpacing: 1;
+}
+
+.ResultNameLabel {
+color: #000000;
+fontSize: 12;
+fontFamily: minchoB;
+textAlign: center;
+letterSpacing: 1;
+}
+
+.ResultTextLabel {
+color: #000000;
+fontSize: 9;
+fontFamily: minchoB;
+textAlign: center;
+letterSpacing: 1;
+}
+
+.DropTableLabel {
+color: #FFFFFF;
+fontSize: 25;
+fontFamily: minchoB;
+textAlign: left;
+}
+
+.PositionAreaLabel {
+color: #FFFFFF;
+fontSize: 14;
+fontFamily: bradley;
+textAlign: left;
+letterSpacing: 1;
+}
+
+
+.ChatTab {
+color: #000000;
+fontSize: 14;
+fontFamily: bradley;
+textAlign: center;
+kernig: true;
+letterSpacing: 2;
+
+}
+
+.SelectedChatTab {
+color: #ff3030;
+fontSize: 14;
+fontFamily: bradley;
+textAlign: center;
+kernig: true;
+letterSpacing: 2;
+
+}
+
+.StoryText {
+color: #ffffff;
+fontSize: 22;
+fontFamily: mincho;
+kernig: false;
+letterSpacing: 4;
+leading: 13;
+backgroundAlpha: 0.0;
+borderStyle: none;
+addingTop:12;
+}
+
+.StoryTitle {
+color: #ffffff;
+fontSize: 20;
+textAlign: center;
+fontFamily: minchoB;
+}
+
+.RegistName {
+color: #FFFFFF;
+backgroundColor: #000000;
+backgroundAlpha: 0.0;
+textAlign: center;
+textIndent: 1;
+fontSize: 14;
+leading: 2;
+borderStyle: none;
+cornerRadius: 3;
+forcusAlpha: 0.0;
+focusThickness :0;
+
+}
+
+.RegistStyleTypeLabel {
+color: #000000;
+textAlign: center;
+fontSize: 22;
+fontFamily: bradley;
+letterSpacing: 2;
+
+}
+.SoundSlider {
+dataTipPrecision: 0;
+showTrackHighlight: true;
+
+labelOffset: -10;
+thumbOffset: 6;
+tickOffset: -4;
+tickLength: 3;
+tickThickness: 0;
+invertThumbDirection: false;
+}
+
+.TimerSlider {
+dataTipPrecision: 0;
+showTrackHighlight: true;
+labelOffset: -10;
+thumbOffset: 6;
+tickOffset: -4;
+tickLength: 3;
+tickThickness: 0;
+invertThumbDirection: false;
+tickColor: #000000;
+}
+
+.CharaCardStatusTabLabel {
+font-family :Verdana;
+fontWeight: bold;
+color: #b3b3b3;
+fontSize: 9;
+textAlign: center;
+}
+
+
+.CharaCardStatusTabNameLabel {
+color: #3c3c3c;
+fontFamily: minchoB;
+fontSize: 14;
+textAlign: left;
+letterSpacing: 1;
+}
+
+.HitPoint {
+color: #ffffff;
+fontSize: 36;
+fontFamily: bradley;
+textAlign: right;
+kernig: true;
+letterSpacing: 2;
+}
+
+.HitPointRed {
+color: #ff7070;
+fontSize: 36;
+fontFamily: bradley;
+textAlign: right;
+kernig: true;
+letterSpacing: 2;
+}
+
+.HitPointYellow {
+color: #ffff30;
+fontSize: 36;
+fontFamily: bradley;
+textAlign: right;
+kernig: true;
+letterSpacing: 2;
+}
+
+.MaxHitPoint {
+color: #AAAAAA;
+fontSize: 18;
+fontFamily: bradley;
+textAlign: left;
+kernig: true;
+letterSpacing: 2;
+}
+
+.QuestItemTimer {
+textAlign: right;
+}
+
+.GetSendPanelMapApLabel {
+color: #000000;
+fontSize: 20;
+fontFamily: bradley;
+textAlign: center;
+kerning: true;
+}
+
+.LoginInfoTitle {
+color: #ffffff;
+fontSize: 16;
+fontFamily: minchoB;
+textAlign: center;
+kernig: true;
+}
+
+.LoginInfoLabel {
+color: #000000;
+fontSize: 16;
+textAlign: left;
+kernig: true;
+letterSpacing: 1;
+}
+
+.RaidInfoLabel {
+color: #FFFFFF;
+fontSize: 16;
+textAlign: left;
+kernig: true;
+letterSpacing: 1;
+}
+
+.TutorialTitle {
+color: #ffffff;
+fontSize: 12;
+fontFamily: minchoB;
+textAlign: center;
+kernig: true;
+}
+.LevelUpInfoLabel {
+color: #ffffff;
+fontSize: 14;
+fontFamily: mincho;
+leading: 0;
+letterSpacing: 1;
+textAlign: center;
+}
+
+.CreateRoomPanelName {
+color: #ffffff;
+fontSize: 14;
+textAlign: left;
+backgroundColor: #000000;
+backgroundAlpha: 0.4;
+borderStyle: none;
+}
+
+.ClearGaugeLabel {
+color: #FF1010;
+fontSize: 24;
+fontFamily: bradley;
+textAlign: center;
+letterSpacing: 2;
+kerning: true;
+}
+
+.QuestCaptionTitleLabel {
+color: #ffffff;
+fontSize: 16;
+fontFamily: minchoB;
+textAlign: right;
+kerning: true;
+letterSpacing: 2;
+}
+
+.QuestCaptionLabel {
+color: #ffffff;
+fontSize: 13;
+fontFamily: minchoB;
+textAlign: left;
+kerning: true;
+}
+
+.LoginMessageArea {
+color: #000000;
+fontSize: 12;
+kernig: true;
+textIndent: 1;
+letterSpacing: 1;
+backgroundColor: #000000;
+backgroundAlpha: 0.0;
+focusAlpha: 0.0;
+borderStyle: none;
+verticalScrollBarStyleName: GameChatScrollBar;
+}
+
+.LobbyNewsArea {
+color: #FFFFFF;
+font-family: “Arial”;
+backgroundColor: #000000;
+backgroundAlpha: 0.5;
+textIndent: 1;
+fontSize: 12;
+leading: 4;
+borderStyle: none;
+verticalScrollBarStyleName: GameChatScrollBar;
+}
+
+.ApRemainArea {
+color: #FFFFFF;
+backgroundColor: #000000;
+backgroundAlpha: 1.0;
+fontSize: 10;
+fontFamily: minchoB;
+textAlign: center;
+letterSpacing: 1;
+kerning: true;
+
+}
+
+.WaitingPanelLabel {
+color: #ffffff;
+fontSize: 12;
+fontFamily: minchoB;
+textAlign: left;
+kerning: true;
+
+}
+
+.RmShopNameLabel {
+color: #FFFFFF;
+font-family: “Arial”;
+textAlign: center;
+backgroundColor: #000000;
+backgroundAlpha: 0.5;
+textIndent: 1;
+fontSize: 12;
+leading: 4;
+borderStyle: none;
+verticalScrollBarStyleName: GameChatScrollBar;
+}
+
+.ChatChannelDropBox {
+fontFamily: minchoB;
+color: #000000;
+fontSize: 9;
+textAlign: center;
+letterSpacing: 1;
+paddingBottom: -1;
+cornerRadius :0;
+}
+
+.FriendButton {
+color: #ffffff;
+fontSize: 12;
+fontFamily: mincho;
+textAlign: center;
+kernig: true;
+}
+
+.FriendLevel {
+color: #ffffff;
+fontSize: 16;
+fontFamily: bradley;
+kernig: true;
+letterSpacing: 3;
+}
+
+.FriendName {
+color: #000000;
+fontSize: 12;
+kernig: true;
+textAlign: center;
+fontWeight: bold;
+}
+
+.FriendWaiting {
+color: #ffffff;
+textAlign: center;
+fontSize: 14;
+fontFamily: minchoB;
+kernig: true;
+letterSpacing: 3;
+}
+.NickName {
+color: #000000;
+fontSize: 12;
+kernig: true;
+textAlign: center;
+backgroundColor: #ffffff;
+backgroundAlpha: 0.4;
+}
+
+.GameChatName {
+color: #ffffff;
+fontSize: 12;
+textAlign: center;
+}
+
+.ItemListNumeric {
+color: #000000;
+fontSize: 12;
+fontFamily: minchoB;
+textAlign: right;
+}
+
+.ItemListCaption {
+color: #000000;
+fontSize: 12;
+fontFamily: minchoB;
+textAlign: left;
+}
+
+.AnnounceLabel {
+color: #000000;
+fontSize: 24;
+textAlign: left;
+}
+.TicketNum {
+color: #000000;
+fontSize: 24;
+fontFamily: bradley;
+textAlign: center;
+kernig: true;
+letterSpacing: 2;
+}
+.LotViewCaption {
+color: #000000;
+fontSize: 14;
+fontFamily: minchoB;
+textAlign: left;
+kerning: true;
+backgroundAlpha: 0.0;
+letterSpacing: 2;
+borderThickness: 0;
+focusThickness: 0;
+}
+.DuelBonusLabel {
+color: #e0e0e0;
+fontSize: 18;
+fontFamily: bradley;
+textAlign: left;
+kernig: true;
+letterSpacing: 2;
+}
+.PageLabel {
+textAlign: center;
+}
+
+.RankingLabel {
+color: #000000;
+fontSize: 16;
+fontFamily: bradley;
+textAlign: center;
+letterSpacing: 0;
+}
+
+.MyRankLabel {
+color: #000000;
+fontSize: 18;
+fontFamily: bradley;
+textAlign: center;
+letterSpacing: 1;
+}
+
+.RaidMyRankLabel {
+color: #000000;
+fontSize: 20;
+fontFamily: bradley;
+textAlign: center;
+letterSpacing: 1;
+}
+
+.RaidScoreLabel {
+color: #444444;
+fontSize: 28;
+fontFamily: bradley;
+textAlign: left;
+kernig: true;
+letterSpacing: 2;
+}
+
+.RaidCountLabel {
+color: #FFFFFF;
+fontSize: 40;
+fontFamily: bradley;
+textAlign: right;
+kernig: true;
+letterSpacing: 2;
+}
