@@ -1,0 +1,68 @@
+# Unlight
+# Copyright(c)2019 CPA
+# This software is released under the MIT License.
+# http://opensource.org/licenses/mit-license.php
+
+# -*- coding: utf-8 -*-
+require 'constants'
+
+module Unlight
+
+  # 暗号化クラス
+  class Crypt
+    # 単純なXOR処理を行うクラス
+    class XOR
+
+      # コンストラクタ（セッションキーを渡す）
+      def initialize(s_key)
+        @session_key = [s_key].pack('H*').unpack('C*')
+        alias :decrypt :encrypt
+      end
+
+      # 暗号化（String->Array）
+      def encrypt(data)
+        s = @session_key
+        slen =s.length
+        a = data.unpack("C*")
+        alen =a.length
+        des_a=[]
+        i=0
+        while i < alen
+          des_a[i]=a[i]^s[(i)%slen]
+          i+=1
+        end
+        des_a
+      end
+
+      def encrypt2(data)
+        @jit_func.call(data,@session_key)
+      end
+
+      def encrypt3(data)
+        s = @session_key
+        slen =s.length
+        a = data.unpack("C*")
+        alen =a.length
+        des_a=[]
+        i=0
+      end
+
+      def decrypt
+
+      end
+
+    end
+
+    # 暗号化をしない
+    class None
+      def encrypt(data)
+        data
+      end
+      def decrypt(data)
+        data
+      end
+    end
+
+  end
+
+end

@@ -1,0 +1,37 @@
+# Unlight
+# Copyright(c)2019 CPA
+# This software is released under the MIT License.
+# http://opensource.org/licenses/mit-license.php
+
+require 'rubygems'
+require 'sequel'
+require 'logger'
+require 'db_config'
+
+module Unlight
+  # ============== DB関連定数 ==================
+  #保存形式 :csv または:sqlite3,:mysql
+  unless $SERVER_NAME
+    $SERVER_NAME = "NOT_SV"
+  end
+  STORE_TYPE = :sqlite3
+  # memcached server
+  MEMCACHE_CONFIG = 'localhost:11211'
+  MEMCACHE_OPTIONS = {
+    :timeout =>1,
+    :namespace => 'unlight'
+  }
+
+  #mysql設定のデフォルト
+  MYSQL_CONFIG =  {
+    :host => "db",
+    :user => "unlight",
+    :password =>"unlight",
+    :database =>"unlight_db",
+    :encoding => 'utf8',
+    :max_connections => 5,
+    :loggers => Logger.new(File.dirname(__FILE__).gsub("src","")+"data/#{$SERVER_NAME}_mysqldb.log", 32, 10*1024*1024)
+  }
+
+
+end
