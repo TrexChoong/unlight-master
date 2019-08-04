@@ -1,0 +1,54 @@
+
+<flex-config>
+   <target-player>10.0.12</target-player>
+<compiler>
+  <external-library-path>
+    <path-element>../lib/as3crypto.swc</path-element>
+  </external-library-path>
+  <source-path>
+    <path-element>.</path-element>
+    <path-element>../lib</path-element>
+  </source-path>
+  <define>
+    <name>CONFIG::DEBUG</name>
+    <value>true</value>
+  </define>
+  <define>
+    <name>CONFIG::RELEASE</name>
+    <value>false</value>
+  </define>
+  <define>
+    <name>CONFIG::ACTION_CARD_CLICK</name>
+    <value>true</value>
+  </define>
+  <define>
+    <name>CONFIG::ACTION_CARD_DRAG</name>
+    <value>false</value>
+  </define>
+  <define>
+    <name>CONFIG::HAND_OLD</name>
+    <value>true</value>
+  </define>
+  <define>
+    <name>CONFIG::HAND_NEW</name>
+    <value>false</value>
+  </define>
+  <define>
+    <name>CONFIG::PAYMENT</name>
+    <value>true</value>
+  </define>
+  <define>
+    <name>CONFIG::NOT_PAYMENT</name>
+    <value>false</value>
+  </define>
+
+</compiler>
+<default-background-color>0x000000</default-background-color>
+<default-size>
+  <width>780</width>
+  <height>680</height>
+</default-size>
+<default-frame-rate>24</default-frame-rate>
+</flex-config>
+
+Unlight-config_sandbox.xml

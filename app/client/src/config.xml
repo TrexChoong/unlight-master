@@ -1,0 +1,14 @@
+<!-- クライアント用設定ファイル -->
+<XML>
+  <host>
+    <name>192.168.1.65</name>
+    <port>12001</port>
+    <state>1</state>
+    <news>testestes</news>
+  </host>
+  <conf>
+    <check_interval_sec>10</check_interval_sec>
+    <log_level>1</log_level>
+  </conf>
+</XML>
+

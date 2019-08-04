@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" xmlns="*"
+                layout="absolute"
+                creationComplete = "init()">
+
+  <mx:Style source = "../data/css/UL.css"/>
+  <!-- スクリプト -->
+  <mx:Script source="Main.as" />
+  <mx:Script source="FontLoader.as" />
+  <mx:Script source="Constants.as" />
+
+
+ </mx:Application>

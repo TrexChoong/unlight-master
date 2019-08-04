@@ -1,0 +1,179 @@
+package view.image.quest
+{
+
+    import flash.display.*;
+    import flash.events.*;
+    import flash.geom.*;
+
+    import org.libspark.thread.Thread;
+    import org.libspark.thread.utils.ParallelExecutor;
+
+    import view.*;
+    import view.utils.*;
+    import view.image.*;
+
+
+    import controller.QuestCtrl;
+
+    /**
+     * WorldMapImage表示クラス
+     *
+     */
+
+
+    public class WorldMapImage extends BaseImage
+    {
+        // MAP表示元SWF
+        [Embed(source="../../../../data/image/quest/map01.swf")]
+        private var _Source01:Class;
+        [Embed(source="../../../../data/image/quest/map02.swf")]
+        private var _Source02:Class;
+
+        private static const QUEST_BUTTON_A:String  ="btn_map01_a";
+        private static const QUEST_BUTTON_B:String  ="btn_map01_b";
+        private static const QUEST_BUTTON_C:String  ="btn_map01_c";
+        private static const QUEST_BUTTON_D:String  ="btn_map01_d";
+        private static const QUEST_BUTTON_E:String  ="btn_map01_e";
+        private static const QUEST_BUTTON_F:String  ="btn_map01_f";
+        private static const QUEST_BUTTON_G:String  ="btn_map01_g";
+        private static const QUEST_BUTTON_H:String  ="btn_map01_h";
+
+        private static const QUEST_ENABLE_A:String  ="map01_a";
+        private static const QUEST_ENABLE_B:String  ="map01_b";
+        private static const QUEST_ENABLE_C:String  ="map01_c";
+        private static const QUEST_ENABLE_D:String  ="map01_d";
+        private static const QUEST_ENABLE_E:String  ="map01_e";
+        private static const QUEST_ENABLE_F:String  ="map01_f";
+        private static const QUEST_ENABLE_G:String  ="map01_g";
+        private static const QUEST_ENABLE_H:String  ="map01_h";
+
+
+        private static const X:int = 0;
+        private static const Y:int = 0;
+        private static const MAP_NO:int = 0;
+        private static const MAP_REGION:int = 1;
+        public static const TYPE_FRAME:int  = 1;
+        public static const TYPE_PASS:int   = 2;
+        public static const TYPE_END:int    = 3;
+        public static const TYPE_START:int  = 4;
+
+        private const MAP_CLASS_SET:Array = [_Source01, _Source02]; /* of Class */ 
+
+        public static const MAP_BUTTON_SET:Array = [
+            [QUEST_BUTTON_A, QUEST_BUTTON_B, QUEST_BUTTON_C]
+            [QUEST_BUTTON_A, QUEST_BUTTON_B, QUEST_BUTTON_C, QUEST_BUTTON_D, QUEST_BUTTON_E, QUEST_BUTTON_F,QUEST_BUTTON_G, QUEST_BUTTON_H]
+            ]; /* of Strrig*/
+        public static const MAP_ENABLE_SET:Array = [
+            [QUEST_ENABLE_A, QUEST_ENABLE_B, QUEST_ENABLE_C]
+            [QUEST_ENABLE_A, QUEST_ENABLE_B, QUEST_ENABLE_C, QUEST_ENABLE_D, QUEST_ENABLE_E, QUEST_ENABLE_F,QUEST_ENABLE_G, QUEST_ENABLE_H]
+            ]; /* of Strrig*/
+
+        private static const BUTTON_NUM_SET:Array = [3,7]; /* of int */ 
+
+
+        private var _shadowLandButton:SimpleButton;
+        private var _fade:Boolean = false;
+        private var _ct:ColorTransform = new ColorTransform(0.3,0.3,0.3);// トーンを半分に
+        private var _ct2:ColorTransform = new ColorTransform(1.0,1.0,1.0);// トーンを半分に
+
+        private var _ctrl:QuestCtrl = QuestCtrl.instance;
+
+        private var _mapNo:int = 0;
+        private var _regionNo:int = 0;
+
+        private var _buttonSet:Array = []; /* of SimpleButton */ 
+        private var _mcSet:Vector.<MovieClip> = new Vector.<MovieClip>();
+
+
+
+
+        /**
+         * コンストラクタ
+         *
+         */
+        public function WorldMapImage(no:int = 0)
+        {
+
+            log.writeLog(log.LV_FATAL, this, "WORLD MAP NEW ", no);
+            _mapNo = Const.QUEST_FLAG_MAP[no][MAP_NO];
+            _regionNo = Const.QUEST_FLAG_MAP[no][MAP_REGION];
+            log.writeLog(log.LV_FATAL, this, "WORLD MAP NEW ", _mapNo);
+            log.writeLog(log.LV_FATAL, this, "WORLD MAP NEW ", _regionNo);
+            super();
+        }
+
+
+        protected override function get Source():Class
+        {
+            log.writeLog(log.LV_FATAL, this, "!!!!!!!!!!!!!!!!!!!!!!!!!", _mapNo);
+            return MAP_CLASS_SET[_mapNo];
+        }
+
+        override protected function swfinit(event: Event): void
+        {
+            super.swfinit(event);
+            SwfNameInfo.toLog(_root);
+//             for(var i:int = 0; i < BUTTON_NUM_SET[_mapNo]; i++){
+//                 _buttonSet.push(SimpleButton(_root.getChildByName(MAP_BUTTON_SET[_mapNo][i])));
+//                 _mcSet.push(SimpleButton(_root.getChildByName(MAP_ENABLE_SET[_mapNo][i])));
+//                 if (_regionNo < i)
+//                 {
+//                     _buttonSet[i].visible = false;
+//                     _mcSet[i].visible = false;
+//                 }
+//             }
+        }
+
+        public function setFade(b:Boolean):void
+        {
+            _fade = b;
+            waitComplete(setFadeImage);
+        }
+
+        private function setFadeImage():void
+        {
+            if (_fade)
+            {
+                _root.transform.colorTransform = _ct;
+                enabled = false;
+                mouseEnabled = false;
+                mouseChildren = false;
+
+            }else{
+                _root.transform.colorTransform = _ct2;
+                enabled = true;
+                mouseEnabled = true;
+                mouseChildren = true;
+            }
+        }
+
+
+
+        public override function init():void
+        {
+//             _shadowLandButton.addEventListener(MouseEvent.CLICK, shadowLandClickHandler)
+        }
+
+        public  override function final():void
+        {
+//             _shadowLandButton.removeEventListener(MouseEvent.CLICK, shadowLandClickHandler)
+
+        }
+
+        private function shadowLandClickHandler(e:MouseEvent):void
+        {
+            _ctrl.requestQuestMapInfo(0);
+        }
+
+
+
+        public function getReligion(sb:*):int
+        {
+            return _buttonSet.indexOf(sb)+1+Const.QUEST_MAP_NUM[_mapNo];
+        }
+
+
+    }
+
+}
+
