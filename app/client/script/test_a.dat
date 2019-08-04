@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" xmlns="*"
+                xmlns:flexunit="flexunit.flexui.*"
+                creationComplete="onCreationComplete()">
+    <mx:Script>
+        <![CDATA[
+            import flexunit.framework.TestSuite;
+            private function onCreationComplete():void {
+                 log.onTestMode();
+                 testRunner.test = createSuite();
+                 testRunner.startTest();
+            }
+            private function createSuite():TestSuite {
+                 var suite:TestSuite = new TestSuite();

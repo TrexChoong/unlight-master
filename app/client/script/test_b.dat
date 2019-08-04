@@ -1,0 +1,6 @@
+                 return suite;
+             }
+        ]]>
+    </mx:Script>
+    <flexunit:TestRunnerBase id="testRunner" width="100%" height="100%" />
+</mx:Application>

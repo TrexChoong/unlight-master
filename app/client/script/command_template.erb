@@ -1,0 +1,55 @@
+package net.command
+{
+    import flash.utils.ByteArray;
+    import net.server.<%=out.capitalize%>Server;
+
+    /**
+     * サーバとのコマンドを管理するクラス
+     * （自動生成される rake update_command）
+     */
+
+    public class <%=out.capitalize%>Command extends Command
+    {
+       private var server:<%=out.capitalize%>Server;
+       public function <%=out.capitalize%>Command(s:<%=out.capitalize%>Server)
+        {
+            server =s;
+<%= rec_cmd_list %>
+        }
+// 送信コマンド
+<% r.each_index do |i|
+        arg = ""
+        if RECEIVE_COMMANDS[i][1]
+          RECEIVE_COMMANDS[i][1].each do |c|
+            arg << "#{c[0]}:"
+            arg << gen_arg(c[1])
+            arg << ", "
+          end
+        end
+%>
+     public function <%=r[i]%>(<%=arg[0..-3]%>):ByteArray
+     {
+        var cmd:ByteArray = new ByteArray();
+            cmd.writeShort(<%=i%>);
+<%= gen_send(RECEIVE_COMMANDS[i][1]) %>
+            return cmd;
+        }
+<% end %>
+// 受信コマンド
+<%      s.each_index do |i|
+        arg = ""
+          if SEND_COMMANDS[i][1]
+            SEND_COMMANDS[i][1].each do |c|
+              arg << "#{c[0]}"
+              arg << ", "
+            end
+          end
+%>
+     private function <%=s[i]%>(ba:ByteArray):void
+     {
+<%=gen_rec(SEND_COMMANDS[i][1],SEND_COMMANDS[i][2])%>            server.<%=s[i]%>(<%=arg[0..-3]%>);
+      }
+
+<%end%>
+    }
+}

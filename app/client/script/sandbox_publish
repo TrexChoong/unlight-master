@@ -1,0 +1,43 @@
+#!/bin/sh
+echo  " バージョンファイルを更新"
+ruby ./script/update_version_file.rb
+echo "リソースファイル言語切り換え"
+ruby script/switch_resorce.rb
+# # SBの場合のみ、一部ファイルを上書き
+# cp /home/unlight/server/src/constants/locale_constants.rb_sb /home/unlight/svn/trunk/app/server/src/constants/locale_constants.rb
+echo "定数ファイルを作成"
+ruby script/create_const_data.rb -s
+echo "フォントを作るためにDBからファイルを引き出す"
+cd /unlight/server/
+ruby ./script/backup_db.rb
+# echo "フォント元のファイルを待避"
+# cp -f /unlight/client/src/FontLoader.as /unlight/client/src/FontLoader.orig
+echo "フォント用のファイルを作る"
+ruby ./script/create_font_swf.rb
+# echo "出来たフォントをコンパイル環境にコピーする"
+# cp -f /home/unlight/sand_box_admintool/app/client/src/FontLoader.as /home/unlight/svn/trunk/app/client/src/FontLoader.as
+echo "コンフィグファイルのオリジナルを待避、サンドボックス用のをコピー"
+cd /unlight/client/
+mv ./src/Unlight-config.xml ./src/Unlight-config.orig
+cp -f ./src/Unlight-config_sandbox.xml ./src/Unlight-config.xml
+echo "コンパイル"
+unset DISPLAY
+/flex-sdk/bin/mxmlc ./src/Unlight.mxml
+echo "config.xmlとnews.xmlを作る"
+cp -f ./public/config.xml.orig ./public/config.xml
+cp -f ./public/news.xml.orig ./public/news.xml
+echo "出来たデータをwwwにコピー"
+# cp ./src/Unlight.swf /unlight/www/
+cp ./src/Unlight.swf /var/www/html
+# echo " 暗号化をON"
+# ./script/put_swf_md5_dust.sh ./public/image
+echo  "public以下もコピー"
+find /unlight/www/public/image/ -type f -name "*.swf*" -delete
+cp -rf ./public /var/www/html
+find /unlight/www/public -regex ".*svn.*"|xargs rm -rf
+echo "待避したコンフィグファイルを戻す"
+cp -f ./src/Unlight-config.orig ./src/Unlight-config.xml
+# echo "待避したフォントファイルも戻す"
+# cp /unlight/client/src/FontLoader.orig /home/unlight/svn/trunk/app/client/src/FontLoader.as
+# echo "暗号化をOFF"
+# ./script/pull_swf_md5_dust.sh ./public/image

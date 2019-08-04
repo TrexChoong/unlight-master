@@ -1,0 +1,30 @@
+#!/bin/sh
+echo  " バージョンファイルを更新"
+ruby ./script/update_version_file.rb
+echo "リソースファイル言語切り換え"
+ruby script/switch_resorce.rb
+echo "定数ファイルを作成"
+ruby script/create_const_data.rb -j
+echo "フォントを作るためにDBからファイルを引き出す"
+cd /home/unlight/svn/trunk/app/server/
+ruby ./script/backup_db.rb
+echo "フォント用のファイルを作る"
+ruby ./script/create_font_swf.rb
+echo "コンフィグファイルのオリジナルを待避、サンドボックス用のをコピー"
+cd /home/unlight/svn/trunk/app/client/
+cp -f ./src/Unlight-config.xml ./src/Unlight-config.orig
+cp -f ./src/Unlight-config_release.xml ./src/Unlight-config.xml
+echo "コンパイル"
+/usr/local/lib/flex3/bin/mxmlc ./src/Unlight.mxml
+echo "出来たデータをwwwにコピー"
+cp ./src/Unlight.swf /home/www/
+eho "暗号化をON"
+./script/put_swf_md5_dust.sh ./public/image
+echo "public以下もコピー"
+find /home/www/public/image/ -type f -name "*.swf*" -delete
+cp -rf ./public /home/www/
+find /home/www/public -regex ".*svn.*"|xargs rm -rf
+echo "待避したコンフィグファイルを戻す"
+mv ./src/Unlight-config.orig ./src/Unlight-config.xml
+echo "暗号化をOFF"
+./script/pull_swf_md5_dust.sh ./public/image
